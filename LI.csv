@@ -1,0 +1,143 @@
+﻿nb de fig par unité;nom de l'unité;faction;coût de l'unité;système de jeu
+1;Archmagos Prime;Mechanicum;25;LI
+1;Archmagos Prime on Abeyant;Mechanicum;45;LI
+5;Adsecularis Tech-thrall Covenant;Mechanicum;40;LI
+2;Thallax Cohort;Mechanicum;25;LI
+1;Tech-Priest Auxilia;Mechanicum;15;LI
+2;Myrmidon Secutor Host;Mechanicum;30;LI
+2;Myrmidon Destructor Host;Mechanicum;30;LI
+1;Arlatax Battle-automata Maniple;Mechanicum;40;LI
+1;Domitar Battle-automata Maniple;Mechanicum;35;LI
+2;Castellax Battle-automata Maniple;Mechanicum;70;LI
+2;Ursarax Cohort;Mechanicum;30;LI
+1;Vorax Battle-automata Maniple;Mechanicum;40;LI
+1;Vultarax Stratos-automata Squadron;Mechanicum;35;LI
+2;Thanatar Siege-automata Maniple;Mechanicum;110;LI
+1;Karacnos Assault-tank Squadron;Mechanicum;40;LI
+3;Krios Battle-tank Squadron;Mechanicum;100;LI
+2;Krios Venator Squadron;Mechanicum;60;LI
+1;Triaros Armoured Conveyor;Mechanicum;22;LI
+1;Cortex Controller;Mechanicum;10;LI
+1;Legion Command Squad;Legiones Astartes;25;LI
+1;Legion Rhino Detachment;Legiones Astartes;10;LI
+4;Legion Tactical Detachment;Legiones Astartes;35;LI
+4;Legion Plasma Gun Support Detachment;Legiones Astartes;35;LI
+4;Legion Missile Launcher Support Detachment;Legiones Astartes;50;LI
+4;Legion Assault Detachment;Legiones Astartes;30;LI
+4;Legion Terminator Detachment;Legiones Astartes;50;LI
+2;Legion Rapier Battery Detachment;Legiones Astartes;40;LI
+4;Leviathan Siege Dreadnought Detachment;Legiones Astartes;75;LI
+4;Legion Contemptor Dreadnought Talon;Legiones Astartes;70;LI
+4;Legion Tarantula Battery;Legiones Astartes;36;LI
+4;Legion Deredeo Dreadnought Detachment;Legiones Astartes;85;LI
+3;Legion Predator Squadron;Legiones Astartes;115;LI
+2;Legion Sicaran Squadron;Legiones Astartes;90;LI
+2;Legion Kratos Squadron;Legiones Astartes;140;LI
+1;Legion Xiphon Interceptor Squadron;Legiones Astartes;95;LI
+1;Legion Storm Eagle Squadron;Legiones Astartes;85;LI
+1;Legion Fire Raptor Squadron;Legiones Astartes;100;LI
+1;Legion Thunderhawk Gunship;Legiones Astartes;150;LI
+2;Legion Outrider Squadron;Legiones Astartes;25;LI
+3;Legion Scimitar Jetbike Squadron;Legiones Astartes;35;LI
+2;Legion Land Speeder Squadron;Legiones Astartes;30;LI
+2;Legion Javelin Squadron;Legiones Astartes;35;LI
+1;Legion Spartan Detachment;Legiones Astartes;70;LI
+1;Legion Land Raider Detachment;Legiones Astartes;35;LI
+1;Legion Drop Pod Detachment;Legiones Astartes;10;LI
+1;Dreadnought Drop Pod Detachment;Legiones Astartes;12;LI
+2;Legion Deathstorm Drop Pod Battery;Legiones Astartes;40;LI
+2;Legion Sicaran Punisher Squadron;Legiones Astartes;90;LI
+2;Legion Sicaran Arcus Squadron;Legiones Astartes;95;LI
+4;Legion Sabre Squadron;Legiones Astartes;120;LI
+1;Legion Termite Detachment;Legiones Astartes;14;LI
+1;Legion Kratos Commander;Legiones Astartes;100;LI
+1;Legion Sicaran Commander;Legiones Astartes;70;LI
+1;Legion Predator Commander;Legiones Astartes;60;LI
+2;Legion Scorpius Battery;Legiones Astartes;100;LI
+2;Legion Whirlwind Battery;Legiones Astartes;90;LI
+1;Legion Mastodon Squadron;Legiones Astartes;130;LI
+1;Legion Typhon Squadron;Legiones Astartes;80;LI
+1;Legion Cerberus Squadron;Legiones Astartes;85;LI
+4;Legion Vindicator Squadron;Legiones Astartes;140;LI
+1;Legion Palisade Drop Pod;Legiones Astartes;25;LI
+2;Legion Sicaran Omega Squadron;Legiones Astartes;90;LI
+1;Legion Saturnine Command;Legiones Astartes;50;LI
+3;Legion Saturnine Terminator Detachment;Legiones Astartes;85;LI
+2;Legion Saturnine Dreadnought Detachment;Legiones Astartes;70;LI
+1;Araknae Weapons Platform Battery;Legiones Astartes;30;LI
+1;Legion Falchion Squadron;Legiones Astartes;130;LI
+1;Legion Ascalon Squadron;Legiones Astartes;110;LI
+1;Legion Glaive Squadron;Legiones Astartes;110;LI
+1;Legion Fellblade Squadron;Legiones Astartes;120;LI
+1;Demi-company Rhinos;Legiones Astartes;10;LI
+1;Storm Eagle Dedicated Transports;Legiones Astartes;85;LI
+1;Thunderhawk Dedicated Transports;Legiones Astartes;150;LI
+1;Tank Commander;Solar Auxilia;10;LI
+1;Auxilia Dracosan Detachment;Solar Auxilia;42;LI
+1;Archmagos Prime;Dark Mechanicum;25;LI
+1;Archmagos Prime on Abeyant;Dark Mechanicum;45;LI
+5;Adsecularis Tech-thrall Covenant;Dark Mechanicum;40;LI
+2;Thallax Cohort;Dark Mechanicum;25;LI
+1;Tech-Priest Auxilia;Dark Mechanicum;15;LI
+2;Myrmidon Secutor Host;Dark Mechanicum;30;LI
+2;Myrmidon Destructor Host;Dark Mechanicum;30;LI
+2;Ursarax Cohort;Dark Mechanicum;30;LI
+1;Karacnos Assault-tank Squadron;Dark Mechanicum;40;LI
+3;Krios Battle-tank Squadron;Dark Mechanicum;100;LI
+1;Triaros Armoured Conveyor;Dark Mechanicum;22;LI
+1;Scintillax;Dark Mechanicum;75;LI
+1;Errax;Dark Mechanicum;45;LI
+4;Harpax;Dark Mechanicum;30;LI
+1;Tenebrax;Dark Mechanicum;35;LI
+2;Serperos;Dark Mechanicum;175;LI
+1;Legate Commander Detachment;Solar Auxilia;16;LI
+1;Auxilia Tactical Command;Solar Auxilia;10;LI
+4;Auxilia Lasrifle Tercio;Solar Auxilia;30;LI
+4;Auxilia Ogryn Charonite Section;Solar Auxilia;70;LI
+4;Auxilia Veletaris Storm Section;Solar Auxilia;40;LI
+4;Auxilia Rapier Battery;Solar Auxilia;60;LI
+3;Auxilia Tarantula Battery;Solar Auxilia;30;LI
+2;Auxilia Aethon Heavy Sentinel Patrol;Solar Auxilia;35;LI
+4;Leman Russ Strike Squadron;Solar Auxilia;160;LI
+2;Malcador Tank Squadron;Solar Auxilia;150;LI
+1;Auxilia Baneblade Squadron;Solar Auxilia;100;LI
+1;Auxilia Thunderbolt Squadron;Solar Auxilia;80;LI
+1;Auxilia Avenger Strike Fighter Squadron;Solar Auxilia;85;LI
+1;Auxilia Lightning Fighter Squadron;Solar Auxilia;85;LI
+1;Auxilia Marauder Bomber Squadron;Solar Auxilia;85;LI
+1;Auxilia Arvus Lighter;Solar Auxilia;12;LI
+2;Auxilia Cyclops Detachment;Solar Auxilia;40;LI
+1;Auxilia Malcador Infernus Squadron;Solar Auxilia;60;LI
+1;Auxilia Valdor Squadron;Solar Auxilia;60;LI
+1;Auxilia Stormhammer Squadron;Solar Auxilia;100;LI
+4;Auxilia Medusa Battery;Solar Auxilia;120;LI
+4;Auxilia Basilisk Battery;Solar Auxilia;130;LI
+4;Leman Russ Exterminator Squadron;Solar Auxilia;160;LI
+4;Leman Russ Executioner Squadron;Solar Auxilia;160;LI
+4;Leman Russ Demolisher Squadron;Solar Auxilia;165;LI
+4;Leman Russ Annihilator Squadron;Solar Auxilia;170;LI
+1;Auxilia Shadowsword Squadron;Solar Auxilia;120;LI
+1;Auxilia Stormsword Squadron;Solar Auxilia;100;LI
+1;Auxilia Stormblade Squadron;Solar Auxilia;110;LI
+4;Leman Russ Vanquisher Squadron;Solar Auxilia;175;LI
+2;Malcador Vanquisher Squadron;Solar Auxilia;160;LI
+2;Malcador Annihilator Squadron;Solar Auxilia;150;LI
+1;Auxilia Hellhammer Squadron;Solar Auxilia;100;LI
+1;Warhound Hunting Pack;strategic;300;LI
+1;Dire Wolf Heavy Scout Titan;strategic;350;LI
+1;Reaver Battle Titan;strategic;400;LI
+1;Warbringer Nemesis Titan;strategic;525;LI
+1;Warlord Battle Titan;strategic;600;LI
+1;Warlord-Sinister Battle Titan;strategic;675;LI
+1;Warmaster Heavy Battle Titan;strategic;850;LI
+1;Warmaster Iconoclast Titan;strategic;850;LI
+3;Knight Armiger Talon;strategic;120;LI
+3;Mechanicum Knight Moirax Talon;strategic;135;LI
+1;Questoris Knight Banner;strategic;130;LI
+1;Cerastus Knight Banner;strategic;160;LI
+1;Acastus Knight Porphyrion Banner;strategic;230;LI
+1;Questoris Mechanicum Knight Banner;strategic;140;LI
+1;Cerastus Knight Atrapos Banner;strategic;180;LI
+1;Acastus Knight Asterius Banner;strategic;240;LI
+1;Legion Command Detachment;Legiones Astartes;285;LI
+4;Legion Rapier Battery;Legiones Astartes;175;LI

@@ -1,0 +1,621 @@
+﻿nb de fig par unité;nom de l'unité;faction;coût de l'unité;système de jeu
+1;Theoden, King of Rohan;Rohan;75;MESBG
+1;Theoden, King of Rohan (Armoured horse);Rohan;90;MESBG
+1;Theoden, King of Rohan (Horse);Rohan;85;MESBG
+1;Théodred, Heir of Rohan;Rohan;80;MESBG
+1;Théodred, Heir of Rohan (Horse);Rohan;90;MESBG
+1;Éomer, Marshal of the Riddermark;Rohan;100;MESBG
+1;Éomer, Marshal of the Riddermark (Armoured horse);Rohan;115;MESBG
+1;Éomer, Marshal of the Riddermark (Horse);Rohan;110;MESBG
+1;Éowyn, Shield Maiden of Rohan;Rohan;40;MESBG
+1;Éowyn, Shield Maiden of Rohan (Horse);Rohan;50;MESBG
+1;Meriadoc Brandybuck, Knight of the Mark;Rohan;25;MESBG
+1;Meriadoc Brandybuck, Knight of the Mark (Pony);Rohan;30;MESBG
+1;Erkenbrand, Captain of Rohan;Rohan;75;MESBG
+1;Erkenbrand, Captain of Rohan (Horse);Rohan;85;MESBG
+1;Gamling, Captain of Rohan;Rohan;55;MESBG
+1;Gamling, Captain of Rohan (Horse);Rohan;65;MESBG
+1;Hama, Captain of Rohan;Rohan;55;MESBG
+1;Hama, Captain of Rohan (Horse);Rohan;65;MESBG
+1;Grimbold of Grimslade;Rohan;60;MESBG
+1;Eorl the Young;Rohan;115;MESBG
+1;King's Huntsman;Rohan;50;MESBG
+1;Captain of Rohan;Rohan;45;MESBG
+1;Captain of Rohan (Horse);Rohan;55;MESBG
+2;Dernhelm;Rohan;75;MESBG
+2;Elladan & Elrohir;Rivendell;160;MESBG
+2;Elladan & Elrohir (Horse);Rivendell;180;MESBG
+1;Elfhelm, Captain of Rohan;Rohan;65;MESBG
+1;Elfhelm, Captain of Rohan (Horse);Rohan;75;MESBG
+1;Deorwine, Chief of the King's Knights;Rohan;75;MESBG
+1;Deorwine, Chief of the King's Knights (Horse);Rohan;85;MESBG
+1;The Witch-King of Angmar;Mordor;70;MESBG
+1;The Witch-King of Angmar (Armoured Fell Beast);Mordor;140;MESBG
+1;The Witch-King of Angmar (Fell Beast);Mordor;120;MESBG
+1;The Witch-King of Angmar (Armoured Horse);Mordor;85;MESBG
+1;The Witch-King of Angmar (Horse);Mordor;80;MESBG
+1;Khamul the Easterling;Mordor;120;MESBG
+1;Khamul the Easterling (Armoured Fell Beast);Mordor;190;MESBG
+1;Khamul the Easterling (Fell Beast);Mordor;170;MESBG
+1;Khamul the Easterling (Armoured Horse);Mordor;135;MESBG
+1;Khamul the Easterling (Horse);Mordor;130;MESBG
+1;The Dark Marshal;Mordor;120;MESBG
+1;The Dark Marshal (Armoured Fell Beast);Mordor;190;MESBG
+1;The Dark Marshal (Fell Beast);Mordor;170;MESBG
+1;The Dark Marshal (Armoured Horse);Mordor;135;MESBG
+1;The Dark Marshal (Horse);Mordor;130;MESBG
+1;The Shadow Lord;Mordor;120;MESBG
+1;The Shadow Lord (Armoured Fell Beast);Mordor;190;MESBG
+1;The Shadow Lord (Fell Beast);Mordor;170;MESBG
+1;The Shadow Lord (Horse);Mordor;130;MESBG
+1;The Undying;Mordor;120;MESBG
+1;The Undying (Armoured Fell Beast);Mordor;190;MESBG
+1;The Undying (Fell Beast);Mordor;170;MESBG
+1;The Undying (Horse);Mordor;130;MESBG
+1;The Knight of Umbar;Mordor;120;MESBG
+1;The Knight of Umbar (Armoured Fell Beast);Mordor;190;MESBG
+1;The Knight of Umbar (Fell Beast);Mordor;170;MESBG
+1;The Knight of Umbar (Horse);Mordor;130;MESBG
+1;The Betrayer;Mordor;120;MESBG
+1;The Betrayer (Armoured Fell Beast);Mordor;190;MESBG
+1;The Betrayer (Fell Beast);Mordor;170;MESBG
+1;The Betrayer (Horse);Mordor;130;MESBG
+1;Gothmog, Lieutenant of Sauron;Mordor;130;MESBG
+1;Gothmog, Lieutenant of Sauron (Warg);Mordor;140;MESBG
+1;The Mouth of Sauron;Mordor;70;MESBG
+1;The Mouth of Sauron (Armoured horse);Mordor;85;MESBG
+1;Shagrat, Captain of Cirith Ungol;Mordor;100;MESBG
+1;Gorbag, Orc Captain;Mordor;55;MESBG
+1;Grishnakh, Orc Captain;Mordor;50;MESBG
+1;Snaga, Orc Captain;Isengard;50;MESBG
+1;Kardush the Firecaller;Mordor;60;MESBG
+1;Morannon Orc Captain;Mordor;50;MESBG
+1;Captain of the Black Guard;Mordor;65;MESBG
+1;Black Guard Drummer;Mordor;35;MESBG
+1;Mordor Uruk-Hai Captain;Mordor;55;MESBG
+2;Great Beast of Gorgoroth;Mordor;150;MESBG
+1;The Tainted;Mordor;120;MESBG
+1;The Tainted (Armoured fell beast);Mordor;190;MESBG
+1;The Tainted (Fell beast);Mordor;170;MESBG
+1;The Tainted (Armoured horse);Mordor;135;MESBG
+1;The Tainted (Horse);Mordor;130;MESBG
+1;The Dwimmerlaik;Mordor;120;MESBG
+1;The Dwimmerlaik (Armoured fell beast);Mordor;190;MESBG
+1;The Dwimmerlaik (Fell beast);Mordor;170;MESBG
+1;The Dwimmerlaik (Armoured horse);Mordor;135;MESBG
+1;The Dwimmerlaik (Horse);Mordor;130;MESBG
+1;Ringwraith;Mordor;55;MESBG
+1;Ringwraith (Armoured fell beast);Mordor;125;MESBG
+1;Ringwraith (Fell beast);Mordor;105;MESBG
+1;Ringwraith (Horse);Mordor;65;MESBG
+1;Orc Captain;Mordor;40;MESBG
+1;Orc Captain (Warg);Mordor;50;MESBG
+1;Angmar Orc Captain;Angmar;40;MESBG
+1;Angmar Orc Captain (Warg);Angmar;50;MESBG
+1;Orc Taskmaster;Mordor;50;MESBG
+1;Black Numenorean Marshal;Mordor;65;MESBG
+1;Black Numenorean Marshal (Armoured horse);Mordor;80;MESBG
+1;Mordor Troll Chieftain;Mordor;140;MESBG
+1;Orc Shaman;Mordor;50;MESBG
+1;Orc Shaman (Warg);Mordor;60;MESBG
+1;Angmar Orc Shaman;Angmar;50;MESBG
+1;Angmar Orc Shaman (Warg);Angmar;60;MESBG
+1;Shelob;Mordor;90;MESBG
+1;Orc Drummer;Mordor;30;MESBG
+1;Gildor Inglorion;Rivendell;70;MESBG
+1;Goroth, Captain of the Morannon;Mordor;80;MESBG
+1;Gothmog's Enforcer;Mordor;60;MESBG
+1;Guritz, Master of Reserves;Mordor;60;MESBG
+1;Zagdush, Orc Captain;Mordor;60;MESBG
+1;Gil-Galad, High King of the Elves;Rivendell;170;MESBG
+1;Gil-Galad, High King of the Elves (Horse);Rivendell;180;MESBG
+1;Elrond, Master of Rivendell;Rivendell;170;MESBG
+1;Elrond, Master of Rivendell (Horse);Rivendell;180;MESBG
+1;Glorfindel, Lord of the West;Rivendell;145;MESBG
+1;Glorfindel, Lord of the West (Asfaloth);Rivendell;155;MESBG
+1;Erestor;Rivendell;85;MESBG
+1;Arwen Undomiel;Rivendell;60;MESBG
+1;Arwen Undomiel (Asfaloth);Rivendell;70;MESBG
+1;Arwen Undomiel (Horse);Rivendell;70;MESBG
+1;Lindir of Rivendell;Rivendell;65;MESBG
+1;Lindir of Rivendell (Horse);Rivendell;75;MESBG
+1;Cirdan;Rivendell;80;MESBG
+1;High Elf Captain;Rivendell;75;MESBG
+1;High Elf Captain (Horse);Rivendell;85;MESBG
+1;High Elf Stormcaller;Rivendell;60;MESBG
+1;Aragorn - Strider;The Rangers;160;MESBG
+1;Aragorn - Strider (Horse);The Rangers;170;MESBG
+1;Arathorn;The Rangers;75;MESBG
+1;Halbarad;The Rangers;70;MESBG
+1;Halbarad (Horse);The Rangers;80;MESBG
+1;Ranger of the North;The Rangers;30;MESBG
+1;Ranger of the North (Horse);The Rangers;40;MESBG
+1;Dunedain;The Rangers;25;MESBG
+1;Boromir, Captain of the White Tower;Minas Tirith;160;MESBG
+1;Boromir, Captain of the White Tower (Horse);Minas Tirith;170;MESBG
+1;Gandalf the White;Minas Tirith;220;MESBG
+1;Gandalf the White (Shadowfax);Minas Tirith;240;MESBG
+1;Hurin the Tall, Warden of the Keys;Minas Tirith;80;MESBG
+1;Hurin the Tall, Warden of the Keys (Horse);Minas Tirith;90;MESBG
+1;Shade (old);Angmar;100;MESBG
+1;Barrow-Wight;Angmar;50;MESBG
+1;Faramir, Captain of Gondor;Minas Tirith;80;MESBG
+1;Faramir, Captain of Gondor (Armoured Horse);Minas Tirith;95;MESBG
+1;Faramir, Captain of Gondor (Horse);Minas Tirith;90;MESBG
+1;Mablung, Ranger of Ithilien;Minas Tirith;35;MESBG
+1;Dain Ironfoot, Lord of the Iron Hills;The Iron Hills;140;MESBG
+1;Dain Ironfoot, Lord of the Iron Hills (War boar);The Iron Hills;160;MESBG
+1;Dain Ironfoot, King Under the Mountain;Erebor Reclaimed;130;MESBG
+1;Thorin III Stonehelm;Erebor Reclaimed;110;MESBG
+2;Murin & Drar;The Iron Hills;140;MESBG
+2;Murin & Drar (Wanderers);Wanderers in the Wild;140;MESBG
+1;Saruman;Isengard;180;MESBG
+1;Saruman (Horse);Isengard;190;MESBG
+1;Saruman the White;The White Council;170;MESBG
+1;Saruman the White (Horse);The White Council;180;MESBG
+1;Lurtz;Isengard;90;MESBG
+1;Ugluk;Isengard;65;MESBG
+1;Sharku;Isengard;50;MESBG
+1;Sharku (Warg);Isengard;60;MESBG
+1;Vrasku;Isengard;65;MESBG
+1;Mauhur;Isengard;60;MESBG
+1;Uruk-Hai Scout Captain;Isengard;55;MESBG
+1;Uruk-Hai Drummer;Isengard;35;MESBG
+1;Damrod, Ranger of Ithilien;Minas Tirith;25;MESBG
+1;Aragorn - King Elessar;Minas Tirith;225;MESBG
+1;Aragorn - King Elessar (Armoured Horse);Minas Tirith;240;MESBG
+1;Knight of the White Tower;Minas Tirith;60;MESBG
+1;Beregond, Guard of the Citadel;Minas Tirith;30;MESBG
+1;Beregond, Guard of the Citadel (Horse);Minas Tirith;35;MESBG
+1;Peregrin Took, Guard of the Citadel;Minas Tirith;25;MESBG
+1;Cirion, Lieutenant of Amon Barad;Minas Tirith;55;MESBG
+1;Earnur, Last King of Gondor;Minas Tirith;100;MESBG
+1;Earnur, Last King of Gondor (Armoured Horse);Minas Tirith;115;MESBG
+1;Aldrac, Warlord of Carn Dum;Angmar;120;MESBG
+1;Fraecht, Vassal of the Witch King;Angmar;65;MESBG
+1;Captain of Carn Dum;Angmar;55;MESBG
+1;Nazthak, Orc Captain;Angmar;50;MESBG
+1;The Shadow of Rhudaur;Angmar;80;MESBG
+1;Shade;Angmar;75;MESBG
+1;Girion, Lord of Dale;Garrison of Dale;75;MESBG
+1;Captain of Dale;Garrison of Dale;50;MESBG
+1;Brand, King of Dale;Garrison of Dale;110;MESBG
+1;Bard II, Prince of Dale;Garrison of Dale;100;MESBG
+1;Windlance;Garrison of Dale;75;MESBG
+1;Mordor Troll Chieftain Leader;The Black Gate Opens;140;MESBG
+1;The King of the Dead;The Dead of Dunharrow;100;MESBG
+1;Herald of the Dead;The Dead of Dunharrow;70;MESBG
+1;Gimli Son of Gloin;The Fellowship;100;MESBG
+1;Gulavhar, The Terror of Arnor;Angmar;200;MESBG
+1;Buhrdur, Troll Chieftain;Angmar;110;MESBG
+1;Wild Warg Chieftain;Angmar;80;MESBG
+1;Wild Warg Chieftain Leader;Wolf Pack of Angmar;80;MESBG
+1;Grima Wormtongue;Isengard;25;MESBG
+1;Grima Wormtongue (Horse);Isengard;35;MESBG
+1;The Dark Lord Sauron;Barad Dur;400;MESBG
+1;Legolas Greenleaf;The Fellowship;100;MESBG
+1;Legolas Greenleaf (Horse);The Fellowship;110;MESBG
+1;Boromir of Gondor;The Fellowship;95;MESBG
+1;Boromir of Gondor (Horse);The Fellowship;105;MESBG
+3;Frodo, Samwise, and Smeagol;Rangers of Ithilien;160;MESBG
+1;Frodo Baggins;The Fellowship;60;MESBG
+1;Samwise Gamgee;The Fellowship;40;MESBG
+1;Merry;The Fellowship;10;MESBG
+1;Pippin;The Fellowship;10;MESBG
+1;Bill the Pony;The Fellowship;25;MESBG
+1;Smeagol;The Fellowship;30;MESBG
+1;Gandalf the Grey;The Fellowship;170;MESBG
+1;Gandalf the Grey (Horse);The Fellowship;180;MESBG
+1;Denethor;Minas Tirith;35;MESBG
+1;King of Men;Minas Tirith;60;MESBG
+1;King of Men (Armoured Horse);Minas Tirith;75;MESBG
+1;King of Men (Horse);Minas Tirith;70;MESBG
+1;Ingold, Warden of the Rammas Echor;Minas Tirith;65;MESBG
+1;Irolas, Captain of the Guard;Minas Tirith;65;MESBG
+1;Azog;Azog's Legion;165;MESBG
+1;Azog (The White Warg);Azog's Legion;215;MESBG
+1;Bolg;Azog's Legion;165;MESBG
+1;Bolg (Fell Warg);Azog's Legion;175;MESBG
+1;Golfimbul, Orc Chieftain;Angmar;40;MESBG
+1;Golfimbul, Orc Chieftain (Warg);Angmar;50;MESBG
+1;Yazneg;Azog's Hunters;45;MESBG
+1;Yazneg (Fell Warg);Azog's Hunters;55;MESBG
+1;Narzug;Azog's Hunters;50;MESBG
+1;Narzug (Fell Warg);Azog's Hunters;60;MESBG
+1;Fimbul The Hunter;Azog's Hunters;50;MESBG
+1;Fimbul The Hunter (Fell Warg);Azog's Hunters;60;MESBG
+1;Hunter Orc Captain;Azog's Hunters;45;MESBG
+1;Hunter Orc Captain (Fell Warg);Azog's Hunters;55;MESBG
+1;Iron Hills Chariot;The Iron Hills;250;MESBG
+1;Haldir;Lothlorien;70;MESBG
+1;Galadhrim Captain;Lothlorien;70;MESBG
+1;Galadhrim Captain (Armoured Horse);Lothlorien;85;MESBG
+1;Aldor, Rohan Archer;Rohan;20;MESBG
+1;Haleth, Son of Hama;Rohan;30;MESBG
+1;The Goblin King;Goblin-Town;130;MESBG
+1;Grinnah;Goblin-Town;40;MESBG
+1;The Goblin Scribe;Goblin-Town;50;MESBG
+1;Gollum;Goblin-Town;35;MESBG
+1;Goblin Captain;Goblin-Town;35;MESBG
+1;Durin, King of Khazad-Dum;The Kingdom of Khazad-Dum;160;MESBG
+1;Mardin;The Kingdom of Khazad-Dum;75;MESBG
+1;Floi Stonehand;The Kingdom of Moria;75;MESBG
+1;Balin the Dwarf, King of Moria;The Kingdom of Moria;110;MESBG
+1;Dwarf King;The Kingdom of Moria;75;MESBG
+1;Dwarf Captain;The Kingdom of Moria;60;MESBG
+1;Shieldbearer;The Kingdom of Moria;60;MESBG
+1;King's Champion Group;The Kingdom of Moria;140;MESBG
+1;Ori the Dwarf, Champion of Erebor;The Kingdom of Moria;55;MESBG
+1;Ori the Dwarf;Thorin's Company;40;MESBG
+1;Ori the Dwarf (Pony);Thorin's Company;45;MESBG
+1;Nori the Dwarf, Champion of Erebor;Erebor Reclaimed;80;MESBG
+1;Nori the Dwarf;Thorin's Company;55;MESBG
+1;Nori the Dwarf (Pony);Thorin's Company;60;MESBG
+1;Dori the Dwarf, Champion of Erebor;Erebor Reclaimed;75;MESBG
+1;Dori the Dwarf;Thorin's Company;55;MESBG
+1;Dori the Dwarf (Pony);Thorin's Company;60;MESBG
+1;Oin the Dwarf, Champion of Erebor;The Kingdom of Moria;65;MESBG
+1;Oin the Dwarf;Thorin's Company;45;MESBG
+1;Oin the Dwarf (Pony);Thorin's Company;50;MESBG
+1;Gloin the Dwarf, Champion of Erebor;Erebor Reclaimed;90;MESBG
+1;Gloin the Dwarf;Thorin's Company;85;MESBG
+1;Gloin the Dwarf (Pony);Thorin's Company;90;MESBG
+1;Amdur, Lord of Blades;The Easterlings;130;MESBG
+1;Amdur, Lord of Blades (Armoured Horse);The Easterlings;145;MESBG
+1;Easterling Captain;The Easterlings;50;MESBG
+1;Easterling Captain (Swap Easterling Glaive for Armoured Horse and Sword);The Easterlings;60;MESBG
+1;Easterling Dragon Knight;The Easterlings;65;MESBG
+1;Easterling Dragon Knight (Armoured Horse);The Easterlings;80;MESBG
+1;Easterling War Priest;The Easterlings;60;MESBG
+1;Easterling War Priest (Armoured Horse);The Easterlings;75;MESBG
+1;The Dragon Emperor of Rhun;The Easterlings;200;MESBG
+1;Rutabi, General of the Dragon Legion;The Easterlings;110;MESBG
+1;Brorgir the Conjurer;The Easterlings;80;MESBG
+1;Khandish King;Variags of Khand;95;MESBG
+1;Khandish King (Khandish Chariot);Variags of Khand;125;MESBG
+1;Khandish King (Horse);Variags of Khand;105;MESBG
+1;Khandish Chieftain;Variags of Khand;55;MESBG
+1;Khandish Chieftain (Khandish Chariot);Variags of Khand;85;MESBG
+1;Khandish Chieftain (Horse);Variags of Khand;65;MESBG
+1;Gundabad Orc Captain;Azog's Legion;50;MESBG
+1;Goblin Mercenary Captain;Azog's Legion;50;MESBG
+1;Captain of Minas Tirith;Minas Tirith;50;MESBG
+1;Captain of Minas Tirith (Horse);Minas Tirith;60;MESBG
+1;Madril, Captain of Ithilien;Minas Tirith;55;MESBG
+1;Anborn, Ranger of Ithilien;Minas Tirith;35;MESBG
+1;Ghan-Buri-Ghan;Wildmen of Druadan;65;MESBG
+1;Thorin Oakenshield, King Under the Mountain;Erebor Reclaimed;115;MESBG
+1;Thorin Oakenshield;Thorin's Company;100;MESBG
+1;Thorin Oakenshield (Pony);Thorin's Company;105;MESBG
+1;Dwalin the Dwarf, Champion of Erebor;Erebor Reclaimed;115;MESBG
+1;Dwalin the Dwarf;Thorin's Company;95;MESBG
+1;Dwalin the Dwarf (Pony);Thorin's Company;100;MESBG
+1;Kili the Dwarf;Thorin's Company;50;MESBG
+1;Kili the Dwarf (Pony);Thorin's Company;55;MESBG
+1;Fili the Dwarf;Thorin's Company;50;MESBG
+1;Fili the Dwarf (Pony);Thorin's Company;55;MESBG
+1;Balin the Dwarf;Thorin's Company;40;MESBG
+1;Balin the Dwarf (Pony);Thorin's Company;45;MESBG
+1;Kili the Dwarf, Champion of Erebor;Erebor Reclaimed;75;MESBG
+1;Fili the Dwarf, Champion of Erebor;Erebor Reclaimed;75;MESBG
+1;Balin the Dwarf, Champion of Erebor;Erebor Reclaimed;60;MESBG
+1;Bifur the Dwarf, Champion of Erebor;Erebor Reclaimed;65;MESBG
+1;Bifur the Dwarf;Thorin's Company;45;MESBG
+1;Bifur the Dwarf (Pony);Thorin's Company;50;MESBG
+1;Bofur the Dwarf, Champion of Erebor;Erebor Reclaimed;65;MESBG
+1;Bofur the Dwarf;Thorin's Company;45;MESBG
+1;Bofur the Dwarf (Pony);Thorin's Company;50;MESBG
+1;Bombur the Dwarf, Champion of Erebor;Erebor Reclaimed;60;MESBG
+1;Bombur the Dwarf;Thorin's Company;45;MESBG
+1;Bombur the Dwarf (Pony);Thorin's Company;50;MESBG
+1;Thrydan Wolfsbane;Isengard;85;MESBG
+1;Thrydan Wolfsbane (Horse);Isengard;95;MESBG
+1;Uruk-Hai Captain;Isengard;60;MESBG
+1;Uruk-Hai Captain - Assault on Helm's Deep;Assault on Helm's Deep;60;MESBG
+1;Uruk-Hai Captain- Assault on Helm's Deep Leader;Assault on Helm's Deep;60;MESBG
+1;Uruk-Hai Shaman;Isengard;50;MESBG
+1;Uruk-Hai Shaman - Assault on Helm's Deep;Assault on Helm's Deep;50;MESBG
+1;Dunlending Chieftain;Isengard;55;MESBG
+1;Helm Hammerhand;Rohan;165;MESBG
+1;Helm Hammerhand (Horse);Rohan;175;MESBG
+1;Elendil, High King of Gondor and Arnor;Numenor;185;MESBG
+1;Elendil, High King of Gondor and Arnor (Horse);Numenor;195;MESBG
+1;Captain of Numenor;Numenor;50;MESBG
+1;Captain of Numenor (Horse);Numenor;60;MESBG
+1;Isildur;Numenor;120;MESBG
+1;Isildur (Horse);Numenor;130;MESBG
+1;Razgush, War Leader of the North;Mordor;110;MESBG
+1;Galadriel;Lothlorien;130;MESBG
+1;Galadriel, Lady of Light;The White Council;130;MESBG
+1;Celeborn;Lothlorien;130;MESBG
+1;Wood Elf Captain;Lothlorien;65;MESBG
+1;Galadhrim Stormcaller;Lothlorien;60;MESBG
+1;Rumil;Lothlorien;85;MESBG
+1;Orophin;Lothlorien;85;MESBG
+1;Treebeard;Fangorn;190;MESBG
+1;Beechbone;Fangorn;160;MESBG
+1;Quickbeam;Fangorn;140;MESBG
+1;Bard The Bowman;Survivors of Lake-town;140;MESBG
+1;Bard The Bowman (Horse);Survivors of Lake-town;150;MESBG
+1;Alfrid the Councillor;Survivors of Lake-town;20;MESBG
+2;Sigrid & Tilda;Survivors of Lake-town;30;MESBG
+1;Bain, Son of Bard;Survivors of Lake-town;40;MESBG
+1;Percy;Survivors of Lake-town;50;MESBG
+1;Hilda-Bianca;Survivors of Lake-town;30;MESBG
+1;Bilbo Baggins, Master Burglar;Survivors of Lake-town;90;MESBG
+1;Bilbo Baggins;Rivendell;40;MESBG
+1;Bilbo Baggins (Thorin's Company);Thorin's Company;60;MESBG
+1;Bilbo Baggins (Thorin's Company) (Pony);Thorin's Company;65;MESBG
+1;Lake-town Militia Captain;Survivors of Lake-town;40;MESBG
+1;Lake-town Guard Captain;Army of Lake-town;40;MESBG
+1;Braga, Captain of the Guard;Army of Lake-town;50;MESBG
+1;Thranduil, King of the Woodland Realm;Halls of Thranduil;100;MESBG
+1;Thranduil, King of the Woodland Realm (Horse);Halls of Thranduil;110;MESBG
+1;Thranduil, King of the Woodland Realm (Elk);Halls of Thranduil;120;MESBG
+1;Smaug;Desolator of the North;700;MESBG
+1;Legolas Greenleaf, Prince of Mirkwood;Halls of Thranduil;95;MESBG
+1;Legolas Greenleaf, Prince of Mirkwood (Horse);Halls of Thranduil;105;MESBG
+1;Tauriel;Halls of Thranduil;85;MESBG
+1;Palace Guard Captain;Halls of Thranduil;75;MESBG
+1;Mirkwood Captain;Halls of Thranduil;75;MESBG
+1;Mirkwood Ranger Captain;Halls of Thranduil;75;MESBG
+1;Gondor Battlecry Trebuchet;Minas Tirith;80;MESBG
+1;Frida Tallspear;Isengard;65;MESBG
+1;Gorulf Ironskin;Isengard;70;MESBG
+1;The Wild Man Oathmaker;Isengard;55;MESBG
+1;The Balrog;Moria;350;MESBG
+1;Durburz;Moria;70;MESBG
+1;Groblog;Moria;50;MESBG
+1;Druzhag the Beastcaller;Moria;90;MESBG
+1;Ashrak;Moria;55;MESBG
+1;Moria Goblin Captain;Moria;35;MESBG
+1;Moria Goblin Shaman;Moria;45;MESBG
+1;Moria Blackshield Captain;Moria;45;MESBG
+1;Moria Blackshield Shaman;Moria;50;MESBG
+1;Gondor Avenger Bolt Thrower;Minas Tirith;50;MESBG
+1;Dragon;Moria;250;MESBG
+1;Cave Drake;Moria;150;MESBG
+1;The Watcher in the Water;Moria;200;MESBG
+1;Prince Imrahil of Dol Amroth;The Fiefdoms;140;MESBG
+1;Prince Imrahil of Dol Amroth (Armoured Horse);The Fiefdoms;155;MESBG
+1;Captain of Dol Amroth;The Fiefdoms;65;MESBG
+1;Captain of Dol Amroth (Armoured Horse);The Fiefdoms;80;MESBG
+1;Radagast the Brown;Radagast's Alliance;150;MESBG
+1;Radagast the Brown (Exchange Staff of Power for Great Eagle);Radagast's Alliance;200;MESBG
+1;Radagast the Brown (Horse);Radagast's Alliance;160;MESBG
+1;Forlong the Fat;The Fiefdoms;80;MESBG
+1;Forlong the Fat (Horse);The Fiefdoms;90;MESBG
+1;Angbor the Fearless;The Fiefdoms;65;MESBG
+1;Duinhir;The Fiefdoms;60;MESBG
+1;Master of Lake-town;Army of Lake-town;50;MESBG
+1;Iron Hills Captain;The Iron Hills;80;MESBG
+1;Mordor Siege Bow;Mordor;50;MESBG
+1;Mordor War Catapult;Mordor;160;MESBG
+1;Iron Hills Ballista;The Iron Hills;125;MESBG
+1;Isengard Assault Ballista;Isengard;65;MESBG
+1;Dwarf Ballista;The Kingdom of Moria;60;MESBG
+1;Catapult Troll;Azog's Legion;180;MESBG
+1;Gwaihir;The Misty Mountains;150;MESBG
+1;Thror;Army of Thror;120;MESBG
+1;Thrain;Army of Thror;120;MESBG
+1;Young Thorin Oakenshield;Army of Thror;100;MESBG
+1;Young Balin the Dwarf;Army of Thror;55;MESBG
+1;Young Dwalin the Dwarf;Army of Thror;85;MESBG
+1;Grim Hammer Captain;Army of Thror;70;MESBG
+1;Captain of Erebor;Army of Thror;60;MESBG
+2;Grimbeorn;The Beornings;200;MESBG
+2;Grimbeorn (Wanderers);Wanderers in the Wild;200;MESBG
+2;Beorn;The Beornings;200;MESBG
+1;Suladan the Serpent Lord;The Serpent Horde;100;MESBG
+1;Suladan the Serpent Lord (Armoured horse);The Serpent Horde;115;MESBG
+1;Haradrim King;The Serpent Horde;60;MESBG
+1;Haradrim King (Horse);The Serpent Horde;70;MESBG
+1;The Golden King of Abrakhan;The Serpent Horde;130;MESBG
+1;Hasharin;The Serpent Horde;80;MESBG
+1;Haradrim Chieftain;The Serpent Horde;50;MESBG
+1;Haradrim Chieftain (Horse);The Serpent Horde;60;MESBG
+1;Haradrim Taskmaster;The Serpent Horde;50;MESBG
+1;Raza, Fang of the Serpent;The Serpent Horde;75;MESBG
+1;Dalamyr, Fleetmaster of Umbar;Corsairs of Umbar;90;MESBG
+1;Muzgur, Orc Shaman;Mordor;70;MESBG
+1;Corsair Captain;Corsairs of Umbar;50;MESBG
+1;Corsair Bo'sun;Corsairs of Umbar;45;MESBG
+1;Delgamar, Gatemaster of Umbar;Corsairs of Umbar;75;MESBG
+1;Arvedui, Last King of Arnor;Arnor;80;MESBG
+1;Malbeth The Seer;Arnor;70;MESBG
+1;Aranarth, First Chieftain of the Dunedain;Arnor;80;MESBG
+1;Argadir, Captain of Arnor;Arnor;85;MESBG
+1;Captain of Arnor;Arnor;55;MESBG
+1;The Necromancer of Dol Guldur;Dark Powers of Dol Guldur;250;MESBG
+1;The Nazgul of Dol Guldur (the Witch-King of Angmar);Dark Powers of Dol Guldur;75;MESBG
+1;The Nazgul of Dol Guldur (Khamul the Easterling);Dark Powers of Dol Guldur;75;MESBG
+1;The Nazgul of Dol Guldur (The Dark Headsman);Dark Powers of Dol Guldur;75;MESBG
+1;The Nazgul of Dol Guldur (The Forsaken);Dark Powers of Dol Guldur;75;MESBG
+1;The Nazgul of Dol Guldur (The Lingering Shadow);Dark Powers of Dol Guldur;75;MESBG
+1;The Nazgul of Dol Guldur (The Abyssal Knight 1);Dark Powers of Dol Guldur;75;MESBG
+1;The Nazgul of Dol Guldur (The Abyssal Knight 2);Dark Powers of Dol Guldur;75;MESBG
+1;The Nazgul of Dol Guldur (The Slayer of Men 1);Dark Powers of Dol Guldur;75;MESBG
+1;The Nazgul of Dol Guldur (The Slayer of Men 2);Dark Powers of Dol Guldur;75;MESBG
+1;The Keeper of the Dungeons;Dark Powers of Dol Guldur;75;MESBG
+1;Castellan of Dol Guldur;Dark Powers of Dol Guldur;40;MESBG
+1;Mahud King;Far Harad;70;MESBG
+1;Mahud King (War camel);Far Harad;80;MESBG
+1;Mahud Tribesmaster;Far Harad;50;MESBG
+1;Mahud Tribesmaster (War camel);Far Harad;60;MESBG
+1;The Mumak Warleader;Far Harad;400;MESBG
+2;War Mumak of Far Harad;Far Harad;300;MESBG
+2;War Mumak of Harad;The Serpent Horde;275;MESBG
+2;War Mumak of Harad (Mahud Beastmaster Chieftain);The Serpent Horde;300;MESBG
+1;Frodo of the Nine Fingers;The Shire;60;MESBG
+1;Frodo of the Nine Fingers (Pony);The Shire;65;MESBG
+1;Samwise the Brave;The Shire;45;MESBG
+1;Samwise the Brave (Pony);The Shire;50;MESBG
+1;Meriadoc, Captain of the Shire;The Shire;45;MESBG
+1;Meriadoc, Captain of the Shire (Pony);The Shire;50;MESBG
+1;Peregrin, Captain of the Shire;The Shire;45;MESBG
+1;Peregrin, Captain of the Shire (Pony);The Shire;50;MESBG
+1;Paladin Took;The Shire;25;MESBG
+1;Farmer Maggot;The Shire;45;MESBG
+1;Lobella Sackville-Baggins;The Shire;15;MESBG
+1;Fredegar Bolger;The Shire;10;MESBG
+1;Bandobras Took;The Shire;40;MESBG
+1;Farmer Tolman Cotton;The Shire;35;MESBG
+1;Rosie Cotton;The Shire;15;MESBG
+1;Will Whitfoot, Mayor of Hobbiton;The Shire;30;MESBG
+1;Folco Boffin;The Shire;20;MESBG
+1;Holfoot Bracegirdle, Shirriff-Leader;The Shire;30;MESBG
+1;Robin Smallburrow, Hobbit Shirriff;The Shire;20;MESBG
+1;Hamfast 'Gaffer' Gamgee;The Shire;30;MESBG
+1;Baldo Tulpenny;The Shire;40;MESBG
+1;Lotho Sackville-Baggins;The Shire;30;MESBG
+1;The Spider Queen;Fell Beings of Mirkwood;115;MESBG
+1;Bill the Troll;The Trolls;150;MESBG
+1;Bert the Troll;The Trolls;130;MESBG
+1;Tom the Troll;The Trolls;120;MESBG
+1;Sid Briarthorn, Ruffian Chief;Sharkey's Rogues;45;MESBG
+1;Rowan Thistlewood, Ruffian Enforcer;Sharkey's Rogues;45;MESBG
+1;Bill Ferny;Sharkey's Rogues;40;MESBG
+1;Ted Sandyman;Sharkey's Rogues;20;MESBG
+2;Sharkey and Worm;Sharkey's Rogues;60;MESBG
+1;Tom Bombadil;Wanderers in the Wild;160;MESBG
+1;Goldberry;Wanderers in the Wild;140;MESBG
+1;Thrain the Broken (Pits);Pits of Dol Guldur;10;MESBG
+1;Thrain the Broken (Wanderers);Wanderers in the Wild;10;MESBG
+1;Barliman Butterbur;Wanderers in the Wild;40;MESBG
+1;Harry Goatleaf;Wanderers in the Wild;40;MESBG
+1;Harry Goatleaf (Evil);The Chief's Ruffians;40;MESBG
+4;Iron Hills Chariot;The Iron Hills;175;MESBG
+2;Dernhelm;Inconnue;75;MESBG
+1;Thrain the Broken;Wanderers in the Wild;10;MESBG
+1;Thrain the Broken (Evil);Dark Powers of Dol Guldur;10;MESBG
+1;Thrain the Broken (Pits);Dark Powers of Dol Guldur;10;MESBG
+1;Bain, Son of Bard;Army of Lake-town;40;MESBG
+1;Bill the Pony (Wanderers);Wanderers in the Wild;10;MESBG
+1;Warrior of Rohan;Rohan;6;MESBG
+1;Rider of Rohan;Rohan;14;MESBG
+1;Rohan Royal Guard;Rohan;10;MESBG
+1;Rohan Royal Guard (Horse);Rohan;15;MESBG
+1;Rohan Outrider;Rohan;8;MESBG
+1;Rohan Outrider (Horse);Rohan;13;MESBG
+1;Son of Eorl;Rohan;20;MESBG
+1;Orc Warrior;Mordor;5;MESBG
+1;Angmar Orc Warrior;Angmar;5;MESBG
+1;Morgul Stalker;Mordor;10;MESBG
+1;Morannon Orc;Mordor;7;MESBG
+1;Black Guard of Barad-Dur;Mordor;12;MESBG
+1;Mordor Uruk-Hai;Mordor;8;MESBG
+1;Orc Tracker;Mordor;5;MESBG
+1;Orc Tracker (Warg);Mordor;12;MESBG
+1;Warg Rider;Mordor;11;MESBG
+1;Angmar Warg Rider;Angmar;11;MESBG
+1;Black Numenorean;Mordor;9;MESBG
+1;Mordor Troll;Mordor;100;MESBG
+1;Wood Elf Warrior;Lothlorien;8;MESBG
+1;High Elf Warrior;Rivendell;9;MESBG
+1;Rivendell Knight;Rivendell;21;MESBG
+1;Morgul Knight;Mordor;18;MESBG
+1;Warrior of Minas Tirith;Minas Tirith;7;MESBG
+1;Knight of Minas Tirith;Minas Tirith;13;MESBG
+1;Guard of the Fountain Court;Minas Tirith;10;MESBG
+1;Citadel Guard;Minas Tirith;9;MESBG
+1;Citadel Guard (Horse);Minas Tirith;16;MESBG
+1;Dead Marsh Spectre;Angmar;15;MESBG
+1;Wild Warg;Angmar;7;MESBG
+1;Cave Troll;Angmar;75;MESBG
+1;Dweller in the Dark;Moria;75;MESBG
+1;Ranger of Gondor;Minas Tirith;8;MESBG
+1;Iron Hills Dwarf;The Iron Hills;11;MESBG
+1;Iron Hills Goat Rider;The Iron Hills;20;MESBG
+1;Uruk-hai Scout;Isengard;8;MESBG
+1;Uruk-hai Warrior;Isengard;9;MESBG
+1;Osgiliath Veteran;Minas Tirith;8;MESBG
+1;Warrior of Dale;Garrison of Dale;7;MESBG
+1;Knight of Dale;Garrison of Dale;11;MESBG
+1;Warrior of the Dead;The Dead of Dunharrow;14;MESBG
+1;Rider of the Dead;The Dead of Dunharrow;24;MESBG
+1;Isengard Troll;Isengard;110;MESBG
+1;Hunter Orc;Azog's Hunters;8;MESBG
+1;Hunter Orc (Fell Warg);Azog's Hunters;16;MESBG
+1;Troll Brute;Azog's Legion;100;MESBG
+1;Ogre;Azog's Legion;60;MESBG
+1;War Bat;Azog's Legion;25;MESBG
+1;Fell Warg;Azog's Hunters;8;MESBG
+1;Werewolf;Angmar;25;MESBG
+1;Hill Troll;Angmar;75;MESBG
+1;Galadhrim Warrior;Lothlorien;9;MESBG
+1;Goblin Warrior;Goblin-Town;4;MESBG
+1;Dwarf Warrior;The Kingdom of Khazad-Dum;8;MESBG
+1;Khazad Guard;The Kingdom of Khazad-Dum;11;MESBG
+1;Iron Guard;The Kingdom of Khazad-Dum;15;MESBG
+1;Dwarf Ranger;The Kingdom of Khazad-Dum;8;MESBG
+2;Vault Warden Team;The Kingdom of Khazad-Dum;25;MESBG
+1;Easterling Warrior;The Easterlings;7;MESBG
+1;Easterling Kataphrakt;The Easterlings;14;MESBG
+1;Dragon Cult Acolyte;The Easterlings;11;MESBG
+1;Rhunish War Drake;The Easterlings;20;MESBG
+1;Gundabad Orc Warrior;Azog's Legion;8;MESBG
+1;Khandish Warrior;Variags of Khand;8;MESBG
+1;Khandish Horseman;Variags of Khand;13;MESBG
+1;Khandish Charioteer;Variags of Khand;30;MESBG
+1;Gundabad Berserker;Azog's Legion;15;MESBG
+1;Gundabad Troll;Azog's Legion;120;MESBG
+1;Goblin Mercenary;Inconnue;5;MESBG
+1;Woses Warriors;Wildmen of Druadan;9;MESBG
+1;Uruk-hai Berserker;Isengard;15;MESBG
+3;Uruk-Hai Demolition Team;Isengard;80;MESBG
+1;Feral Uruk-hai;Isengard;13;MESBG
+1;Dunlending Warrior;Isengard;7;MESBG
+1;Wild Man of Dunland;Isengard;5;MESBG
+1;Warrior of Numenor;Numenor;8;MESBG
+1;Galadhrim Knight;Lothlorien;18;MESBG
+1;Guard of the Galadhrim Court;Lothlorien;12;MESBG
+1;Wood Elf Sentinel;Lothlorien;25;MESBG
+1;Ent;Fangorn;120;MESBG
+1;Lake-town Militia;Survivors of Lake-town;5;MESBG
+1;Lake-town Guard;Army of Lake-town;5;MESBG
+1;Palace Guard;Halls of Thranduil;12;MESBG
+1;Mirkwood Elf;Halls of Thranduil;9;MESBG
+1;Mirkwood Cavalry;Halls of Thranduil;16;MESBG
+1;Mirkwood Ranger;Halls of Thranduil;14;MESBG
+1;Dunlending Horseman;Isengard;12;MESBG
+1;Dunlending Huscarl;Isengard;11;MESBG
+1;Crebain;Isengard;20;MESBG
+1;Bat Swarm;Dark Denizens of Mirkwood;35;MESBG
+1;Giant Spider;Dark Denizens of Mirkwood;20;MESBG
+1;Moria Goblin Warrior;Moria;4;MESBG
+1;Moria Blackshield;Moria;8;MESBG
+1;Moria Goblin Prowlers;Moria;7;MESBG
+1;Warg Marauder;Moria;30;MESBG
+2;Moria Goblin Drum;Moria;75;MESBG
+2;Moria Blackshield Drummers;Moria;75;MESBG
+1;Knight of Dol Amroth;The Fiefdoms;11;MESBG
+1;Knight of Dol Amroth (Armoured Horse);The Fiefdoms;19;MESBG
+1;Man-at-arms of Dol Amroth;The Fiefdoms;9;MESBG
+1;Axeman of Lossarnach;The Fiefdoms;9;MESBG
+1;Clansmen of Lamedon;The Fiefdoms;8;MESBG
+1;Blackroot Vale Archer;The Fiefdoms;8;MESBG
+1;Great Eagle;The Misty Mountains;100;MESBG
+1;Grim Hammer;Army of Thror;11;MESBG
+1;Warrior of Erebor;Army of Thror;8;MESBG
+1;Beorning;The Beornings;20;MESBG
+1;Haradrim Warrior;The Serpent Horde;6;MESBG
+1;Haradrim Raider;The Serpent Horde;11;MESBG
+1;Serpent Guard;The Serpent Horde;8;MESBG
+1;Serpent Rider;The Serpent Horde;13;MESBG
+1;Watcher of Karna;The Serpent Horde;9;MESBG
+1;Abrakhan Merchant Guard;The Serpent Horde;9;MESBG
+1;Corsair of Umbar;Corsairs of Umbar;7;MESBG
+1;Corsair Reaver;Corsairs of Umbar;9;MESBG
+1;Corsair Arbalester;Corsairs of Umbar;10;MESBG
+1;Warrior of Arnor;Arnor;8;MESBG
+1;Warrior of Carn Dum;Angmar;9;MESBG
+1;Knight of Arnor;Arnor;14;MESBG
+1;Ranger of Arnor;Arnor;8;MESBG
+1;Hobbit Archer;Arnor;5;MESBG
+1;Mahud Warrior;Far Harad;8;MESBG
+1;Mahud Raider;Far Harad;17;MESBG
+1;Half Troll;Far Harad;23;MESBG
+1;Hobbit Militia;The Shire;4;MESBG
+1;Hobbit Shirriff;The Shire;5;MESBG
+1;Mirkwood Spider;Fell Beings of Mirkwood;20;MESBG
+1;Ruffian;Sharkey's Rogues;5;MESBG

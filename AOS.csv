@@ -1,0 +1,2136 @@
+ qty;Unit;Factions;cost;System
+10;Gors;Beasts of Chaos;100;AOS
+10;Ungors;Beasts of Chaos;90;AOS
+1;Chaos Gargant;Beasts of Chaos;140;AOS
+1;Chimera;Beasts of Chaos;200;AOS
+1;Cygor;Beasts of Chaos;170;AOS
+1;Ghorgon;Beasts of Chaos;180;AOS
+1;Jabberslythe;Beasts of Chaos;190;AOS
+1;Beastlord;Beasts of Chaos;150;AOS
+1;Doombull;Beasts of Chaos;170;AOS
+1;Dragon Ogor Shaggoth;Beasts of Chaos;220;AOS
+1;Great Bray-Shaman;Beasts of Chaos;140;AOS
+10;Bestigors;Beasts of Chaos;220;AOS
+3;Bullgors;Beasts of Chaos;170;AOS
+5;Centigors;Beasts of Chaos;170;AOS
+1;Beasts of Chaos Chaos Spawn;Beasts of Chaos;70;AOS
+10;Chaos Warhounds;Beasts of Chaos;130;AOS
+1;Cockatrice;Beasts of Chaos;150;AOS
+3;Dragon Ogors;Beasts of Chaos;200;AOS
+1;Tuskgor Chariots;Beasts of Chaos;110;AOS
+10;Ungor Raiders;Beasts of Chaos;90;AOS
+1;Doomblast Dirgehorn;Beasts of Chaos;0;AOS
+3;Ravening Direflock;Beasts of Chaos;0;AOS
+1;Wildfire Taurus;Beasts of Chaos;0;AOS
+1;Herdstone;Beasts of Chaos;0;AOS
+6;Grashrak’s Despoilers;Beasts of Chaos;100;AOS
+0;Hargax’s Pit-Beasts;Beasts of Chaos;0;AOS
+1;Razorgor;Beasts of Chaos;70;AOS
+0;Snerk’s Trogg-Fer-Hire;Beasts of Chaos;0;AOS
+0;Exile Scavengers;Beasts of Chaos;0;AOS
+0;Phulgoth’s Shudderhood;Beasts of Chaos;0;AOS
+0;Nurgle’s Gift;Beasts of Chaos;0;AOS
+0;The Coven of Thryx;Beasts of Chaos;0;AOS
+0;One-eyed Grunnock;Beasts of Chaos;0;AOS
+0;Stumblefoot Gargant;Beasts of Chaos;0;AOS
+0;Krittok’s Clawpack;Beasts of Chaos;0;AOS
+0;Volt-Klaw’s Enginecoven;Beasts of Chaos;0;AOS
+1;Skull Cannon;Blades of Khorne;120;AOS
+10;Bloodletters;Blades of Khorne;150;AOS
+10;Bloodreavers;Blades of Khorne;80;AOS
+10;Blood Warriors;Blades of Khorne;180;AOS
+1;Bloodmaster, Herald of Khorne;Blades of Khorne;120;AOS
+1;Bloodsecrator;Blades of Khorne;110;AOS
+1;Bloodstoker;Blades of Khorne;100;AOS
+1;Herald of Khorne on Blood Throne;Blades of Khorne;150;AOS
+1;Lord of Khorne on Juggernaut;Blades of Khorne;200;AOS
+1;Mighty Lord of Khorne;Blades of Khorne;110;AOS
+1;Scyla Anfingrimm;Blades of Khorne;130;AOS
+1;Skarr Bloodwrath;Blades of Khorne;140;AOS
+1;Skullgrinder;Blades of Khorne;100;AOS
+1;Skullmaster, Herald of Khorne;Blades of Khorne;130;AOS
+1;Skulltaker;Blades of Khorne;120;AOS
+1;Slaughterpriest;Blades of Khorne;120;AOS
+1;Valkia The Bloody;Blades of Khorne;180;AOS
+1;Bloodthirster of Insensate Rage;Blades of Khorne;410;AOS
+1;Bloodthirster of Unfettered Fury;Blades of Khorne;390;AOS
+1;Skarbrand;Blades of Khorne;430;AOS
+1;Wrath of Khorne Bloodthirster;Blades of Khorne;400;AOS
+1;Bleeding Icon;Blades of Khorne;0;AOS
+2;Hexgorger Skulls;Blades of Khorne;0;AOS
+1;Wrath-Axe;Blades of Khorne;0;AOS
+1;Skull Altar;Blades of Khorne;0;AOS
+1;Karanak;Blades of Khorne;110;AOS
+3;Bloodcrushers;Blades of Khorne;130;AOS
+5;Flesh Hounds;Blades of Khorne;100;AOS
+1;Khorgorath;Blades of Khorne;120;AOS
+3;Mighty Skullcrushers;Blades of Khorne;200;AOS
+5;Skullreapers;Blades of Khorne;170;AOS
+5;Wrathmongers;Blades of Khorne;130;AOS
+5;Garrek’s Reavers;Blades of Khorne;70;AOS
+4;Magore’s Fiends;Blades of Khorne;120;AOS
+3;Gorechosen of Dromm;Blades of Khorne;190;AOS
+8;Claws of Karanak;Blades of Khorne;100;AOS
+1;Realmgore Ritualist;Blades of Khorne;110;AOS
+3;Scourge of Ghyran Bloodcrushers;Blades of Khorne;150;AOS
+1;Scourge of Ghyran Mighty Lord of Khorne;Blades of Khorne;140;AOS
+1;Deathbringer;Blades of Khorne;110;AOS
+0;The Exiled One;Blades of Khorne;400;AOS
+0;The Red Revelation;Blades of Khorne;350;AOS
+0;Brand’s Oathbound;Blades of Khorne;0;AOS
+0;Godmarked Ascendant;Blades of Khorne;0;AOS
+0;Hargax’s Pit-Beasts;Blades of Khorne;0;AOS
+0;Krittok’s Clawpack;Blades of Khorne;0;AOS
+0;Lord Skaldior’s Chosen;Blades of Khorne;0;AOS
+0;Snerk’s Trogg-Fer-Hire;Blades of Khorne;0;AOS
+0;Volt-Klaw’s Enginecoven;Blades of Khorne;0;AOS
+0;Squires of the Everchosen;Blades of Khorne;0;AOS
+4;Kamandora’s Blades;Blades of Khorne;90;AOS
+0;Seeker of the Dread Dirge;Blades of Khorne;0;AOS
+0;The Curse-Steel Battery;Blades of Khorne;0;AOS
+0;Blades of Khorne Hero;Blades of Khorne;0;AOS
+1;Korghos Khul;Blades of Khorne;220;AOS
+1;Khul Ascended;Blades of Khorne;310;AOS
+0;Phulgoth’s Shudderhood;Blades of Khorne;0;AOS
+0;The Pustules;Blades of Khorne;0;AOS
+0;Diseased Revellers;Blades of Khorne;0;AOS
+5;Flesh Hounds;Blades of Khorne;100;AOS
+1;Karanak;Blades of Khorne;110;AOS
+8;Claws of Karanak;Blades of Khorne;100;AOS
+10;Blood Warriors;Blades of Khorne;180;AOS
+1;Slaughterpriest;Blades of Khorne;120;AOS
+10;Bloodreavers;Blades of Khorne;80;AOS
+3;Mighty Skullcrushers;Blades of Khorne;200;AOS
+0;Rogue Engine;Blades of Khorne;0;AOS
+0;Cogfort Raiders;Blades of Khorne;0;AOS
+10;Scourge of Aqshy Bloodletters;Blades of Khorne;140;AOS
+10;Scourge of Aqshy Blood Warriors;Blades of Khorne;190;AOS
+0;One-eyed Grunnock;Blades of Khorne;0;AOS
+0;Krong The Club;Blades of Khorne;0;AOS
+0;Stumblefoot Gargant;Blades of Khorne;0;AOS
+1;Maniak Weirdnob;Bonesplitterz;160;AOS
+1;Wurrgog Prophet;Bonesplitterz;160;AOS
+1;Wardokk;Bonesplitterz;100;AOS
+5;Savage Boarboys;Bonesplitterz;140;AOS
+10;Savage Orruk Morboys;Bonesplitterz;160;AOS
+5;Savage Boarboy Maniaks;Bonesplitterz;140;AOS
+10;Savage Orruk Arrowboys;Bonesplitterz;140;AOS
+10;Savage Orruks;Bonesplitterz;140;AOS
+2;Savage Big Stabbas;Bonesplitterz;130;AOS
+1;Savage Big Boss;Bonesplitterz;110;AOS
+1;Kragnos, the End of Empires;Bonesplitterz;580;AOS
+4;Hedkrakka’s Madmob;Bonesplitterz;100;AOS
+0;Goroan Scions;Bonesplitterz;0;AOS
+0;Big Grikk’s Kruleshots;Bonesplitterz;0;AOS
+0;Da Hurtlin’ Hogz;Bonesplitterz;0;AOS
+0;Da Kountin’ Krew;Bonesplitterz;0;AOS
+0;Braggit’s Bottle-Snatchaz;Bonesplitterz;0;AOS
+0;Snerk’s Trogg-Fer-Hire;Bonesplitterz;0;AOS
+0;Exile Scavengers;Bonesplitterz;0;AOS
+0;Nurgle’s Gift;Bonesplitterz;0;AOS
+0;Bundo Whalebiter;Bonesplitterz;0;AOS
+0;Odo Godswallow;Bonesplitterz;0;AOS
+0;Big Drogg Fort-Kicka;Bonesplitterz;0;AOS
+0;One-eyed Grunnock;Bonesplitterz;0;AOS
+0;Stumblefoot Gargant;Bonesplitterz;0;AOS
+10;Bleakswords;Cities of Sigmar;100;AOS
+10;Darkshards;Cities of Sigmar;150;AOS
+10;Dreadspears;Cities of Sigmar;110;AOS
+10;Ironbreakers;Cities of Sigmar;120;AOS
+10;Longbeards;Cities of Sigmar;130;AOS
+1;Celestial Hurricanum;Cities of Sigmar;170;AOS
+1;Kharibdyss;Cities of Sigmar;150;AOS
+1;Luminark of Hysh;Cities of Sigmar;230;AOS
+1;War Hydra;Cities of Sigmar;170;AOS
+1;Assassin;Cities of Sigmar;150;AOS
+1;Battlemage;Cities of Sigmar;100;AOS
+1;Black Ark Fleetmaster;Cities of Sigmar;90;AOS
+1;Cogsmith;Cities of Sigmar;110;AOS
+1;Runelord;Cities of Sigmar;130;AOS
+1;Sorceress;Cities of Sigmar;130;AOS
+1;Warden King;Cities of Sigmar;120;AOS
+1;Battlemage on Griffon;Cities of Sigmar;260;AOS
+1;Dreadlord on Black Dragon;Cities of Sigmar;260;AOS
+1;Sorceress on Black Dragon;Cities of Sigmar;280;AOS
+1;Steam Tank Commander;Cities of Sigmar;250;AOS
+10;Black Ark Corsairs;Cities of Sigmar;120;AOS
+10;Black Guard;Cities of Sigmar;130;AOS
+5;Dark Riders;Cities of Sigmar;170;AOS
+5;Drakespawn Knights;Cities of Sigmar;190;AOS
+10;Executioners;Cities of Sigmar;150;AOS
+10;Flagellants;Cities of Sigmar;80;AOS
+1;Gyrobomber;Cities of Sigmar;120;AOS
+10;Hammerers;Cities of Sigmar;170;AOS
+10;Irondrakes;Cities of Sigmar;140;AOS
+1;Steam Tank;Cities of Sigmar;240;AOS
+1;Ironweld Great Cannon;Cities of Sigmar;140;AOS
+6;Hexbane’s Hunters;Cities of Sigmar;120;AOS
+10;Freeguild Steelhelms;Cities of Sigmar;110;AOS
+1;Alchemite Warforger;Cities of Sigmar;140;AOS
+1;Freeguild Marshal and Relic Envoy;Cities of Sigmar;100;AOS
+1;Freeguild Cavalier-Marshal;Cities of Sigmar;130;AOS
+1;Fusil-Major on Ogor Warhulk;Cities of Sigmar;160;AOS
+1;Pontifex Zenestra, Matriarch of the Great Wheel;Cities of Sigmar;170;AOS
+1;Battlemage on Celestial Hurricanum;Cities of Sigmar;230;AOS
+1;Battlemage on Luminark of Hysh;Cities of Sigmar;280;AOS
+1;Freeguild Marshal on Griffon;Cities of Sigmar;230;AOS
+1;Tahlia Vedra, Lioness of the Parch;Cities of Sigmar;340;AOS
+10;Freeguild Fusiliers;Cities of Sigmar;120;AOS
+5;Freeguild Cavaliers;Cities of Sigmar;180;AOS
+11;Wildercorps Hunters;Cities of Sigmar;120;AOS
+2;Callis and Toll;Cities of Sigmar;240;AOS
+4;Toll’s Companions;Cities of Sigmar;0;AOS
+5;Brethren of the Bolt;Cities of Sigmar;100;AOS
+1;Scourgerunner Chariot;Cities of Sigmar;110;AOS
+1;Gyrocopter;Cities of Sigmar;120;AOS
+1;Drakespawn Chariot;Cities of Sigmar;110;AOS
+0;Norgrimm’s Rune Throng;Cities of Sigmar;330;AOS
+0;Saviours of Cinderfall;Cities of Sigmar;270;AOS
+5;Scourge of Ghyran Freeguild Cavaliers;Cities of Sigmar;150;AOS
+1;Scourge of Ghyran Pontifex Zenestra;Cities of Sigmar;260;AOS
+1;Edmark Valoran, the Manticore Knight;Cities of Sigmar;0;AOS
+1;Bren Tylis, the Renegade Saint;Cities of Sigmar;0;AOS
+1;Inara Sion, the Cleansing Blade;Cities of Sigmar;0;AOS
+1;Drolf Ironhead, the Grizzled Explorer;Cities of Sigmar;0;AOS
+1;Jacobus Vyne, the Jade Wizard;Cities of Sigmar;0;AOS
+1;Wisper;Cities of Sigmar;0;AOS
+1;Drasher Vorn, the Rampaging Beast;Cities of Sigmar;0;AOS
+0;Heroes of The Jade Abbey;Cities of Sigmar;0;AOS
+0;Grombrindal, The White Dwarf;Cities of Sigmar;0;AOS
+11;Wildercorps Hunters;Cities of Sigmar;120;AOS
+1;Alchemite Warforger;Cities of Sigmar;140;AOS
+10;Freeguild Fusiliers;Cities of Sigmar;120;AOS
+1;Fusil-Major on Ogor Warhulk;Cities of Sigmar;160;AOS
+1;Freeguild Cavalier-Marshal;Cities of Sigmar;130;AOS
+1;Ironweld Great Cannon;Cities of Sigmar;140;AOS
+5;Freeguild Cavaliers;Cities of Sigmar;180;AOS
+10;Freeguild Steelhelms;Cities of Sigmar;110;AOS
+0;Mallus Forgepriest;Cities of Sigmar;0;AOS
+0;Freeguild Grenadiers;Cities of Sigmar;0;AOS
+0;Freeguild Gallants;Cities of Sigmar;0;AOS
+0;Jorvan Kreel, Heir of the Kraken;Cities of Sigmar;0;AOS
+1;Freeguild Marshal and Relic Envoy;Cities of Sigmar;100;AOS
+1;Pontifex Zenestra, Matriarch of the Great Wheel;Cities of Sigmar;170;AOS
+0;Freeguild Command Corps Whisperblade;Cities of Sigmar;0;AOS
+0;Freeguild Command Corps Arch-Knight and Retinue;Cities of Sigmar;0;AOS
+10;Freeguild Steelhelms;Cities of Sigmar;110;AOS
+0;Heroes of The Jade Abbey;Cities of Sigmar;0;AOS
+1;Erasmus Zonn, the Enlightened One;Cities of Sigmar;160;AOS
+2;Galen and Doralia ven Denst;Cities of Sigmar;140;AOS
+1;Dawners Triumph;Cities of Sigmar;0;AOS
+1;Aqshian Pyrocaster;Cities of Sigmar;100;AOS
+1;Conqueror Cogfort;Cities of Sigmar;420;AOS
+1;Amethyst Knellmage;Cities of Sigmar;110;AOS
+3;Freeguild Command Corps Adjutants;Cities of Sigmar;200;AOS
+1;Cannonade Cogfort;Cities of Sigmar;530;AOS
+2;Freeguild Command Corps Auxiliaries;Cities of Sigmar;0;AOS
+2;Gate Gargants;Cities of Sigmar;320;AOS
+0;Ven Denst’s Hounds;Cities of Sigmar;230;AOS
+0;Reinholt’s Sharpshooters;Cities of Sigmar;400;AOS
+0;Jorvan Kreel, Heir of the Kraken;Cities of Sigmar;0;AOS
+0;Mallus Forgepriest;Cities of Sigmar;0;AOS
+0;Freeguild Gallants;Cities of Sigmar;0;AOS
+0;Freeguild Grenadiers;Cities of Sigmar;0;AOS
+0;Rogue Engine;Cities of Sigmar;0;AOS
+0;Cogfort Raiders;Cities of Sigmar;0;AOS
+0;Outlaw Cannonade Cogfort;Cities of Sigmar;0;AOS
+0;Outlaw Conqueror Cogfort;Cities of Sigmar;0;AOS
+5;Allies of the Free Cities Auric Hearthguard;Cities of Sigmar;130;AOS
+9;Allies of the Free Cities Vulkyn Flameseekers;Cities of Sigmar;160;AOS
+10;Allies of the Free Cities Vanari Auralan Sentinels;Cities of Sigmar;140;AOS
+10;Allies of the Free Cities Vanari Auralan Wardens;Cities of Sigmar;120;AOS
+1;Immolator Cogfort;Cities of Sigmar;510;AOS
+1;Linebreaker Cogfort;Cities of Sigmar;450;AOS
+0;Bloodthirsty Shiver;Cities of Sigmar;0;AOS
+0;Dawnrider Lance;Cities of Sigmar;0;AOS
+0;Drekki’s Privateers;Cities of Sigmar;0;AOS
+0;Drycha’s Talons;Cities of Sigmar;0;AOS
+0;Elthwin’s Thorns;Cities of Sigmar;0;AOS
+0;Enforcers of the Tithe;Cities of Sigmar;0;AOS
+0;Exile Scavengers;Cities of Sigmar;0;AOS
+0;Fjori’s Flamebearers;Cities of Sigmar;0;AOS
+0;Gotrek Gurnisson;Cities of Sigmar;0;AOS
+0;Khinerai Death Flight;Cities of Sigmar;0;AOS
+0;Mask of the Deceiver;Cities of Sigmar;0;AOS
+0;Namarti Shore Raid;Cities of Sigmar;0;AOS
+0;Nurgle’s Gift;Cities of Sigmar;0;AOS
+0;Sigil Convocation;Cities of Sigmar;0;AOS
+0;Sky-Port Profiteers;Cities of Sigmar;0;AOS
+0;Snerk’s Trogg-Fer-Hire;Cities of Sigmar;0;AOS
+0;The Blacktalons;Cities of Sigmar;0;AOS
+0;The Crimson Lash;Cities of Sigmar;0;AOS
+0;The Horizon Seekers;Cities of Sigmar;0;AOS
+0;The Scarlet Jury;Cities of Sigmar;0;AOS
+0;The Twisted Branch;Cities of Sigmar;0;AOS
+0;Valnir’s Stormwing;Cities of Sigmar;0;AOS
+0;Freeguild Command Corps Whisperblade;Cities of Sigmar;0;AOS
+1;Scourge of Aqshy Pontifex Zenestra, Matriarch of the Great Wheel;Cities of Sigmar;160;AOS
+1;Scourge of Aqshy Alchemite Warforger;Cities of Sigmar;90;AOS
+0;Cities of Sigmar Hero;Cities of Sigmar;0;AOS
+0;Urrgar’s Maulerguts;Cities of Sigmar;0;AOS
+0;Bundo Whalebiter;Cities of Sigmar;0;AOS
+0;Krong The Club;Cities of Sigmar;0;AOS
+0;Stumblefoot Gargant;Cities of Sigmar;0;AOS
+1;Collegiate Mage;Cities of Sigmar;0;AOS
+10;Sisters of Slaughter;Daughters of Khaine;110;AOS
+10;Witch Aelves;Daughters of Khaine;120;AOS
+1;Avatar of Khaine;Daughters of Khaine;0;AOS
+1;Bloodwrack Medusa;Daughters of Khaine;140;AOS
+1;Hag Queen;Daughters of Khaine;120;AOS
+1;Morathi-Khaine;Daughters of Khaine;770;AOS
+1;Slaughter Queen;Daughters of Khaine;130;AOS
+1;Bloodwrack Shrine;Daughters of Khaine;270;AOS
+1;Hag Queen on Cauldron of Blood;Daughters of Khaine;280;AOS
+1;Slaughter Queen on Cauldron of Blood;Daughters of Khaine;300;AOS
+5;Doomfire Warlocks;Daughters of Khaine;150;AOS
+5;Blood Sisters;Daughters of Khaine;170;AOS
+5;Blood Stalkers;Daughters of Khaine;150;AOS
+5;Khinerai Heartrenders;Daughters of Khaine;100;AOS
+5;Khinerai Lifetakers;Daughters of Khaine;110;AOS
+1;The Shadow Queen;Daughters of Khaine;0;AOS
+1;Melusai Ironscale;Daughters of Khaine;100;AOS
+1;Bladewind;Daughters of Khaine;0;AOS
+1;Bloodwrack Viper;Daughters of Khaine;0;AOS
+1;Heart of Fury;Daughters of Khaine;0;AOS
+9;Khainite Shadowstalkers;Daughters of Khaine;130;AOS
+1;High Gladiatrix;Daughters of Khaine;120;AOS
+4;The Shadeborn;Daughters of Khaine;80;AOS
+5;Gryselle’s Arenai;Daughters of Khaine;70;AOS
+1;Krethusa the Croneseer;Daughters of Khaine;220;AOS
+5;Morgwaeth’s Blade-coven;Daughters of Khaine;120;AOS
+1;Maleneth Witchblade;Daughters of Khaine;170;AOS
+1;Scourge of Ghyran Krethusa the Croneseer;Daughters of Khaine;260;AOS
+1;Scourge of Ghyran Bloodwrack Shrine;Daughters of Khaine;250;AOS
+4;Knives of the Crone;Daughters of Khaine;220;AOS
+10;Blood Hags;Daughters of Khaine;150;AOS
+1;Shrine of Dark Tribute;Daughters of Khaine;20;AOS
+0;Khinerai Death Flight;Daughters of Khaine;0;AOS
+0;The Crimson Lash;Daughters of Khaine;0;AOS
+0;Daughters of Khaine Hero;Daughters of Khaine;0;AOS
+0;Bloodthirsty Shiver;Daughters of Khaine;0;AOS
+0;Dawnrider Lance;Daughters of Khaine;0;AOS
+0;Drekki’s Privateers;Daughters of Khaine;0;AOS
+0;Drycha’s Talons;Daughters of Khaine;0;AOS
+0;Elthwin’s Thorns;Daughters of Khaine;0;AOS
+0;Enforcers of the Tithe;Daughters of Khaine;0;AOS
+0;Exile Scavengers;Daughters of Khaine;0;AOS
+0;Fjori’s Flamebearers;Daughters of Khaine;0;AOS
+0;Gotrek Gurnisson;Daughters of Khaine;0;AOS
+0;Mask of the Deceiver;Daughters of Khaine;0;AOS
+0;Namarti Shore Raid;Daughters of Khaine;0;AOS
+0;Nurgle’s Gift;Daughters of Khaine;0;AOS
+0;Sigil Convocation;Daughters of Khaine;0;AOS
+0;Sky-Port Profiteers;Daughters of Khaine;0;AOS
+0;Snerk’s Trogg-Fer-Hire;Daughters of Khaine;0;AOS
+0;The Blacktalons;Daughters of Khaine;0;AOS
+0;The Horizon Seekers;Daughters of Khaine;0;AOS
+0;The Twisted Branch;Daughters of Khaine;0;AOS
+0;Valnir’s Stormwing;Daughters of Khaine;0;AOS
+5;Doomfire Warlocks;Daughters of Khaine;150;AOS
+1;Melusai Ironscale;Daughters of Khaine;100;AOS
+5;Blood Stalkers;Daughters of Khaine;150;AOS
+10;Witch Aelves;Daughters of Khaine;120;AOS
+1;Hag Queen;Daughters of Khaine;120;AOS
+1;Slaughter Queen on Cauldron of Blood;Daughters of Khaine;300;AOS
+9;Khainite Shadowstalkers;Daughters of Khaine;130;AOS
+10;Sisters of Slaughter;Daughters of Khaine;110;AOS
+1;Bloodwrack Medusa;Daughters of Khaine;140;AOS
+0;Norgrimm’s Rune Throng;Daughters of Khaine;330;AOS
+0;Saviours of Cinderfall;Daughters of Khaine;270;AOS
+0;Heroes of The Jade Abbey;Daughters of Khaine;0;AOS
+0;Ven Denst’s Hounds;Daughters of Khaine;230;AOS
+0;Reinholt’s Sharpshooters;Daughters of Khaine;400;AOS
+0;Rogue Engine;Daughters of Khaine;0;AOS
+0;Cogfort Raiders;Daughters of Khaine;0;AOS
+1;Scourge of Aqshy Melusai Ironscale;Daughters of Khaine;150;AOS
+9;Scourge of Aqshy Khainite Shadowstalkers;Daughters of Khaine;120;AOS
+0;Bundo Whalebiter;Daughters of Khaine;0;AOS
+0;Krong The Club;Daughters of Khaine;0;AOS
+0;Stumblefoot Gargant;Daughters of Khaine;0;AOS
+10;Kairic Acolytes;Disciples of Tzeentch;90;AOS
+10;Tzaangors;Disciples of Tzeentch;170;AOS
+1;The Blue Scribes;Disciples of Tzeentch;180;AOS
+1;Changecaster, Herald of Tzeentch;Disciples of Tzeentch;130;AOS
+1;The Changeling;Disciples of Tzeentch;140;AOS
+1;Curseling, Eye of Tzeentch;Disciples of Tzeentch;170;AOS
+1;Fatemaster;Disciples of Tzeentch;150;AOS
+1;Fateskimmer, Herald of Tzeentch on Burning Chariot;Disciples of Tzeentch;150;AOS
+1;Fluxmaster, Herald of Tzeentch on Disc;Disciples of Tzeentch;180;AOS
+1;Gaunt Summoner;Disciples of Tzeentch;160;AOS
+1;Magister;Disciples of Tzeentch;140;AOS
+1;Magister on Disc of Tzeentch;Disciples of Tzeentch;150;AOS
+1;Ogroid Thaumaturge;Disciples of Tzeentch;120;AOS
+1;Tzaangor Shaman;Disciples of Tzeentch;130;AOS
+1;Kairos Fateweaver;Disciples of Tzeentch;400;AOS
+1;Lord of Change;Disciples of Tzeentch;380;AOS
+3;Flamers of Tzeentch;Disciples of Tzeentch;130;AOS
+3;Screamers of Tzeentch;Disciples of Tzeentch;80;AOS
+3;Tzaangor Enlightened;Disciples of Tzeentch;200;AOS
+3;Tzaangor Skyfires;Disciples of Tzeentch;160;AOS
+1;Burning Sigil of Tzeentch;Disciples of Tzeentch;0;AOS
+1;Tome of Eyes;Disciples of Tzeentch;0;AOS
+1;Daemonic Simulacrum;Disciples of Tzeentch;0;AOS
+1;Gaunt Summoner on Disc of Tzeentch;Disciples of Tzeentch;190;AOS
+9;Jade Obelisk;Disciples of Tzeentch;100;AOS
+5;Ephilim’s Pandaemonium;Disciples of Tzeentch;100;AOS
+1;Chaos Spawn of Tzeentch;Disciples of Tzeentch;60;AOS
+1;Exalted Flamer of Tzeentch;Disciples of Tzeentch;110;AOS
+1;Burning Chariot of Tzeentch;Disciples of Tzeentch;130;AOS
+10;Pink Horrors;Disciples of Tzeentch;170;AOS
+10;Blue Horrors and Brimstone Horrors;Disciples of Tzeentch;120;AOS
+5;Eyes of the Nine;Disciples of Tzeentch;100;AOS
+0;The Coven of Thryx;Disciples of Tzeentch;0;AOS
+1;Scourge of Ghyran Ogroid Thaumaturge;Disciples of Tzeentch;140;AOS
+10;Scourge of Ghyran Kairic Acolytes;Disciples of Tzeentch;110;AOS
+10;Pyrofane Fusiliers;Disciples of Tzeentch;120;AOS
+1;Pyrofane Great Cannon;Disciples of Tzeentch;130;AOS
+1;Pyrofane Fusil-Major on Ogor Warhulk;Disciples of Tzeentch;180;AOS
+10;Pyrofane Steelhelms;Disciples of Tzeentch;100;AOS
+1;Argent Shard;Disciples of Tzeentch;0;AOS
+0;Mask of the Deceiver;Disciples of Tzeentch;0;AOS
+1;Fatemaster on Disc of Tzeentch;Disciples of Tzeentch;160;AOS
+0;Seekers of Silver;Disciples of Tzeentch;380;AOS
+3;Tzaangor Enlightened on Foot;Disciples of Tzeentch;110;AOS
+0;Mask of The Deceiver;Disciples of Tzeentch;0;AOS
+0;Brand’s Oathbound;Disciples of Tzeentch;0;AOS
+0;Diseased Revellers;Disciples of Tzeentch;0;AOS
+0;Godmarked Ascendant;Disciples of Tzeentch;0;AOS
+0;Hargax’s Pit-Beasts;Disciples of Tzeentch;0;AOS
+0;Krittok’s Clawpack;Disciples of Tzeentch;0;AOS
+0;Lord Skaldior’s Chosen;Disciples of Tzeentch;0;AOS
+0;Phulgoth’s Shudderhood;Disciples of Tzeentch;0;AOS
+0;Seeker of the Dread Dirge;Disciples of Tzeentch;0;AOS
+0;Snerk’s Trogg-Fer-Hire;Disciples of Tzeentch;0;AOS
+0;Squires of the Everchosen;Disciples of Tzeentch;0;AOS
+0;The Curse-Steel Battery;Disciples of Tzeentch;0;AOS
+0;The Exiled One;Disciples of Tzeentch;400;AOS
+0;The Pustules;Disciples of Tzeentch;0;AOS
+0;The Red Revelation;Disciples of Tzeentch;350;AOS
+0;Volt-Klaw’s Enginecoven;Disciples of Tzeentch;0;AOS
+0;Disciples of Tzeentch Hero;Disciples of Tzeentch;0;AOS
+3;Tzaangor Enlightened;Disciples of Tzeentch;200;AOS
+1;Tzaangor Shaman;Disciples of Tzeentch;130;AOS
+3;Tzaangor Skyfires;Disciples of Tzeentch;160;AOS
+10;Tzaangors;Disciples of Tzeentch;170;AOS
+1;Magister on Disc of Tzeentch;Disciples of Tzeentch;150;AOS
+3;Screamers of Tzeentch;Disciples of Tzeentch;80;AOS
+3;Flamers of Tzeentch;Disciples of Tzeentch;130;AOS
+10;Kairic Acolytes;Disciples of Tzeentch;90;AOS
+10;Tzaangors;Disciples of Tzeentch;170;AOS
+0;Rogue Engine;Disciples of Tzeentch;0;AOS
+0;Cogfort Raiders;Disciples of Tzeentch;0;AOS
+3;Scourge of Aqshy Screamers of Tzeentch;Disciples of Tzeentch;120;AOS
+1;Scourge of Aqshy Ogroid Thaumaturge;Disciples of Tzeentch;140;AOS
+0;Mist-Clad Revellers;Disciples of Tzeentch;0;AOS
+0;The Accursed Reflection;Disciples of Tzeentch;0;AOS
+0;One-eyed Grunnock;Disciples of Tzeentch;0;AOS
+0;Krong The Club;Disciples of Tzeentch;0;AOS
+0;Stumblefoot Gargant;Disciples of Tzeentch;0;AOS
+1;Aethervoid Pendulum;Endless Spells;0;AOS
+1;The Burning Head;Endless Spells;0;AOS
+1;Chronomantic Cogs;Endless Spells;0;AOS
+1;Emerald Lifeswarm;Endless Spells;0;AOS
+2;Geminids of Uhl-Gysh;Endless Spells;0;AOS
+1;Horrorghast;Endless Spells;0;AOS
+1;Lauchon the Soulseeker;Endless Spells;0;AOS
+1;Malevolent Maelstrom;Endless Spells;0;AOS
+1;Prismatic Palisade;Endless Spells;0;AOS
+1;Purple Sun of Shyish;Endless Spells;0;AOS
+1;Quicksilver Swords;Endless Spells;0;AOS
+1;Ravenak’s Gnashing Jaws;Endless Spells;0;AOS
+2;Soulscream Bridge;Endless Spells;0;AOS
+3;Soulsnare Shackles;Endless Spells;0;AOS
+1;Suffocating Gravetide;Endless Spells;0;AOS
+2;Umbral Spellportal;Endless Spells;0;AOS
+2;Shards of Valagharr;Endless Spells;0;AOS
+1;Krondspine Incarnate of Ghur;Endless Spells;0;AOS
+20;Crypt Ghouls;Flesh-eater Courts;140;AOS
+1;Royal Terrorgheist;Flesh-eater Courts;240;AOS
+1;Royal Zombie Dragon;Flesh-eater Courts;260;AOS
+1;Abhorrant Archregent;Flesh-eater Courts;120;AOS
+1;Abhorrant Ghoul King;Flesh-eater Courts;100;AOS
+1;Crypt Ghast Courtier;Flesh-eater Courts;80;AOS
+1;Crypt Haunter Courtier;Flesh-eater Courts;120;AOS
+1;Crypt Infernal Courtier;Flesh-eater Courts;140;AOS
+1;Varghulf Courtier;Flesh-eater Courts;100;AOS
+1;Abhorrant Ghoul King on Royal Terrorgheist;Flesh-eater Courts;400;AOS
+1;Abhorrant Ghoul King on Royal Zombie Dragon;Flesh-eater Courts;400;AOS
+3;Crypt Flayers;Flesh-eater Courts;140;AOS
+3;Crypt Horrors;Flesh-eater Courts;150;AOS
+1;Cadaverous Barricade;Flesh-eater Courts;0;AOS
+1;Chalice of Ushoran;Flesh-eater Courts;0;AOS
+1;Corpsemare Stampede;Flesh-eater Courts;0;AOS
+1;Charnel Throne;Flesh-eater Courts;10;AOS
+7;The Grymwatch;Flesh-eater Courts;80;AOS
+10;Royal Beastflayers;Flesh-eater Courts;120;AOS
+1;Marrowscroll Herald;Flesh-eater Courts;90;AOS
+1;Ushoran, Mortarch of Delusion;Flesh-eater Courts;450;AOS
+1;Abhorrant Cardinal;Flesh-eater Courts;130;AOS
+1;Abhorrant Gorewarden;Flesh-eater Courts;140;AOS
+1;Grand Justice Gormayne;Flesh-eater Courts;110;AOS
+1;Royal Decapitator;Flesh-eater Courts;100;AOS
+10;Cryptguard;Flesh-eater Courts;120;AOS
+3;Morbheg Knights;Flesh-eater Courts;150;AOS
+5;The Skinnerkin;Flesh-eater Courts;80;AOS
+2;Crypt Flayers (2 models);Flesh-eater Courts;90;AOS
+2;Crypt Horrors (2 models);Flesh-eater Courts;100;AOS
+1;Nagash, Supreme Lord of the Undead;Flesh-eater Courts;750;AOS
+0;The Summerking’s Entourage;Flesh-eater Courts;640;AOS
+0;Jerrion’s Delegation;Flesh-eater Courts;480;AOS
+0;Squires of the Everchosen;Flesh-eater Courts;0;AOS
+1;Scourge of Ghyran Abhorrant Ghoul King;Flesh-eater Courts;110;AOS
+1;Scourge of Ghyran Abhorrant Gorewarden;Flesh-eater Courts;130;AOS
+1;High Falconer Felgryn;Flesh-eater Courts;120;AOS
+0;The Horror of Hallow’s Watch;Flesh-eater Courts;230;AOS
+0;The Scarlet Jury;Flesh-eater Courts;0;AOS
+0;Blades of the Hollow King;Flesh-eater Courts;0;AOS
+0;Casket of Resurrections;Flesh-eater Courts;0;AOS
+0;Craventhrone Executioners;Flesh-eater Courts;0;AOS
+0;Neferata’s Royal Echelon;Flesh-eater Courts;0;AOS
+0;The Beast of Castle Sternieste;Flesh-eater Courts;0;AOS
+0;The Sorrowmourn Choir;Flesh-eater Courts;0;AOS
+0;The Sternieste Garrison;Flesh-eater Courts;0;AOS
+0;Veremord’s Shamblers;Flesh-eater Courts;0;AOS
+0;Flesh-eater Courts Hero;Flesh-eater Courts;0;AOS
+0;Nurgle’s Gift;Flesh-eater Courts;0;AOS
+0;Mask of the Deceiver;Flesh-eater Courts;0;AOS
+0;Scions of the Necropolis;Flesh-eater Courts;0;AOS
+0;The Liche’s Hand;Flesh-eater Courts;0;AOS
+0;Enforcers of the Tithe;Flesh-eater Courts;0;AOS
+0;Heralds of the Bone-tithe;Flesh-eater Courts;0;AOS
+0;Karahtet’s Siege Breaker;Flesh-eater Courts;0;AOS
+0;The Lost-Song Spirits;Flesh-eater Courts;0;AOS
+10;Cryptguard;Flesh-eater Courts;120;AOS
+3;Morbheg Knights;Flesh-eater Courts;150;AOS
+1;Abhorrant Archregent;Flesh-eater Courts;120;AOS
+1;Varghulf Courtier;Flesh-eater Courts;100;AOS
+1;Abhorrant Gorewarden;Flesh-eater Courts;140;AOS
+3;Crypt Horrors;Flesh-eater Courts;150;AOS
+10;Royal Beastflayers;Flesh-eater Courts;120;AOS
+3;Crypt Flayers;Flesh-eater Courts;140;AOS
+0;Rogue Engine;Flesh-eater Courts;0;AOS
+0;Cogfort Raiders;Flesh-eater Courts;0;AOS
+1;Scourge of Aqshy Royal Decapitator;Flesh-eater Courts;100;AOS
+1;Scourge of Aqshy Varghulf Courtier;Flesh-eater Courts;110;AOS
+0;Urrgar’s Maulerguts;Flesh-eater Courts;0;AOS
+0;Big Drogg Fort-Kicka;Flesh-eater Courts;0;AOS
+0;Krong The Club;Flesh-eater Courts;0;AOS
+0;Stumblefoot Gargant;Flesh-eater Courts;0;AOS
+1;Auric Runefather;Fyreslayers;130;AOS
+1;Auric Runemaster;Fyreslayers;160;AOS
+1;Auric Runesmiter;Fyreslayers;110;AOS
+1;Auric Runeson;Fyreslayers;90;AOS
+1;Battlesmith;Fyreslayers;100;AOS
+4;The Chosen Axes;Fyreslayers;120;AOS
+1;Auric Runefather on Magmadroth;Fyreslayers;320;AOS
+1;Auric Runesmiter on Magmadroth;Fyreslayers;280;AOS
+1;Auric Runeson on Magmadroth;Fyreslayers;240;AOS
+5;Auric Hearthguard;Fyreslayers;120;AOS
+1;Doomseeker;Fyreslayers;80;AOS
+1;Grimwrath Berzerker;Fyreslayers;110;AOS
+1;Zharrgron Flame-spitter;Fyreslayers;0;AOS
+1;Runic Fyrewall;Fyreslayers;0;AOS
+1;Molten Infernoth;Fyreslayers;0;AOS
+1;Magmic Battleforge;Fyreslayers;0;AOS
+10;Vulkite Berzerkers with Bladed Slingshields;Fyreslayers;140;AOS
+1;Auric Flamekeeper;Fyreslayers;80;AOS
+1;Grimhold Exile;Fyreslayers;90;AOS
+9;Vulkyn Flameseekers;Fyreslayers;160;AOS
+5;Hearthguard Berzerker with Berzerker Broadaxes;Fyreslayers;100;AOS
+10;Vulkite Berzerkers with Fyresteel Weapons;Fyreslayers;120;AOS
+5;Hearthguard Berzerkers with Flamestrike Poleaxes;Fyreslayers;110;AOS
+0;Fjori’s Flamebearers;Fyreslayers;0;AOS
+0;The Blacktalons;Fyreslayers;0;AOS
+0;The Horizon Seekers;Fyreslayers;0;AOS
+0;Valnir’s Stormwing;Fyreslayers;0;AOS
+0;Gotrek Gurnisson;Fyreslayers;0;AOS
+0;Gotrek Gurnisson;Fyreslayers;0;AOS
+0;Gotrek Gurnisson;Fyreslayers;0;AOS
+1;Scourge of Ghyran Auric Runeson on Magmadroth;Fyreslayers;340;AOS
+0;Exile Scavengers;Fyreslayers;0;AOS
+0;Drekki’s Privateers;Fyreslayers;0;AOS
+0;Sky-Port Profiteers;Fyreslayers;0;AOS
+0;Bloodthirsty Shiver;Fyreslayers;0;AOS
+0;Namarti Shore Raid;Fyreslayers;0;AOS
+0;Grombrindal, The White Dwarf;Fyreslayers;0;AOS
+0;Nurgle’s Gift;Fyreslayers;0;AOS
+0;Mask of the Deceiver;Fyreslayers;0;AOS
+0;Sigil Convocation;Fyreslayers;0;AOS
+0;Dawnrider Lance;Fyreslayers;0;AOS
+0;Enforcers of the Tithe;Fyreslayers;0;AOS
+0;Elthwin’s Thorns;Fyreslayers;0;AOS
+0;Khinerai Death Flight;Fyreslayers;0;AOS
+0;The Crimson Lash;Fyreslayers;0;AOS
+1;Battlesmith;Fyreslayers;100;AOS
+5;Hearthguard Berzerkers;Fyreslayers;0;AOS
+5;Vulkite Berzerkers;Fyreslayers;0;AOS
+0;Norgrimm’s Rune Throng;Fyreslayers;330;AOS
+0;Saviours of Cinderfall;Fyreslayers;270;AOS
+0;Heroes of The Jade Abbey;Fyreslayers;0;AOS
+0;Ven Denst’s Hounds;Fyreslayers;230;AOS
+0;Reinholt’s Sharpshooters;Fyreslayers;400;AOS
+0;Rogue Engine;Fyreslayers;0;AOS
+0;Cogfort Raiders;Fyreslayers;0;AOS
+1;Scourge of Aqshy Auric Runeson on Magmadroth;Fyreslayers;330;AOS
+9;Scourge of Aqshy Vulkyn Flameseekers;Fyreslayers;190;AOS
+0;Urrgar’s Maulerguts;Fyreslayers;0;AOS
+0;Bundo Whalebiter;Fyreslayers;0;AOS
+0;Krong The Club;Fyreslayers;0;AOS
+0;Stumblefoot Gargant;Fyreslayers;0;AOS
+20;Moonclan Shootas;Gloomspite Gitz;110;AOS
+20;Moonclan Stabbas;Gloomspite Gitz;110;AOS
+1;Dankhold Troggboss;Gloomspite Gitz;200;AOS
+1;Fungoid Cave-Shaman;Gloomspite Gitz;100;AOS
+1;Loonboss on Mangler Squigs;Gloomspite Gitz;140;AOS
+1;Loonboss on Giant Cave Squig;Gloomspite Gitz;80;AOS
+1;Loonboss with Giant Cave Squig;Gloomspite Gitz;120;AOS
+1;Madcap Shaman;Gloomspite Gitz;80;AOS
+1;Mollog;Gloomspite Gitz;210;AOS
+1;Scuttleboss on Gigantic Spider;Gloomspite Gitz;160;AOS
+1;Skragrott, the Loonking;Gloomspite Gitz;200;AOS
+1;Webspinner Shaman;Gloomspite Gitz;100;AOS
+9;Zarbag’s Gitz;Gloomspite Gitz;130;AOS
+1;Loonboss;Gloomspite Gitz;70;AOS
+1;Webspinner Shaman on Arachnarok Spider;Gloomspite Gitz;230;AOS
+1;Aleguzzler Gargant;Gloomspite Gitz;150;AOS
+1;Arachnarok Spider with Flinger;Gloomspite Gitz;210;AOS
+1;Arachnarok Spider with Spiderfang Warparty;Gloomspite Gitz;200;AOS
+1;Mangler Squigs;Gloomspite Gitz;130;AOS
+1;Skitterstrand Arachnarok;Gloomspite Gitz;180;AOS
+5;Boingrot Bounderz;Gloomspite Gitz;120;AOS
+3;Fellwater Troggoths;Gloomspite Gitz;160;AOS
+5;Loonsmasha Fanatics;Gloomspite Gitz;110;AOS
+3;Rockgut Troggoths;Gloomspite Gitz;170;AOS
+6;Sneaky Snufflers;Gloomspite Gitz;80;AOS
+5;Spider Riders;Gloomspite Gitz;110;AOS
+5;Sporesplatta Fanatics;Gloomspite Gitz;90;AOS
+12;Squig Herd;Gloomspite Gitz;100;AOS
+10;Squig Hoppers;Gloomspite Gitz;150;AOS
+5;Gobbapalooza;Gloomspite Gitz;150;AOS
+1;Malevolent Moon;Gloomspite Gitz;0;AOS
+1;Mork’s Mighty Mushroom;Gloomspite Gitz;0;AOS
+1;Scrapskuttle’s Arachnacauldron;Gloomspite Gitz;0;AOS
+1;Scuttletide;Gloomspite Gitz;0;AOS
+1;Bad Moon Loonshrine;Gloomspite Gitz;0;AOS
+3;Rippa’s Snarlfangs;Gloomspite Gitz;100;AOS
+1;Doom Diver Catapult;Gloomspite Gitz;150;AOS
+7;Grinkrak’s Looncourt;Gloomspite Gitz;100;AOS
+1;Squigboss with Gnasha-Squig;Gloomspite Gitz;120;AOS
+5;Snarlfang Riders;Gloomspite Gitz;110;AOS
+1;Rabble-Rowza;Gloomspite Gitz;100;AOS
+1;Kragnos, the End of Empires;Gloomspite Gitz;580;AOS
+1;Trugg, the Troggoth King;Gloomspite Gitz;340;AOS
+1;Dankhold Troggoth;Gloomspite Gitz;140;AOS
+0;Braggit’s Bottle-Snatchaz;Gloomspite Gitz;0;AOS
+0;Snerk’s Trogg-Fer-Hire;Gloomspite Gitz;0;AOS
+1;Droggz Da Sunchompa;Gloomspite Gitz;150;AOS
+1;Frazzlegit Shaman on War-Wheela;Gloomspite Gitz;120;AOS
+2;Wolfgit Retinue;Gloomspite Gitz;70;AOS
+2;Sunsteala Wheelas;Gloomspite Gitz;120;AOS
+3;Snarlpack Cavalry;Gloomspite Gitz;100;AOS
+1;Snarlboss on War-Wheela;Gloomspite Gitz;120;AOS
+1;Snarlboss;Gloomspite Gitz;100;AOS
+0;The Shinestealaz;Gloomspite Gitz;500;AOS
+0;Skulkrik’s Loonladz;Gloomspite Gitz;280;AOS
+0;Da Kountin’ Krew;Gloomspite Gitz;0;AOS
+0;Big Grikk’s Kruleshots;Gloomspite Gitz;0;AOS
+0;Da Hurtlin’ Hogz;Gloomspite Gitz;0;AOS
+0;Goroan Scions;Gloomspite Gitz;0;AOS
+5;Borgit’s Beastgrabbaz;Gloomspite Gitz;90;AOS
+5;Scourge of Ghyran Sporesplatta Fanatics;Gloomspite Gitz;80;AOS
+5;Scourge of Ghyran Loonsmasha Fanatics;Gloomspite Gitz;110;AOS
+0;Exile Scavengers;Gloomspite Gitz;0;AOS
+0;Grot Hero;Gloomspite Gitz;0;AOS
+0;Troggoth Hero;Gloomspite Gitz;0;AOS
+0;Nurgle’s Gift;Gloomspite Gitz;0;AOS
+0;Weird-crafta;Gloomspite Gitz;0;AOS
+0;Mask of the Deceiver;Gloomspite Gitz;0;AOS
+0;Enforcers of the Tithe;Gloomspite Gitz;0;AOS
+1;Snarlboss;Gloomspite Gitz;100;AOS
+2;Sunsteala Wheelas;Gloomspite Gitz;120;AOS
+3;Snarlpack Cavalry;Gloomspite Gitz;100;AOS
+2;Wolfgit Retinue;Gloomspite Gitz;70;AOS
+10;Squig Hoppers;Gloomspite Gitz;150;AOS
+20;Moonclan Stabbas;Gloomspite Gitz;110;AOS
+1;Loonboss;Gloomspite Gitz;70;AOS
+3;Rockgut Troggoths;Gloomspite Gitz;170;AOS
+0;Rogue Engine;Gloomspite Gitz;0;AOS
+0;Cogfort Raiders;Gloomspite Gitz;0;AOS
+3;Scourge of Aqshy Fellwater Troggoths;Gloomspite Gitz;160;AOS
+2;Scourge of Aqshy Sunsteala Wheelas;Gloomspite Gitz;150;AOS
+0;Okar’s Torrbad;Gloomspite Gitz;0;AOS
+0;Urrgar’s Maulerguts;Gloomspite Gitz;0;AOS
+0;Bundo Whalebiter;Gloomspite Gitz;0;AOS
+0;Odo Godswallow;Gloomspite Gitz;0;AOS
+0;Big Drogg Fort-Kicka;Gloomspite Gitz;0;AOS
+0;One-eyed Grunnock;Gloomspite Gitz;0;AOS
+0;Krong The Club;Gloomspite Gitz;0;AOS
+0;Stumblefoot Gargant;Gloomspite Gitz;0;AOS
+1;Urak Taar, the First Daemonsmith;Helsmiths of Hashut;340;AOS
+1;Deathshrieker Rocket Battery;Helsmiths of Hashut;140;AOS
+1;Tormentor Bombard;Helsmiths of Hashut;130;AOS
+1;Daemonsmith on Infernal Taurus;Helsmiths of Hashut;270;AOS
+3;Bull Centaurs;Helsmiths of Hashut;190;AOS
+10;Infernal Cohort with Hashutite Spears;Helsmiths of Hashut;90;AOS
+1;Daemonsmith;Helsmiths of Hashut;80;AOS
+5;Infernal Razers with Flamehurlers;Helsmiths of Hashut;90;AOS
+10;Hobgrotz Vandalz;Helsmiths of Hashut;70;AOS
+1;War Despot;Helsmiths of Hashut;80;AOS
+1;Ashen Elder;Helsmiths of Hashut;120;AOS
+5;Infernal Razers with Blunderbusses;Helsmiths of Hashut;110;AOS
+10;Infernal Cohort with Hashutite Blades;Helsmiths of Hashut;90;AOS
+3;Anointed Sentinels;Helsmiths of Hashut;130;AOS
+1;Dominator Engine with Bane Maces;Helsmiths of Hashut;140;AOS
+1;Dominator Engine with Immolation Cannons;Helsmiths of Hashut;150;AOS
+5;The Blood of the Bull;Helsmiths of Hashut;120;AOS
+0;Seeker of the Dread Dirge;Helsmiths of Hashut;0;AOS
+0;The Curse-Steel Battery;Helsmiths of Hashut;0;AOS
+0;Brand’s Oathbound;Helsmiths of Hashut;0;AOS
+0;The Exiled One;Helsmiths of Hashut;400;AOS
+0;Hargax’s Pit-Beasts;Helsmiths of Hashut;0;AOS
+0;Lord Skaldior’s Chosen;Helsmiths of Hashut;0;AOS
+0;The Red Revelation;Helsmiths of Hashut;350;AOS
+10;Scourge of Ghyran Infernal Cohort with Hashutite Blades;Helsmiths of Hashut;110;AOS
+1;Scourge of Ghyran War Despot;Helsmiths of Hashut;130;AOS
+0;Helsmiths of Hashut Hero;Helsmiths of Hashut;0;AOS
+0;Phulgoth’s Shudderhood;Helsmiths of Hashut;0;AOS
+0;Nurgle’s Gift;Helsmiths of Hashut;0;AOS
+0;The Pustules;Helsmiths of Hashut;0;AOS
+0;Diseased Revellers;Helsmiths of Hashut;0;AOS
+0;Mask of the Deceiver;Helsmiths of Hashut;0;AOS
+0;Seekers of Silver;Helsmiths of Hashut;380;AOS
+0;Enforcers of the Tithe;Helsmiths of Hashut;0;AOS
+10;Infernal Cohort with Hashutite Spears;Helsmiths of Hashut;90;AOS
+1;War Despot;Helsmiths of Hashut;80;AOS
+1;Dominator Engine with Immolation Cannons;Helsmiths of Hashut;150;AOS
+1;Tormentor Bombard;Helsmiths of Hashut;130;AOS
+0;Rogue Engine;Helsmiths of Hashut;0;AOS
+0;Cogfort Raiders;Helsmiths of Hashut;0;AOS
+1;Scourge of Aqshy Daemonsmith on Infernal Taurus;Helsmiths of Hashut;350;AOS
+3;Scourge of Aqshy Anointed Sentinels;Helsmiths of Hashut;170;AOS
+0;Mist-Clad Revellers;Helsmiths of Hashut;0;AOS
+0;The Accursed Reflection;Helsmiths of Hashut;0;AOS
+0;Urrgar’s Maulerguts;Helsmiths of Hashut;0;AOS
+0;One-eyed Grunnock;Helsmiths of Hashut;0;AOS
+0;Krong The Club;Helsmiths of Hashut;0;AOS
+0;Stumblefoot Gargant;Helsmiths of Hashut;0;AOS
+10;Daemonettes;Hedonites of Slaanesh;100;AOS
+1;Bladebringer, Herald on Exalted Chariot;Hedonites of Slaanesh;130;AOS
+1;Bladebringer, Herald on Hellflayer;Hedonites of Slaanesh;140;AOS
+1;Bladebringer, Herald on Seeker Chariot;Hedonites of Slaanesh;130;AOS
+1;Infernal Enrapturess, Herald of Slaanesh;Hedonites of Slaanesh;100;AOS
+1;Syll’Esske, the Vengeful Allegiance;Hedonites of Slaanesh;240;AOS
+1;The Masque;Hedonites of Slaanesh;140;AOS
+1;Viceleader, Herald of Slaanesh;Hedonites of Slaanesh;140;AOS
+1;Keeper of Secrets;Hedonites of Slaanesh;410;AOS
+1;Shalaxi Helbane;Hedonites of Slaanesh;410;AOS
+1;Exalted Chariot;Hedonites of Slaanesh;120;AOS
+3;Fiends;Hedonites of Slaanesh;150;AOS
+1;Hellflayer;Hedonites of Slaanesh;130;AOS
+1;Seeker Chariot;Hedonites of Slaanesh;80;AOS
+5;Seekers;Hedonites of Slaanesh;130;AOS
+1;Fane of Slaanesh;Hedonites of Slaanesh;0;AOS
+1;Dreadful Visage;Hedonites of Slaanesh;0;AOS
+1;Mesmerising Mirror;Hedonites of Slaanesh;0;AOS
+1;Wheels of Excruciation;Hedonites of Slaanesh;0;AOS
+1;Glutos Orscollion, Lord of Gluttony;Hedonites of Slaanesh;460;AOS
+1;Lord of Pain;Hedonites of Slaanesh;110;AOS
+1;Shardspeaker of Slaanesh;Hedonites of Slaanesh;120;AOS
+1;Sigvald, Prince of Slaanesh;Hedonites of Slaanesh;240;AOS
+10;Blissbarb Archers;Hedonites of Slaanesh;140;AOS
+5;Blissbarb Seekers;Hedonites of Slaanesh;160;AOS
+4;The Dread Pageant;Hedonites of Slaanesh;110;AOS
+5;Myrmidesh Painbringers;Hedonites of Slaanesh;130;AOS
+3;Slaangor Fiendbloods;Hedonites of Slaanesh;140;AOS
+5;Slickblade Seekers;Hedonites of Slaanesh;170;AOS
+5;Symbaresh Twinsouls;Hedonites of Slaanesh;120;AOS
+1;Dexcessa, the Talon of Slaanesh;Hedonites of Slaanesh;260;AOS
+1;Synessa, the Voice of Slaanesh;Hedonites of Slaanesh;220;AOS
+1;Contorted Epitome;Hedonites of Slaanesh;150;AOS
+1;Lord of Hubris;Hedonites of Slaanesh;110;AOS
+3;The Thricefold Discord;Hedonites of Slaanesh;130;AOS
+5;Hellstriders;Hedonites of Slaanesh;150;AOS
+1;Scourge of Ghyran Syll’Esske, the Vengeful Allegiance;Hedonites of Slaanesh;180;AOS
+3;Scourge of Ghyran Slaangor Fiendbloods;Hedonites of Slaanesh;150;AOS
+5;Slickblade Seekers;Hedonites of Slaanesh;170;AOS
+3;Slaangor Fiendbloods;Hedonites of Slaanesh;140;AOS
+10;Blissbarb Archers;Hedonites of Slaanesh;140;AOS
+1;Shardspeaker of Slaanesh;Hedonites of Slaanesh;120;AOS
+5;Scourge of Aqshy Blissbarb Seekers;Hedonites of Slaanesh;150;AOS
+1;Scourge of Aqshy Infernal Enrapturess, Herald of Slaanesh;Hedonites of Slaanesh;80;AOS
+3;Thricefold Discord;Hedonites of Slaanesh;190;AOS
+1;Lord of Hysteria;Hedonites of Slaanesh;140;AOS
+0;Mist-Clad Revellers;Hedonites of Slaanesh;0;AOS
+0;The Accursed Reflection;Hedonites of Slaanesh;0;AOS
+0;Brand’s Oathbound;Hedonites of Slaanesh;0;AOS
+0;Cogfort Raiders;Hedonites of Slaanesh;0;AOS
+0;Diseased Revellers;Hedonites of Slaanesh;0;AOS
+0;Godmarked Ascendant;Hedonites of Slaanesh;0;AOS
+0;Hargax’s Pit-Beasts;Hedonites of Slaanesh;0;AOS
+0;Krittok’s Clawpack;Hedonites of Slaanesh;0;AOS
+0;Lord Skaldior’s Chosen;Hedonites of Slaanesh;0;AOS
+0;Mask of the Deceiver;Hedonites of Slaanesh;0;AOS
+0;Phulgoth’s Shudderhood;Hedonites of Slaanesh;0;AOS
+0;Rogue Engine;Hedonites of Slaanesh;0;AOS
+0;Seeker of the Dread Dirge;Hedonites of Slaanesh;0;AOS
+0;Seekers of Silver;Hedonites of Slaanesh;380;AOS
+0;Snerk’s Trogg-Fer-Hire;Hedonites of Slaanesh;0;AOS
+0;Squires of the Everchosen;Hedonites of Slaanesh;0;AOS
+0;The Coven of Thryx;Hedonites of Slaanesh;0;AOS
+0;The Curse-Steel Battery;Hedonites of Slaanesh;0;AOS
+0;The Exiled One;Hedonites of Slaanesh;400;AOS
+0;The Pustules;Hedonites of Slaanesh;0;AOS
+0;The Red Revelation;Hedonites of Slaanesh;350;AOS
+0;Volt-Klaw’s Enginecoven;Hedonites of Slaanesh;0;AOS
+0;Hedonites of Slaanesh Hero;Hedonites of Slaanesh;0;AOS
+0;One-eyed Grunnock;Hedonites of Slaanesh;0;AOS
+0;Krong The Club;Hedonites of Slaanesh;0;AOS
+0;Stumblefoot Gargant;Hedonites of Slaanesh;0;AOS
+3;Thricefold Discord;Hedonites of Slaanesh;190;AOS
+3;Fiends;Hedonites of Slaanesh;150;AOS
+10;Daemonettes;Hedonites of Slaanesh;100;AOS
+5;Seekers;Hedonites of Slaanesh;130;AOS
+10;Namarti Thralls;name;90;AOS
+1;Akhelian Leviadon;name;450;AOS
+1;Akhelian King;name;140;AOS
+1;Eidolon of Mathlann, Aspect of the Sea;name;310;AOS
+1;Eidolon of Mathlann, Aspect of the Storm;name;280;AOS
+1;Isharann Soulrender;name;90;AOS
+1;Isharann Soulscryer;name;100;AOS
+1;Isharann Tidecaster;name;100;AOS
+1;Lotann, Warden of the Soul Ledgers;name;90;AOS
+1;Volturnos, High King of the Deep;name;190;AOS
+3;Akhelian Ishlaen Guard;name;170;AOS
+3;Akhelian Morrsarr Guard;name;160;AOS
+10;Namarti Reavers;name;110;AOS
+2;Gloomtide Shipwreck;name;0;AOS
+5;Elathain’s Soulraid;name;80;AOS
+1;Akhelian Thrallmaster;name;70;AOS
+4;Cyreni’s Razors;name;120;AOS
+1;Akhelian Allopex;name;160;AOS
+10;Scourge of Ghyran Namarti Thralls;name;80;AOS
+1;Scourge of Ghyran Akhelian Thrallmaster;name;90;AOS
+1;Ikon of the Sea;name;110;AOS
+1;Incarnate of the Deep;name;0;AOS
+1;Ikon of the Storm;name;130;AOS
+2;Abyssal Tendril;name;0;AOS
+1;Mathaela, Oracle of the Abyss;name;150;AOS
+0;Bloodthirsty Shiver;name;0;AOS
+0;Namarti Shore Raid;name;0;AOS
+0;Drekki’s Privateers;name;0;AOS
+0;Fjori’s Flamebearers;name;0;AOS
+0;Gotrek Gurnisson;name;0;AOS
+0;Sky-Port Profiteers;name;0;AOS
+0;Snerk’s Trogg-Fer-Hire;name;0;AOS
+0;The Blacktalons;name;0;AOS
+0;The Horizon Seekers;name;0;AOS
+0;Valnir’s Stormwing;name;0;AOS
+0;Idoneth Deepkin Hero;name;0;AOS
+0;Mask of the Deceiver;name;0;AOS
+0;Sigil Convocation;name;0;AOS
+0;Dawnrider Lance;name;0;AOS
+0;Elthwin’s Thorns;name;0;AOS
+0;The Lost-Song Spirits;name;0;AOS
+0;The Twisted Branch;name;0;AOS
+0;Drycha’s Talons;name;0;AOS
+0;Khinerai Death Flight;name;0;AOS
+0;The Crimson Lash;name;0;AOS
+10;Namarti Reavers;name;110;AOS
+3;Akhelian Morrsarr Guard;name;160;AOS
+3;Akhelian Ishlaen Guard;name;170;AOS
+1;Akhelian King;name;140;AOS
+1;Akhelian Allopex;name;160;AOS
+10;Namarti Thralls;name;90;AOS
+1;Isharann Soulscryer;name;100;AOS
+0;Norgrimm’s Rune Throng;name;330;AOS
+0;Saviours of Cinderfall;name;270;AOS
+0;Heroes of The Jade Abbey;name;0;AOS
+0;Ven Denst’s Hounds;name;230;AOS
+0;Reinholt’s Sharpshooters;name;400;AOS
+0;Rogue Engine;name;0;AOS
+0;Cogfort Raiders;name;0;AOS
+1;Scourge of Aqshy Isharann Tidecaster;name;120;AOS
+10;Scourge of Aqshy Namarti Reavers;name;100;AOS
+0;Bundo Whalebiter;name;0;AOS
+0;Krong The Club;name;0;AOS
+0;Stumblefoot Gargant;name;0;AOS
+3;Akhelian Morrsarr Guard;name;160;AOS
+1;Gordrakk, the Fist of Gork;Ironjawz;320;AOS
+1;Megaboss on Maw-Krusha;Ironjawz;310;AOS
+1;Maw-grunta Gougers;Ironjawz;200;AOS
+1;Maw-grunta with Hakkin’ Krew;Ironjawz;250;AOS
+1;Ardboy Big Boss;Ironjawz;90;AOS
+1;Zoggrok Anvilsmasha;Ironjawz;160;AOS
+1;Tuskboss on Maw-grunta;Ironjawz;270;AOS
+3;Brute Ragerz;Ironjawz;100;AOS
+3;Weirdbrute Wrekkaz;Ironjawz;90;AOS
+5;Brutes;Ironjawz;160;AOS
+10;Ardboyz;Ironjawz;160;AOS
+1;Weirdnob Shaman;Ironjawz;110;AOS
+3;Gore-gruntas;Ironjawz;160;AOS
+1;Megaboss;Ironjawz;120;AOS
+1;Warchanter;Ironjawz;110;AOS
+1;Kragnos, the End of Empires;Ironjawz;580;AOS
+1;Bossrokk Tower;Ironjawz;0;AOS
+2;Foot of Gork;Ironjawz;0;AOS
+1;Morkspit Marsh;Ironjawz;0;AOS
+1;Gork-Roara;Ironjawz;0;AOS
+4;Ironskull’s Boyz;Ironjawz;110;AOS
+3;Morgok’s Krushas;Ironjawz;110;AOS
+0;Da Hurtlin’ Hogz;Ironjawz;0;AOS
+0;Big Grikk’s Kruleshots;Ironjawz;0;AOS
+0;Da Kountin’ Krew;Ironjawz;0;AOS
+0;Braggit’s Bottle-Snatchaz;Ironjawz;0;AOS
+0;Snerk’s Trogg-Fer-Hire;Ironjawz;0;AOS
+0;The Shinestealaz;Ironjawz;500;AOS
+0;Skulkrik’s Loonladz;Ironjawz;280;AOS
+0;Goroan Scions;Ironjawz;0;AOS
+3;Scourge of Ghyran Gore-gruntas;Ironjawz;170;AOS
+3;Scourge of Ghyran Weirdbrute Wrekkaz;Ironjawz;90;AOS
+0;Exile Scavengers;Ironjawz;0;AOS
+0;The Scarlet Jury;Ironjawz;0;AOS
+0;Ironjawz Hero;Ironjawz;0;AOS
+1;Dakkbad Grotkicker;Ironjawz;400;AOS
+0;Nurgle’s Gift;Ironjawz;0;AOS
+0;Mask of the Deceiver;Ironjawz;0;AOS
+5;Brutes;Ironjawz;160;AOS
+1;Megaboss;Ironjawz;120;AOS
+3;Brute Ragerz;Ironjawz;100;AOS
+10;Ardboyz;Ironjawz;160;AOS
+0;Rogue Engine;Ironjawz;0;AOS
+0;Cogfort Raiders;Ironjawz;0;AOS
+1;Scourge of Aqshy Megaboss;Ironjawz;150;AOS
+5;Scourge of Aqshy Brutes;Ironjawz;170;AOS
+0;Okar’s Torrbad;Ironjawz;0;AOS
+0;Urrgar’s Maulerguts;Ironjawz;0;AOS
+0;Bundo Whalebiter;Ironjawz;0;AOS
+0;Odo Godswallow;Ironjawz;0;AOS
+0;Big Drogg Fort-Kicka;Ironjawz;0;AOS
+0;One-eyed Grunnock;Ironjawz;0;AOS
+0;Krong The Club;Ironjawz;0;AOS
+0;Stumblefoot Gargant;Ironjawz;0;AOS
+10;Gutrippaz;Kruleboyz;150;AOS
+1;Killaboss on Great Gnashtoof;Kruleboyz;130;AOS
+1;Killaboss with Stab-grot;Kruleboyz;70;AOS
+1;Murknob with Belcha-banna;Kruleboyz;80;AOS
+10;Hobgrot Slittaz;Kruleboyz;70;AOS
+3;Man-skewer Boltboyz;Kruleboyz;100;AOS
+1;Beast-skewer Killbow;Kruleboyz;130;AOS
+1;Breaka-boss on Mirebrute Troggoth;Kruleboyz;180;AOS
+1;Gobsprakk, the Mouth of Mork;Kruleboyz;240;AOS
+1;Killaboss on Corpse-rippa Vulcha;Kruleboyz;240;AOS
+1;Snatchaboss on Sludgeraker Beast;Kruleboyz;180;AOS
+1;Swampboss Skumdrekk;Kruleboyz;150;AOS
+1;Marshcrawla Sloggoth;Kruleboyz;130;AOS
+5;Da Kunnin’ Krew;Kruleboyz;120;AOS
+4;Daggok’s Stab-ladz;Kruleboyz;120;AOS
+7;Monsta-killaz;Kruleboyz;140;AOS
+1;Kragnos, the End of Empires;Kruleboyz;580;AOS
+1;Swampcalla Shaman with Pot-grot;Kruleboyz;120;AOS
+0;Big Grikk’s Kruleshots;Kruleboyz;0;AOS
+1;Hobgrot Slittaboss;Kruleboyz;60;AOS
+0;Skaregob Totem;Kruleboyz;20;AOS
+2;Foot of Gork;Kruleboyz;0;AOS
+1;Morkspit Marsh;Kruleboyz;0;AOS
+1;Gork-Roara;Kruleboyz;0;AOS
+0;Da Hurtlin’ Hogz;Kruleboyz;0;AOS
+0;Da Kountin’ Krew;Kruleboyz;0;AOS
+0;Braggit’s Bottle-Snatchaz;Kruleboyz;0;AOS
+0;Snerk’s Trogg-Fer-Hire;Kruleboyz;0;AOS
+0;The Shinestealaz;Kruleboyz;500;AOS
+0;Skulkrik’s Loonladz;Kruleboyz;280;AOS
+0;Goroan Scions;Kruleboyz;0;AOS
+1;Scourge of Ghyran Swampboss Skumdrekk;Kruleboyz;210;AOS
+1;Scourge of Ghyran Killaboss on Great Gnashtoof;Kruleboyz;150;AOS
+0;Exile Scavengers;Kruleboyz;0;AOS
+0;The Scarlet Jury;Kruleboyz;0;AOS
+0;Kruleboyz Hero;Kruleboyz;0;AOS
+0;Nurgle’s Gift;Kruleboyz;0;AOS
+0;Mask of the Deceiver;Kruleboyz;0;AOS
+0;Enforcers of the Tithe;Kruleboyz;0;AOS
+1;Murknob with Belcha-banna;Kruleboyz;80;AOS
+3;Man-skewer Boltboyz;Kruleboyz;100;AOS
+10;Gutrippaz;Kruleboyz;150;AOS
+1;Beast-skewer Killbow;Kruleboyz;130;AOS
+1;Killaboss on Great Gnashtoof;Kruleboyz;130;AOS
+0;Rogue Engine;Kruleboyz;0;AOS
+0;Cogfort Raiders;Kruleboyz;0;AOS
+1;Scourge of Aqshy Killaboss on Great Gnashtoof;Kruleboyz;150;AOS
+1;Scourge of Aqshy Killaboss with Stab-grot;Kruleboyz;130;AOS
+0;Okar’s Torrbad;Kruleboyz;0;AOS
+0;Urrgar’s Maulerguts;Kruleboyz;0;AOS
+0;Bundo Whalebiter;Kruleboyz;0;AOS
+0;Odo Godswallow;Kruleboyz;0;AOS
+0;Big Drogg Fort-Kicka;Kruleboyz;0;AOS
+0;One-eyed Grunnock;Kruleboyz;0;AOS
+0;Krong The Club;Kruleboyz;0;AOS
+0;Stumblefoot Gargant;Kruleboyz;0;AOS
+10;Arkanaut Company;Kharadron Overlords;80;AOS
+1;Arkanaut Frigate;Kharadron Overlords;280;AOS
+1;Arkanaut Ironclad;Kharadron Overlords;430;AOS
+1;Aether-Khemist;Kharadron Overlords;100;AOS
+1;Aetheric Navigator;Kharadron Overlords;120;AOS
+1;Arkanaut Admiral;Kharadron Overlords;130;AOS
+1;Brokk Grungsson, Lord-Magnate of Barak-Nar;Kharadron Overlords;260;AOS
+1;Endrinmaster with Dirigible Suit;Kharadron Overlords;140;AOS
+1;Endrinmaster with Endrinharness;Kharadron Overlords;150;AOS
+5;Thundrik’s Profiteers;Kharadron Overlords;150;AOS
+3;Endrinriggers;Kharadron Overlords;90;AOS
+5;Grundstok Thunderers;Kharadron Overlords;130;AOS
+3;Skywardens;Kharadron Overlords;130;AOS
+1;Drekki Flynt;Kharadron Overlords;120;AOS
+1;Codewright;Kharadron Overlords;80;AOS
+0;Exile Scavengers;Kharadron Overlords;0;AOS
+1;Scourge of Ghyran Grundstok Gunhauler;Kharadron Overlords;170;AOS
+1;Scourge of Ghyran Codewright;Kharadron Overlords;100;AOS
+5;Vongrim Harpoon Crew;Kharadron Overlords;120;AOS
+1;Grundstok Gunhauler;Kharadron Overlords;140;AOS
+1;Zontari Endrin Dock;Kharadron Overlords;20;AOS
+1;Auto-Endrin;Kharadron Overlords;0;AOS
+1;Null-Khemist;Kharadron Overlords;120;AOS
+5;Vongrim Salvagers;Kharadron Overlords;110;AOS
+0;Drekki’s Privateers;Kharadron Overlords;0;AOS
+0;Sky-Port Profiteers;Kharadron Overlords;0;AOS
+0;Bloodthirsty Shiver;Kharadron Overlords;0;AOS
+0;Namarti Shore Raid;Kharadron Overlords;0;AOS
+0;Fjori’s Flamebearers;Kharadron Overlords;0;AOS
+0;Gotrek Gurnisson;Kharadron Overlords;0;AOS
+0;The Blacktalons;Kharadron Overlords;0;AOS
+0;The Horizon Seekers;Kharadron Overlords;0;AOS
+0;Valnir’s Stormwing;Kharadron Overlords;0;AOS
+0;The Scarlet Jury;Kharadron Overlords;0;AOS
+0;Kharadron Overlords Hero;Kharadron Overlords;0;AOS
+0;Grombrindal, The White Dwarf;Kharadron Overlords;0;AOS
+0;Nurgle’s Gift;Kharadron Overlords;0;AOS
+0;Mask of the Deceiver;Kharadron Overlords;0;AOS
+0;Sigil Convocation;Kharadron Overlords;0;AOS
+0;Dawnrider Lance;Kharadron Overlords;0;AOS
+0;Enforcers of the Tithe;Kharadron Overlords;0;AOS
+0;Elthwin’s Thorns;Kharadron Overlords;0;AOS
+0;Khinerai Death Flight;Kharadron Overlords;0;AOS
+0;The Crimson Lash;Kharadron Overlords;0;AOS
+1;Grundstok Gunhauler;Kharadron Overlords;140;AOS
+5;Grundstok Thunderers;Kharadron Overlords;130;AOS
+3;Endrinriggers;Kharadron Overlords;90;AOS
+1;Endrinmaster with Dirigible Suit;Kharadron Overlords;140;AOS
+3;Skywardens;Kharadron Overlords;130;AOS
+1;Arkanaut Admiral;Kharadron Overlords;130;AOS
+1;Arkanaut Frigate;Kharadron Overlords;280;AOS
+10;Arkanaut Company;Kharadron Overlords;80;AOS
+0;Norgrimm’s Rune Throng;Kharadron Overlords;330;AOS
+0;Saviours of Cinderfall;Kharadron Overlords;270;AOS
+0;Heroes of The Jade Abbey;Kharadron Overlords;0;AOS
+0;Ven Denst’s Hounds;Kharadron Overlords;230;AOS
+0;Reinholt’s Sharpshooters;Kharadron Overlords;400;AOS
+0;Rogue Engine;Kharadron Overlords;0;AOS
+0;Cogfort Raiders;Kharadron Overlords;0;AOS
+1;Scourge of Aqshy Null-Khemist;Kharadron Overlords;160;AOS
+3;Scourge of Aqshy Endrinriggers;Kharadron Overlords;120;AOS
+0;Urrgar’s Maulerguts;Kharadron Overlords;0;AOS
+0;Bundo Whalebiter;Kharadron Overlords;0;AOS
+0;Krong The Club;Kharadron Overlords;0;AOS
+0;Stumblefoot Gargant;Kharadron Overlords;0;AOS
+10;Vanari Auralan Wardens;Lumineth Realm-lords;120;AOS
+1;Alarith Spirit of the Mountain;Lumineth Realm-lords;300;AOS
+1;Alarith Stonemage;Lumineth Realm-lords;110;AOS
+1;Scinari Cathallar;Lumineth Realm-lords;130;AOS
+1;The Light of Eltharion;Lumineth Realm-lords;300;AOS
+1;Archmage Teclis and Celennar, Spirit of Hysh;Lumineth Realm-lords;640;AOS
+1;Avalenor, The Stoneheart King;Lumineth Realm-lords;390;AOS
+5;Alarith Stoneguard;Lumineth Realm-lords;120;AOS
+10;Vanari Auralan Sentinels;Lumineth Realm-lords;150;AOS
+5;Vanari Dawnriders;Lumineth Realm-lords;200;AOS
+0;Dawnrider Lance;Lumineth Realm-lords;0;AOS
+1;Hyshian Twinstones;Lumineth Realm-lords;0;AOS
+1;Rune of Petrification;Lumineth Realm-lords;0;AOS
+3;Sanctum of Amyntok;Lumineth Realm-lords;0;AOS
+1;Ellania and Ellathor, Eclipsian Warsages;Lumineth Realm-lords;330;AOS
+1;Hurakan Windmage;Lumineth Realm-lords;140;AOS
+1;Lyrior Uthralle, Warden of Ymetrica;Lumineth Realm-lords;260;AOS
+4;Myari’s Purifiers;Lumineth Realm-lords;130;AOS
+1;Scinari Calligrave;Lumineth Realm-lords;130;AOS
+1;Scinari Loreseeker;Lumineth Realm-lords;130;AOS
+1;Sevireth, Lord of the Seventh Wind;Lumineth Realm-lords;350;AOS
+1;Vanari Bannerblade;Lumineth Realm-lords;130;AOS
+1;Vanari Lord Regent;Lumineth Realm-lords;120;AOS
+1;Hurakan Spirit of the Wind;Lumineth Realm-lords;270;AOS
+5;Hurakan Windchargers;Lumineth Realm-lords;180;AOS
+5;Vanari Bladelords;Lumineth Realm-lords;140;AOS
+1;Shrine Luminor;Lumineth Realm-lords;0;AOS
+1;Scinari Enlightener;Lumineth Realm-lords;180;AOS
+10;Ydrilan Riverblades;Lumineth Realm-lords;150;AOS
+1;Vanari Starshard Ballista;Lumineth Realm-lords;100;AOS
+1;Scourge of Ghyran The Light of Eltharion;Lumineth Realm-lords;280;AOS
+1;Scourge of Ghyran Vanari Bannerblade;Lumineth Realm-lords;140;AOS
+1;Vanari Lord Regent on Lightcourser;Lumineth Realm-lords;130;AOS
+0;Sigil Convocation;Lumineth Realm-lords;0;AOS
+0;Mask of the Deceiver;Lumineth Realm-lords;0;AOS
+0;Bloodthirsty Shiver;Lumineth Realm-lords;0;AOS
+0;Drekki’s Privateers;Lumineth Realm-lords;0;AOS
+0;Exile Scavengers;Lumineth Realm-lords;0;AOS
+0;Fjori’s Flamebearers;Lumineth Realm-lords;0;AOS
+0;Gotrek Gurnisson;Lumineth Realm-lords;0;AOS
+0;Namarti Shore Raid;Lumineth Realm-lords;0;AOS
+0;Nurgle’s Gift;Lumineth Realm-lords;0;AOS
+0;Sky-Port Profiteers;Lumineth Realm-lords;0;AOS
+0;Snerk’s Trogg-Fer-Hire;Lumineth Realm-lords;0;AOS
+0;The Blacktalons;Lumineth Realm-lords;0;AOS
+0;The Horizon Seekers;Lumineth Realm-lords;0;AOS
+0;Valnir’s Stormwing;Lumineth Realm-lords;0;AOS
+0;Lumineth Hero;Lumineth Realm-lords;0;AOS
+0;Elthwin’s Thorns;Lumineth Realm-lords;0;AOS
+0;The Twisted Branch;Lumineth Realm-lords;0;AOS
+0;Drycha’s Talons;Lumineth Realm-lords;0;AOS
+0;Khinerai Death Flight;Lumineth Realm-lords;0;AOS
+0;The Crimson Lash;Lumineth Realm-lords;0;AOS
+10;Vanari Auralan Wardens;Lumineth Realm-lords;120;AOS
+5;Hurakan Windchargers;Lumineth Realm-lords;180;AOS
+1;Hurakan Spirit of the Wind;Lumineth Realm-lords;270;AOS
+1;Hurakan Windmage;Lumineth Realm-lords;140;AOS
+1;Scinari Cathallar;Lumineth Realm-lords;130;AOS
+10;Vanari Auralan Sentinels;Lumineth Realm-lords;150;AOS
+5;Vanari Bladelords;Lumineth Realm-lords;140;AOS
+10;Vanari Auralan Wardens;Lumineth Realm-lords;120;AOS
+0;Norgrimm’s Rune Throng;Lumineth Realm-lords;330;AOS
+0;Saviours of Cinderfall;Lumineth Realm-lords;270;AOS
+0;Heroes of The Jade Abbey;Lumineth Realm-lords;0;AOS
+0;Ven Denst’s Hounds;Lumineth Realm-lords;230;AOS
+0;Reinholt’s Sharpshooters;Lumineth Realm-lords;400;AOS
+0;Rogue Engine;Lumineth Realm-lords;0;AOS
+0;Cogfort Raiders;Lumineth Realm-lords;0;AOS
+4;Thyrielle’s Zephyrites;Lumineth Realm-lords;190;AOS
+1;Scourge of Aqshy Alarith Stonemage;Lumineth Realm-lords;140;AOS
+1;Scourge of Aqshy Scinari Loreseeker;Lumineth Realm-lords;140;AOS
+0;Bundo Whalebiter;Lumineth Realm-lords;0;AOS
+0;Krong The Club;Lumineth Realm-lords;0;AOS
+0;Stumblefoot Gargant;Lumineth Realm-lords;0;AOS
+10;Plaguebearers;Maggotkin of Nurgle;130;AOS
+1;Epidemius, Tallyman of Nurgle;Maggotkin of Nurgle;130;AOS
+3;The Wurmspat;Maggotkin of Nurgle;160;AOS
+1;Festus the Leechlord;Maggotkin of Nurgle;290;AOS
+1;Gutrot Spume;Maggotkin of Nurgle;100;AOS
+1;Harbinger of Decay;Maggotkin of Nurgle;140;AOS
+1;Horticulous Slimux;Maggotkin of Nurgle;140;AOS
+1;Lord of Afflictions;Maggotkin of Nurgle;170;AOS
+1;Lord of Blights;Maggotkin of Nurgle;140;AOS
+1;Lord of Plagues;Maggotkin of Nurgle;120;AOS
+1;Poxbringer, Herald of Nurgle;Maggotkin of Nurgle;90;AOS
+1;Sloppity Bilepiper, Herald of Nurgle;Maggotkin of Nurgle;90;AOS
+1;Spoilpox Scrivener, Herald of Nurgle;Maggotkin of Nurgle;80;AOS
+1;Bloab Rotspawned;Maggotkin of Nurgle;260;AOS
+1;The Glottkin;Maggotkin of Nurgle;470;AOS
+1;Great Unclean One;Maggotkin of Nurgle;380;AOS
+1;Morbidex Twiceborn;Maggotkin of Nurgle;230;AOS
+1;Orghotts Daemonspew;Maggotkin of Nurgle;250;AOS
+1;Rotigus;Maggotkin of Nurgle;420;AOS
+3;Nurglings;Maggotkin of Nurgle;100;AOS
+3;Plague Drones;Maggotkin of Nurgle;150;AOS
+2;Pusgoyle Blightlords;Maggotkin of Nurgle;190;AOS
+5;Putrid Blightkings;Maggotkin of Nurgle;130;AOS
+1;Feculent Gnarlmaw;Maggotkin of Nurgle;0;AOS
+1;Rotbringer Sorcerer;Maggotkin of Nurgle;100;AOS
+10;Rotmire Creed;Maggotkin of Nurgle;110;AOS
+1;Pusgoyle Blightlords (1 model);Maggotkin of Nurgle;110;AOS
+0;Phulgoth’s Shudderhood;Maggotkin of Nurgle;0;AOS
+0;Nurgle’s Gift;Maggotkin of Nurgle;0;AOS
+1;Scourge of Ghyran Rotigus;Maggotkin of Nurgle;430;AOS
+5;Grandfather’s Gardeners;Maggotkin of Nurgle;110;AOS
+10;Rotswords;Maggotkin of Nurgle;210;AOS
+0;Belga the Cystwitch;Maggotkin of Nurgle;0;AOS
+0;;Non trouvé;0;AOS
+10;Pestigors;Maggotkin of Nurgle;140;AOS
+1;Shaman Foulhoof;Maggotkin of Nurgle;110;AOS
+3;Sloven Knights;Maggotkin of Nurgle;180;AOS
+14;Pox-Wretches;Maggotkin of Nurgle;110;AOS
+1;Beast of Nurgle;Maggotkin of Nurgle;100;AOS
+2;Cankerborn;Maggotkin of Nurgle;170;AOS
+1;Gelgus Pust, the Prince of Sores;Maggotkin of Nurgle;190;AOS
+0;The Pustules;Maggotkin of Nurgle;0;AOS
+0;Diseased Revellers;Maggotkin of Nurgle;0;AOS
+0;Lord Skaldior’s Chosen;Maggotkin of Nurgle;0;AOS
+0;Brand’s Oathbound;Maggotkin of Nurgle;0;AOS
+0;Godmarked Ascendant;Maggotkin of Nurgle;0;AOS
+0;Hargax’s Pit-Beasts;Maggotkin of Nurgle;0;AOS
+0;Krittok’s Clawpack;Maggotkin of Nurgle;0;AOS
+0;Seeker of the Dread Dirge;Maggotkin of Nurgle;0;AOS
+0;Snerk’s Trogg-Fer-Hire;Maggotkin of Nurgle;0;AOS
+0;Squires of the Everchosen;Maggotkin of Nurgle;0;AOS
+0;The Curse-Steel Battery;Maggotkin of Nurgle;0;AOS
+0;The Exiled One;Maggotkin of Nurgle;400;AOS
+0;The Red Revelation;Maggotkin of Nurgle;350;AOS
+0;Volt-Klaw’s Enginecoven;Maggotkin of Nurgle;0;AOS
+0;Maggotkin of Nurgle Hero;Maggotkin of Nurgle;0;AOS
+0;The Coven of Thryx;Maggotkin of Nurgle;0;AOS
+0;Mask of the Deceiver;Maggotkin of Nurgle;0;AOS
+0;Seekers of Silver;Maggotkin of Nurgle;380;AOS
+1;Doktor Festus;Maggotkin of Nurgle;100;AOS
+10;Plaguebearers;Maggotkin of Nurgle;130;AOS
+5;Putrid Blightkings;Maggotkin of Nurgle;130;AOS
+1;Spoilpox Scrivener;Maggotkin of Nurgle;0;AOS
+1;Pusgoyle Blightlord;Maggotkin of Nurgle;0;AOS
+1;Rotbringer Sorcerer;Maggotkin of Nurgle;100;AOS
+3;Nurglings;Maggotkin of Nurgle;100;AOS
+1;Beast of Nurgle;Maggotkin of Nurgle;100;AOS
+10;Rotmire Creed;Maggotkin of Nurgle;110;AOS
+0;Rogue Engine;Maggotkin of Nurgle;0;AOS
+0;Cogfort Raiders;Maggotkin of Nurgle;0;AOS
+3;Scourge of Aqshy Sloven Knights;Maggotkin of Nurgle;180;AOS
+5;Scourge of Aqshy Putrid Blightkings;Maggotkin of Nurgle;140;AOS
+0;Mist-Clad Revellers;Maggotkin of Nurgle;0;AOS
+0;The Accursed Reflection;Maggotkin of Nurgle;0;AOS
+0;One-eyed Grunnock;Maggotkin of Nurgle;0;AOS
+0;Krong The Club;Maggotkin of Nurgle;0;AOS
+0;Stumblefoot Gargant;Maggotkin of Nurgle;0;AOS
+10;Chainrasps;Nighthaunt;100;AOS
+1;Cairn Wraith;Nighthaunt;130;AOS
+1;Knight of Shrouds;Nighthaunt;100;AOS
+1;Knight of Shrouds on Ethereal Steed;Nighthaunt;160;AOS
+1;Kurdoss Valentian, the Craven King;Nighthaunt;160;AOS
+1;Lady Olynder, Mortarch of Grief;Nighthaunt;320;AOS
+1;Lord Executioner;Nighthaunt;160;AOS
+1;Reikenor the Grimhailer;Nighthaunt;180;AOS
+1;Spirit Torment;Nighthaunt;100;AOS
+1;Tomb Banshee;Nighthaunt;130;AOS
+1;Black Coach;Nighthaunt;200;AOS
+10;Bladegheist Revenants;Nighthaunt;200;AOS
+2;Chainghasts;Nighthaunt;90;AOS
+10;Dreadscythe Harridans;Nighthaunt;190;AOS
+4;Glaivewraith Stalkers;Nighthaunt;100;AOS
+10;Grimghast Reapers;Nighthaunt;190;AOS
+5;Hexwraiths;Nighthaunt;150;AOS
+4;Myrmourn Banshees;Nighthaunt;100;AOS
+3;Spirit Hosts;Nighthaunt;110;AOS
+1;Mortalis Terminexus;Nighthaunt;0;AOS
+1;Shyish Reaper;Nighthaunt;0;AOS
+1;Vault of Souls;Nighthaunt;0;AOS
+7;Thorns of the Briar Queen;Nighthaunt;140;AOS
+1;Krulghast Cruciator;Nighthaunt;150;AOS
+0;The Sorrowmourn Choir;Nighthaunt;0;AOS
+1;Awlrach the Drowner;Nighthaunt;110;AOS
+1;Guardian of Souls;Nighthaunt;100;AOS
+1;Scriptor Mortis;Nighthaunt;90;AOS
+5;Craventhrone Guard;Nighthaunt;100;AOS
+4;The Headsmen’s Curse;Nighthaunt;150;AOS
+8;Pyregheists;Nighthaunt;180;AOS
+2;Dreadblade Harrows;Nighthaunt;120;AOS
+1;Nagash, Supreme Lord of the Undead;Nighthaunt;750;AOS
+1;Scourge of Ghyran Kurdoss Valentian, the Craven King;Nighthaunt;170;AOS
+1;Scourge of Ghyran Black Coach;Nighthaunt;290;AOS
+1;Nexus of Grief;Nighthaunt;0;AOS
+1;Lord Vitriolic;Nighthaunt;120;AOS
+0;Craventhrone Executioners;Nighthaunt;0;AOS
+0;Casket of Resurrections;Nighthaunt;0;AOS
+0;The Summerking’s Entourage;Nighthaunt;640;AOS
+0;Jerrion’s Delegation;Nighthaunt;480;AOS
+0;The Horror of Hallow’s Watch;Nighthaunt;230;AOS
+0;The Scarlet Jury;Nighthaunt;0;AOS
+0;Blades of the Hollow King;Nighthaunt;0;AOS
+0;Neferata’s Royal Echelon;Nighthaunt;0;AOS
+0;The Beast of Castle Sternieste;Nighthaunt;0;AOS
+0;The Sternieste Garrison;Nighthaunt;0;AOS
+0;Veremord’s Shamblers;Nighthaunt;0;AOS
+0;Nighthaunt Hero;Nighthaunt;0;AOS
+0;Mask of the Deceiver;Nighthaunt;0;AOS
+0;Scions of the Necropolis;Nighthaunt;0;AOS
+0;The Liche’s Hand;Nighthaunt;0;AOS
+0;Heralds of the Bone-tithe;Nighthaunt;0;AOS
+0;Karahtet’s Siege Breaker;Nighthaunt;0;AOS
+0;The Lost-Song Spirits;Nighthaunt;0;AOS
+2;Chainghasts;Nighthaunt;90;AOS
+10;Dreadscythe Harridans;Nighthaunt;190;AOS
+2;Dreadblade Harrows;Nighthaunt;120;AOS
+1;Spirit Torment;Nighthaunt;100;AOS
+10;Bladegheist Revenants;Nighthaunt;200;AOS
+1;Knight of Shrouds;Nighthaunt;100;AOS
+10;Chainrasps;Nighthaunt;100;AOS
+3;Spirit Hosts;Nighthaunt;110;AOS
+10;Grimghast Reapers;Nighthaunt;190;AOS
+0;Rogue Engine;Nighthaunt;0;AOS
+0;Cogfort Raiders;Nighthaunt;0;AOS
+1;Scourge of Aqshy Black Coach;Nighthaunt;290;AOS
+3;Scourge of Aqshy Spirit Hosts;Nighthaunt;100;AOS
+0;Big Drogg Fort-Kicka;Nighthaunt;0;AOS
+0;Krong The Club;Nighthaunt;0;AOS
+0;Stumblefoot Gargant;Nighthaunt;0;AOS
+5;Kavalos Deathriders;Ossiarch Bonereapers;160;AOS
+10;Mortek Guard;Ossiarch Bonereapers;100;AOS
+1;Mortek Crawler;Ossiarch Bonereapers;250;AOS
+1;Gothizzar Harvester;Ossiarch Bonereapers;180;AOS
+1;Arch-Kavalos Zandtos;Ossiarch Bonereapers;220;AOS
+1;Katakros, Mortarch of the Necropolis;Ossiarch Bonereapers;450;AOS
+1;Liege-Kavalos;Ossiarch Bonereapers;180;AOS
+1;Mortisan Boneshaper;Ossiarch Bonereapers;140;AOS
+1;Mortisan Soulmason;Ossiarch Bonereapers;140;AOS
+1;Mortisan Soulreaper;Ossiarch Bonereapers;110;AOS
+1;Vokmortian, Master of the Bone-tithe;Ossiarch Bonereapers;140;AOS
+1;Arkhan the Black, Mortarch of Sacrament;Ossiarch Bonereapers;430;AOS
+3;Immortis Guard;Ossiarch Bonereapers;150;AOS
+2;Morghast Archai;Ossiarch Bonereapers;240;AOS
+2;Morghast Harbingers;Ossiarch Bonereapers;230;AOS
+3;Necropolis Stalkers;Ossiarch Bonereapers;120;AOS
+1;Soulstealer Carrion;Ossiarch Bonereapers;0;AOS
+1;Bone-tithe Shrieker;Ossiarch Bonereapers;0;AOS
+1;Nightmare Predator;Ossiarch Bonereapers;0;AOS
+1;Bone-tithe Nexus;Ossiarch Bonereapers;0;AOS
+6;Kainan’s Reapers;Ossiarch Bonereapers;140;AOS
+1;Mortisan Ossifector;Ossiarch Bonereapers;110;AOS
+8;Teratic Cohort;Ossiarch Bonereapers;90;AOS
+0;Scions of the Necropolis;Ossiarch Bonereapers;0;AOS
+0;The Liche’s Hand;Ossiarch Bonereapers;0;AOS
+1;Nagash, Supreme Lord of the Undead;Ossiarch Bonereapers;750;AOS
+0;Enforcers of the Tithe;Ossiarch Bonereapers;0;AOS
+1;Scourge of Ghyran Mortisan Boneshaper;Ossiarch Bonereapers;100;AOS
+10;Scourge of Ghyran Mortek Guard;Ossiarch Bonereapers;100;AOS
+1;The Grand Necromystic;Ossiarch Bonereapers;320;AOS
+1;Kavalos War Chariot;Ossiarch Bonereapers;140;AOS
+10;Mortek Triaxes;Ossiarch Bonereapers;130;AOS
+5;Mortis Reapers;Ossiarch Bonereapers;110;AOS
+1;Liege-Mortek;Ossiarch Bonereapers;120;AOS
+1;Liege-Kavalos on War Chariot;Ossiarch Bonereapers;180;AOS
+5;Thanatek’s Tithe;Ossiarch Bonereapers;90;AOS
+0;Heralds of the Bone-tithe;Ossiarch Bonereapers;0;AOS
+0;Karahtet’s Siege Breaker;Ossiarch Bonereapers;0;AOS
+0;Blades of the Hollow King;Ossiarch Bonereapers;0;AOS
+0;Casket of Resurrections;Ossiarch Bonereapers;0;AOS
+0;Craventhrone Executioners;Ossiarch Bonereapers;0;AOS
+0;Exile Scavengers;Ossiarch Bonereapers;0;AOS
+0;Jerrion’s Delegation;Ossiarch Bonereapers;480;AOS
+0;Mask of the Deceiver;Ossiarch Bonereapers;0;AOS
+0;Neferata’s Royal Echelon;Ossiarch Bonereapers;0;AOS
+0;Sky-Port Profiteers;Ossiarch Bonereapers;0;AOS
+0;Snerk’s Trogg-Fer-Hire;Ossiarch Bonereapers;0;AOS
+0;The Beast of Castle Sternieste;Ossiarch Bonereapers;0;AOS
+0;The Horror of Hallow’s Watch;Ossiarch Bonereapers;230;AOS
+0;The Scarlet Jury;Ossiarch Bonereapers;0;AOS
+0;The Sorrowmourn Choir;Ossiarch Bonereapers;0;AOS
+0;The Sternieste Garrison;Ossiarch Bonereapers;0;AOS
+0;The Summerking’s Entourage;Ossiarch Bonereapers;640;AOS
+0;Veremord’s Shamblers;Ossiarch Bonereapers;0;AOS
+0;Ossiarch Bonereapers Hero;Ossiarch Bonereapers;0;AOS
+0;The Lost-Song Spirits;Ossiarch Bonereapers;0;AOS
+5;Kavalos Deathriders;Ossiarch Bonereapers;160;AOS
+1;Liege-Kavalos;Ossiarch Bonereapers;180;AOS
+8;Teratic Cohort;Ossiarch Bonereapers;90;AOS
+1;Gothizzar Harvester;Ossiarch Bonereapers;180;AOS
+10;Mortek Guard;Ossiarch Bonereapers;100;AOS
+1;Mortisan Soulreaper;Ossiarch Bonereapers;110;AOS
+3;Necropolis Stalkers;Ossiarch Bonereapers;120;AOS
+1;Mortisan Ossifector;Ossiarch Bonereapers;110;AOS
+3;Immortis Guard;Ossiarch Bonereapers;150;AOS
+2;Morghast Archai;Ossiarch Bonereapers;240;AOS
+5;Kavalos Deathriders;Ossiarch Bonereapers;160;AOS
+0;Rogue Engine;Ossiarch Bonereapers;0;AOS
+0;Cogfort Raiders;Ossiarch Bonereapers;0;AOS
+1;Scourge of Aqshy Vokmortian, Master of the Bone-tithe;Ossiarch Bonereapers;180;AOS
+5;Scourge of Aqshy Mortis Reapers;Ossiarch Bonereapers;90;AOS
+0;Urrgar’s Maulerguts;Ossiarch Bonereapers;0;AOS
+0;Big Drogg Fort-Kicka;Ossiarch Bonereapers;0;AOS
+0;Krong The Club;Ossiarch Bonereapers;0;AOS
+0;Stumblefoot Gargant;Ossiarch Bonereapers;0;AOS
+1;Ironblaster;Ogor Mawtribes;180;AOS
+1;Gnoblar Scraplauncher;Ogor Mawtribes;160;AOS
+5;Gluttons;Ogor Mawtribes;210;AOS
+1;Stonehorn Beastriders;Ogor Mawtribes;280;AOS
+1;Thundertusk Beastriders;Ogor Mawtribes;240;AOS
+1;Butcher;Ogor Mawtribes;170;AOS
+1;Firebelly;Ogor Mawtribes;150;AOS
+1;Icebrow Hunter;Ogor Mawtribes;130;AOS
+1;Slaughtermaster;Ogor Mawtribes;160;AOS
+1;Tyrant;Ogor Mawtribes;150;AOS
+1;Frostlord on Stonehorn;Ogor Mawtribes;340;AOS
+1;Frostlord on Thundertusk;Ogor Mawtribes;280;AOS
+1;Huskard on Stonehorn;Ogor Mawtribes;300;AOS
+1;Huskard on Thundertusk;Ogor Mawtribes;280;AOS
+2;Frost Sabres;Ogor Mawtribes;70;AOS
+20;Gnoblars;Ogor Mawtribes;130;AOS
+3;Icefall Yhetees;Ogor Mawtribes;120;AOS
+3;Ironguts;Ogor Mawtribes;200;AOS
+4;Leadbelchers;Ogor Mawtribes;140;AOS
+3;Maneaters;Ogor Mawtribes;180;AOS
+2;Mournfang Pack;Ogor Mawtribes;200;AOS
+1;Great Mawpot;Ogor Mawtribes;20;AOS
+1;Hrothgorn Mantrapper;Ogor Mawtribes;120;AOS
+1;Kragnos, the End of Empires;Ogor Mawtribes;580;AOS
+1;Bloodpelt Hunter;Ogor Mawtribes;130;AOS
+5;Gorger Mawpack;Ogor Mawtribes;240;AOS
+1;Mawpit;Ogor Mawtribes;0;AOS
+1;Gorlok Blackpowder;Ogor Mawtribes;120;AOS
+1;Scourge of Ghyran Gnoblar Scraplauncher;Ogor Mawtribes;120;AOS
+1;Scourge of Ghyran Ironblaster;Ogor Mawtribes;160;AOS
+1;Mantrapper;Ogor Mawtribes;130;AOS
+3;Ironguts;Ogor Mawtribes;200;AOS
+1;Gnoblar Scraplauncher;Ogor Mawtribes;160;AOS
+20;Gnoblars;Ogor Mawtribes;130;AOS
+1;Mantrappers;Ogor Mawtribes;0;AOS
+1;Ironblaster;Ogor Mawtribes;180;AOS
+3;Ogor Gluttons;Ogor Mawtribes;0;AOS
+4;Leadbelchers;Ogor Mawtribes;140;AOS
+1;Tyrant;Ogor Mawtribes;150;AOS
+2;Mournfang Pack;Ogor Mawtribes;200;AOS
+1;Scourge of Aqshy Huskard on Thundertusk;Ogor Mawtribes;260;AOS
+1;Scourge of Aqshy Frostlord on Thundertusk;Ogor Mawtribes;280;AOS
+1;Redd the Maw, High Slaughtermaster;Ogor Mawtribes;420;AOS
+2;Maulbeast Cavalry;Ogor Mawtribes;280;AOS
+1;Morga The Mighty, Overtyrant;Ogor Mawtribes;420;AOS
+5;Hunters with Sabrefangs;Ogor Mawtribes;170;AOS
+2;Maulbeast Raiders;Ogor Mawtribes;210;AOS
+1;Tyrant on Glutthorn;Ogor Mawtribes;390;AOS
+3;Cleavers;Ogor Mawtribes;220;AOS
+3;Gutseers;Ogor Mawtribes;200;AOS
+1;Grell Firefist;Ogor Mawtribes;140;AOS
+0;Okar’s Torrbad;Ogor Mawtribes;0;AOS
+0;Urrgar’s Maulerguts;Ogor Mawtribes;0;AOS
+0;Ogor Mawtribes Hero;Ogor Mawtribes;0;AOS
+0;The Scarlet Jury;Ogor Mawtribes;0;AOS
+0;Exile Scavengers;Ogor Mawtribes;0;AOS
+0;Goroan Scions;Ogor Mawtribes;0;AOS
+0;Snerk’s Trogg-Fer-Hire;Ogor Mawtribes;0;AOS
+0;Drekki’s Privateers;Ogor Mawtribes;0;AOS
+0;Rogue Engine;Ogor Mawtribes;0;AOS
+0;Cogfort Raiders;Ogor Mawtribes;0;AOS
+0;Skulkrik’s Loonladz;Ogor Mawtribes;280;AOS
+0;Bundo Whalebiter;Ogor Mawtribes;0;AOS
+0;Odo Godswallow;Ogor Mawtribes;0;AOS
+0;Big Drogg Fort-Kicka;Ogor Mawtribes;0;AOS
+0;One-eyed Grunnock;Ogor Mawtribes;0;AOS
+0;Krong The Club;Ogor Mawtribes;0;AOS
+0;Big Grikk’s Kruleshots;Ogor Mawtribes;0;AOS
+0;Braggit’s Bottle-Snatchaz;Ogor Mawtribes;0;AOS
+0;Da Hurtlin’ Hogz;Ogor Mawtribes;0;AOS
+0;Enforcers of the Tithe;Ogor Mawtribes;0;AOS
+0;Mask of the Deceiver;Ogor Mawtribes;0;AOS
+0;Nurgle’s Gift;Ogor Mawtribes;0;AOS
+0;Sky-Port Profiteers;Ogor Mawtribes;0;AOS
+0;Stumblefoot Gargant;Ogor Mawtribes;0;AOS
+0;The Shinestealaz;Ogor Mawtribes;500;AOS
+1;Tyrant;Ogor Mawtribes;150;AOS
+5;Gluttons;Ogor Mawtribes;210;AOS
+3;Ironguts;Ogor Mawtribes;200;AOS
+2;Maulbeast Cavalry;Ogor Mawtribes;280;AOS
+1;Butcher;Ogor Mawtribes;170;AOS
+3;Cleavers;Ogor Mawtribes;220;AOS
+3;Gutseers;Ogor Mawtribes;200;AOS
+5;Gorger Mawpack;Ogor Mawtribes;240;AOS
+1;Celestar Ballista;Stormcast Eternals;120;AOS
+5;Liberators;Stormcast Eternals;90;AOS
+1;Astreia Solbright;Stormcast Eternals;220;AOS
+1;Aventis Firestrike, Magister of Hammerhal;Stormcast Eternals;310;AOS
+1;Celestant-Prime, Hammer of Sigmar;Stormcast Eternals;240;AOS
+1;Gavriel Sureheart;Stormcast Eternals;120;AOS
+1;Knight-Azyros;Stormcast Eternals;100;AOS
+1;Knight-Heraldor;Stormcast Eternals;110;AOS
+1;Knight-Incantor;Stormcast Eternals;140;AOS
+1;Knight-Questor;Stormcast Eternals;100;AOS
+1;Knight-Venator;Stormcast Eternals;170;AOS
+1;Knight-Vexillor;Stormcast Eternals;100;AOS
+1;Knight-Zephyros;Stormcast Eternals;130;AOS
+1;Lord-Aquilor;Stormcast Eternals;140;AOS
+1;Lord-Arcanum;Stormcast Eternals;140;AOS
+1;Lord-Arcanum on Tauralon;Stormcast Eternals;280;AOS
+1;Lord-Arcanum on Celestial Dracoline;Stormcast Eternals;210;AOS
+1;Lord-Arcanum on Gryph-charger;Stormcast Eternals;220;AOS
+1;Lord-Castellant;Stormcast Eternals;150;AOS
+1;Lord-Celestant;Stormcast Eternals;100;AOS
+1;Lord-Celestant on Dracoth;Stormcast Eternals;150;AOS
+1;Lord-Exorcist;Stormcast Eternals;150;AOS
+1;Lord-Ordinator;Stormcast Eternals;100;AOS
+1;Lord-Relictor;Stormcast Eternals;120;AOS
+1;Lord-Veritant;Stormcast Eternals;110;AOS
+1;Neave Blacktalon;Stormcast Eternals;280;AOS
+1;Vandus Hammerhand;Stormcast Eternals;160;AOS
+1;Drakesworn Templar;Stormcast Eternals;390;AOS
+1;Lord-Celestant on Stardrake;Stormcast Eternals;490;AOS
+1;Celestian Vortex;Stormcast Eternals;0;AOS
+1;Dais Arcanum;Stormcast Eternals;0;AOS
+1;Everblaze Comet;Stormcast Eternals;0;AOS
+3;Aetherwings;Stormcast Eternals;80;AOS
+3;Castigators;Stormcast Eternals;110;AOS
+5;Decimators;Stormcast Eternals;240;AOS
+5;Evocators;Stormcast Eternals;180;AOS
+3;Evocators on Celestial Dracolines;Stormcast Eternals;240;AOS
+3;The Farstriders;Stormcast Eternals;100;AOS
+6;Gryph-hounds;Stormcast Eternals;80;AOS
+5;Judicators with Skybolt Bows;Stormcast Eternals;140;AOS
+5;Protectors;Stormcast Eternals;220;AOS
+5;Retributors;Stormcast Eternals;170;AOS
+5;Sequitors;Stormcast Eternals;120;AOS
+3;Steelheart’s Champions;Stormcast Eternals;110;AOS
+5;Vanguard-Hunters;Stormcast Eternals;110;AOS
+3;Vanguard-Raptors with Hurricane Crossbows;Stormcast Eternals;110;AOS
+3;Vanguard-Raptors with Longstrike Crossbows;Stormcast Eternals;200;AOS
+3;Stormsire’s Cursebreakers;Stormcast Eternals;130;AOS
+1;Gardus Steel Soul;Stormcast Eternals;160;AOS
+5;Vindictors;Stormcast Eternals;90;AOS
+1;Knight-Arcanum;Stormcast Eternals;110;AOS
+1;Lord-Imperatant;Stormcast Eternals;110;AOS
+1;Yndrasta, the Celestial Spear;Stormcast Eternals;270;AOS
+3;Annihilators;Stormcast Eternals;130;AOS
+3;Praetors;Stormcast Eternals;120;AOS
+5;Vanquishers;Stormcast Eternals;90;AOS
+1;Knight-Draconis;Stormcast Eternals;200;AOS
+1;Knight-Relictor;Stormcast Eternals;120;AOS
+1;Lord-Commander Bastian Carthalos;Stormcast Eternals;190;AOS
+1;Karazai the Scarred;Stormcast Eternals;420;AOS
+1;Krondys, Son of Dracothion;Stormcast Eternals;480;AOS
+3;Annihilators with Meteoric Grandhammers;Stormcast Eternals;180;AOS
+2;Dracothian Guard Concussors;Stormcast Eternals;200;AOS
+2;Dracothian Guard Desolators;Stormcast Eternals;170;AOS
+2;Dracothian Guard Fulminators;Stormcast Eternals;190;AOS
+2;Dracothian Guard Tempestors;Stormcast Eternals;170;AOS
+1;Stormstrike Chariot;Stormcast Eternals;110;AOS
+5;Vigilors;Stormcast Eternals;140;AOS
+2;Stormdrake Guard;Stormcast Eternals;290;AOS
+3;Xandire’s Truthseekers;Stormcast Eternals;130;AOS
+3;Domitan’s Stormcoven;Stormcast Eternals;210;AOS
+6;Questor Soulsworn;Stormcast Eternals;210;AOS
+0;Fjori’s Flamebearers;Stormcast Eternals;0;AOS
+3;Neave’s Companions;Stormcast Eternals;0;AOS
+1;Lorai, Child of the Abyss;Stormcast Eternals;0;AOS
+1;Ionus Cryptborn, Warden of Lost Souls;Stormcast Eternals;340;AOS
+1;Dracothian Guard Fulminators (1 model);Stormcast Eternals;100;AOS
+1;Dracothian Guard Desolators (1 model);Stormcast Eternals;100;AOS
+1;Knight-Judicator with Gryph Hounds;Stormcast Eternals;130;AOS
+3;Prosecutors;Stormcast Eternals;150;AOS
+3;Vanguard-Palladors with Shock Handaxes;Stormcast Eternals;240;AOS
+3;Vanguard-Palladors with Starstrike Javelins;Stormcast Eternals;260;AOS
+1;Dracothian Guard Concussors (1 model);Stormcast Eternals;120;AOS
+1;Dracothian Guard Tempestors (1 model);Stormcast Eternals;90;AOS
+1;Lord-Terminos;Stormcast Eternals;140;AOS
+1;Lord-Vigilant on Gryph-Stalker;Stormcast Eternals;120;AOS
+3;Reclusians;Stormcast Eternals;140;AOS
+1;Stormdrake Guard (1 model);Stormcast Eternals;150;AOS
+0;The Blacktalons;Stormcast Eternals;0;AOS
+5;Judicators with Boltstorm Crossbows;Stormcast Eternals;160;AOS
+1;Stormreach Portal;Stormcast Eternals;20;AOS
+1;Lord-Vigilant on Morrgryph;Stormcast Eternals;160;AOS
+3;Stormstrike Palladors;Stormcast Eternals;180;AOS
+3;Stormcoven;Stormcast Eternals;210;AOS
+1;Iridan the Witness;Stormcast Eternals;260;AOS
+1;Tornus the Redeemed;Stormcast Eternals;140;AOS
+0;The Horizon Seekers;Stormcast Eternals;0;AOS
+0;Valnir’s Stormwing;Stormcast Eternals;0;AOS
+0;Gotrek Gurnisson;Stormcast Eternals;0;AOS
+0;Snerk’s Trogg-Fer-Hire;Stormcast Eternals;0;AOS
+1;Scourge of Ghyran Iridan the Witness;Stormcast Eternals;320;AOS
+0;Stormcast Eternals Hero;Stormcast Eternals;0;AOS
+0;Drekki’s Privateers;Stormcast Eternals;0;AOS
+0;Sky-Port Profiteers;Stormcast Eternals;0;AOS
+0;Bloodthirsty Shiver;Stormcast Eternals;0;AOS
+0;Namarti Shore Raid;Stormcast Eternals;0;AOS
+1;Hamilcar Bear-Eater;Stormcast Eternals;230;AOS
+0;Realmstone Innovator;Stormcast Eternals;0;AOS
+0;Mask of the Deceiver;Stormcast Eternals;0;AOS
+0;Sigil Convocation;Stormcast Eternals;0;AOS
+0;Dawnrider Lance;Stormcast Eternals;0;AOS
+0;Elthwin’s Thorns;Stormcast Eternals;0;AOS
+0;The Twisted Branch;Stormcast Eternals;0;AOS
+0;Drycha’s Talons;Stormcast Eternals;0;AOS
+0;Khinerai Death Flight;Stormcast Eternals;0;AOS
+0;The Crimson Lash;Stormcast Eternals;0;AOS
+1;Lord-Vigilant on Gryph-Stalker;Stormcast Eternals;120;AOS
+5;Liberators;Stormcast Eternals;90;AOS
+1;Lord-Veritant;Stormcast Eternals;110;AOS
+3;Prosecutors;Stormcast Eternals;150;AOS
+1;Yndrasta, the Celestial Spear;Stormcast Eternals;270;AOS
+1;Stormstrike Chariot;Stormcast Eternals;110;AOS
+1;Knight-Vexillor;Stormcast Eternals;100;AOS
+5;Vanquishers;Stormcast Eternals;90;AOS
+3;Annihilators;Stormcast Eternals;130;AOS
+0;Norgrimm’s Rune Throng;Stormcast Eternals;330;AOS
+0;Saviours of Cinderfall;Stormcast Eternals;270;AOS
+0;Heroes of The Jade Abbey;Stormcast Eternals;0;AOS
+0;Ven Denst’s Hounds;Stormcast Eternals;230;AOS
+0;Reinholt’s Sharpshooters;Stormcast Eternals;400;AOS
+0;Rogue Engine;Stormcast Eternals;0;AOS
+0;Cogfort Raiders;Stormcast Eternals;0;AOS
+1;Scourge of Aqshy Iridan the Witness;Stormcast Eternals;320;AOS
+3;Scourge of Aqshy Stormstrike Palladors;Stormcast Eternals;210;AOS
+0;Urrgar’s Maulerguts;Stormcast Eternals;0;AOS
+0;Bundo Whalebiter;Stormcast Eternals;0;AOS
+0;Krong The Club;Stormcast Eternals;0;AOS
+0;Stumblefoot Gargant;Stormcast Eternals;0;AOS
+3;The Emberwatch;Stormcast Eternals;140;AOS
+10;Dire Wolves;Soulblight Gravelords;150;AOS
+1;Mortis Engine;Soulblight Gravelords;210;AOS
+1;Terrorgheist;Soulblight Gravelords;220;AOS
+1;Necromancer;Soulblight Gravelords;110;AOS
+1;Vampire Lord;Soulblight Gravelords;140;AOS
+1;Bloodseeker Palanquin;Soulblight Gravelords;220;AOS
+1;Coven Throne;Soulblight Gravelords;210;AOS
+1;Nagash, Supreme Lord of the Undead;Soulblight Gravelords;750;AOS
+1;Neferata, Mortarch of Blood;Soulblight Gravelords;450;AOS
+1;Prince Vhordrai;Soulblight Gravelords;450;AOS
+1;Vampire Lord on Zombie Dragon;Soulblight Gravelords;400;AOS
+5;Blood Knights;Soulblight Gravelords;210;AOS
+3;Fell Bats;Soulblight Gravelords;90;AOS
+7;The Sepulchral Guard;Soulblight Gravelords;110;AOS
+3;Vargheists;Soulblight Gravelords;120;AOS
+1;Gorslav the Gravekeeper;Soulblight Gravelords;120;AOS
+1;Radukar the Wolf;Soulblight Gravelords;130;AOS
+1;Torgillius the Chamberlain;Soulblight Gravelords;180;AOS
+1;Watch Captain Halgrim;Soulblight Gravelords;110;AOS
+2;Kosargi Nightguard;Soulblight Gravelords;110;AOS
+3;Vyrkos Blood-born;Soulblight Gravelords;150;AOS
+1;Vargskyr;Soulblight Gravelords;140;AOS
+10;Deathrattle Skeletons;Soulblight Gravelords;90;AOS
+4;The Crimson Court;Soulblight Gravelords;210;AOS
+1;Belladamma Volga, First of the Vyrkos;Soulblight Gravelords;200;AOS
+1;Kritza, the Rat Prince;Soulblight Gravelords;70;AOS
+1;Lady Annika, the Thirsting Blade;Soulblight Gravelords;100;AOS
+1;Lauka Vai, Mother of Nightmares;Soulblight Gravelords;200;AOS
+1;Radukar the Beast;Soulblight Gravelords;250;AOS
+1;Vengorian Lord;Soulblight Gravelords;200;AOS
+1;Wight King;Soulblight Gravelords;80;AOS
+1;Mannfred von Carstein, Mortarch of Night;Soulblight Gravelords;410;AOS
+20;Deadwalker Zombies;Soulblight Gravelords;120;AOS
+7;The Exiled Dead;Soulblight Gravelords;140;AOS
+1;Cado Ezechiar, The Hollow King;Soulblight Gravelords;150;AOS
+5;The Sons of Velmorn;Soulblight Gravelords;130;AOS
+8;Askurgan Trueblades;Soulblight Gravelords;150;AOS
+1;Ivya Volga, The Outcast;Soulblight Gravelords;100;AOS
+1;Corpse Cart;Soulblight Gravelords;70;AOS
+1;Sekhar, Fang of Nulahmia;Soulblight Gravelords;160;AOS
+5;Zondara’s Gravebreakers;Soulblight Gravelords;120;AOS
+1;Wight King on Skeleton Steed;Soulblight Gravelords;180;AOS
+0;Neferata’s Royal Echelon;Soulblight Gravelords;0;AOS
+0;Veremord’s Shamblers;Soulblight Gravelords;0;AOS
+0;The Sternieste Garrison;Soulblight Gravelords;0;AOS
+1;Revenant Draconith;Soulblight Gravelords;170;AOS
+2;Sanguine Swarm;Soulblight Gravelords;0;AOS
+1;Unholy Reliquary;Soulblight Gravelords;0;AOS
+5;Barrow Knights;Soulblight Gravelords;190;AOS
+1;Hand of Nagash;Soulblight Gravelords;0;AOS
+10;Barrow Guard;Soulblight Gravelords;130;AOS
+1;Vampire Lord on Nightmare Steed;Soulblight Gravelords;170;AOS
+1;Wight Lord on Skeletal Steed;Soulblight Gravelords;110;AOS
+1;Cursed Sepulchre;Soulblight Gravelords;0;AOS
+0;Blades of the Hollow King;Soulblight Gravelords;0;AOS
+0;The Beast of Castle Sternieste;Soulblight Gravelords;0;AOS
+0;Blades of the Hollow King;Soulblight Gravelords;0;AOS
+1;Scourge of Ghyran Corpse Cart;Soulblight Gravelords;80;AOS
+1;Scourge of Ghyran Sekhar, Fang of Nulahmia;Soulblight Gravelords;190;AOS
+0;Exile Scavengers;Soulblight Gravelords;0;AOS
+0;Sky-Port Profiteers;Soulblight Gravelords;0;AOS
+0;Snerk’s Trogg-Fer-Hire;Soulblight Gravelords;0;AOS
+0;The Sorrowmourn Choir;Soulblight Gravelords;0;AOS
+0;Craventhrone Executioners;Soulblight Gravelords;0;AOS
+0;Casket of Resurrections;Soulblight Gravelords;0;AOS
+0;The Summerking’s Entourage;Soulblight Gravelords;640;AOS
+0;Jerrion’s Delegation;Soulblight Gravelords;480;AOS
+0;The Horror of Hallow’s Watch;Soulblight Gravelords;230;AOS
+0;The Scarlet Jury;Soulblight Gravelords;0;AOS
+0;Soulblight Gravelords Hero;Soulblight Gravelords;0;AOS
+0;Soulblight Gravelords Hero;Soulblight Gravelords;0;AOS
+0;Mask of the Deceiver;Soulblight Gravelords;0;AOS
+0;Scions of the Necropolis;Soulblight Gravelords;0;AOS
+0;The Liche’s Hand;Soulblight Gravelords;0;AOS
+0;Enforcers of the Tithe;Soulblight Gravelords;0;AOS
+0;Heralds of the Bone-tithe;Soulblight Gravelords;0;AOS
+0;Karahtet’s Siege Breaker;Soulblight Gravelords;0;AOS
+0;The Lost-Song Spirits;Soulblight Gravelords;0;AOS
+3;Vargheists;Soulblight Gravelords;120;AOS
+10;Deathrattle Skeletons;Soulblight Gravelords;90;AOS
+1;Vampire Lord;Soulblight Gravelords;140;AOS
+5;Blood Knights;Soulblight Gravelords;210;AOS
+1;Wight King;Soulblight Gravelords;80;AOS
+5;Barrow Knights;Soulblight Gravelords;190;AOS
+10;Barrow Guard;Soulblight Gravelords;130;AOS
+0;Rogue Engine;Soulblight Gravelords;0;AOS
+0;Cogfort Raiders;Soulblight Gravelords;0;AOS
+1;Scourge of Aqshy Revenant Draconith;Soulblight Gravelords;290;AOS
+1;Scourge of Aqshy Vengorian Lord;Soulblight Gravelords;310;AOS
+10;Deathrattle Skeletons;Soulblight Gravelords;90;AOS
+0;Urrgar’s Maulerguts;Soulblight Gravelords;0;AOS
+0;Big Drogg Fort-Kicka;Soulblight Gravelords;0;AOS
+0;Krong The Club;Soulblight Gravelords;0;AOS
+0;Stumblefoot Gargant;Soulblight Gravelords;0;AOS
+1;Nagash, Supreme Lord of the Underworlds;Soulblight Gravelords;670;AOS
+1;Engine of the Gods;Seraphon;150;AOS
+10;Saurus Warriors;Seraphon;140;AOS
+1;Stegadon;Seraphon;150;AOS
+1;Lord Kroak;Seraphon;410;AOS
+1;Ripperdactyl Chief;Seraphon;110;AOS
+1;Saurus Astrolith Bearer;Seraphon;100;AOS
+1;Saurus Oldblood;Seraphon;80;AOS
+1;Skink Starpriest;Seraphon;90;AOS
+1;Skink Starseer;Seraphon;140;AOS
+1;Slann Starmaster;Seraphon;260;AOS
+1;Terradon Chief;Seraphon;100;AOS
+1;Saurus Oldblood on Carnosaur;Seraphon;210;AOS
+1;Saurus Scar-Veteran on Carnosaur;Seraphon;190;AOS
+1;Skink Oracle on Troglodon;Seraphon;200;AOS
+3;Kroxigor;Seraphon;200;AOS
+3;Ripperdactyl Riders;Seraphon;100;AOS
+5;Saurus Guard;Seraphon;110;AOS
+10;Skinks;Seraphon;70;AOS
+3;Terradon Riders;Seraphon;90;AOS
+1;Realmshaper Engine;Seraphon;0;AOS
+1;Stegadon Chief;Seraphon;160;AOS
+6;The Starblood Stalkers;Seraphon;110;AOS
+5;Hunters of Huanchi with Dartpipes;Seraphon;80;AOS
+5;Hunters of Huanchi with Starstone Bolas;Seraphon;90;AOS
+3;Terrawings;Seraphon;70;AOS
+1;Spawn of Chotec;Seraphon;100;AOS
+1;Saurus Scar-Veteran on Aggradon;Seraphon;140;AOS
+3;Aggradon Lancers;Seraphon;200;AOS
+3;Kroxigor Warspawned;Seraphon;200;AOS
+5;Raptadon Chargers;Seraphon;140;AOS
+5;Raptadon Hunters;Seraphon;120;AOS
+2;Ripperdactyl Riders (2 models);Seraphon;70;AOS
+2;Terradon Riders (2 models);Seraphon;70;AOS
+1;Bastiladon with Ark of Sotek;Seraphon;230;AOS
+1;Bastiladon with Solar Engine;Seraphon;200;AOS
+0;Fjori’s Flamebearers;Seraphon;0;AOS
+0;The Blacktalons;Seraphon;0;AOS
+0;The Horizon Seekers;Seraphon;0;AOS
+0;Valnir’s Stormwing;Seraphon;0;AOS
+0;Gotrek Gurnisson;Seraphon;0;AOS
+0;Snerk’s Trogg-Fer-Hire;Seraphon;0;AOS
+1;Scourge of Ghyran Saurus Oldblood on Carnosaur;Seraphon;320;AOS
+0;Exile Scavengers;Seraphon;0;AOS
+0;Drekki’s Privateers;Seraphon;0;AOS
+0;Sky-Port Profiteers;Seraphon;0;AOS
+0;Bloodthirsty Shiver;Seraphon;0;AOS
+0;Namarti Shore Raid;Seraphon;0;AOS
+3;Sunblood Pack;Seraphon;150;AOS
+3;The Jaws of Itzl;Seraphon;120;AOS
+0;Mask of the Deceiver;Seraphon;0;AOS
+0;Sigil Convocation;Seraphon;0;AOS
+0;Dawnrider Lance;Seraphon;0;AOS
+0;Elthwin’s Thorns;Seraphon;0;AOS
+0;The Twisted Branch;Seraphon;0;AOS
+0;Drycha’s Talons;Seraphon;0;AOS
+0;Khinerai Death Flight;Seraphon;0;AOS
+0;The Crimson Lash;Seraphon;0;AOS
+3;Sunblood Pack;Seraphon;150;AOS
+1;Spawn of Chotec;Seraphon;100;AOS
+10;Saurus Warriors;Seraphon;140;AOS
+3;Terrawings;Seraphon;70;AOS
+5;Hunters of Huanchi;Seraphon;0;AOS
+1;Saurus Oldblood on Carnosaur;Seraphon;210;AOS
+3;Kroxigor;Seraphon;200;AOS
+0;Norgrimm’s Rune Throng;Seraphon;330;AOS
+0;Saviours of Cinderfall;Seraphon;270;AOS
+0;Heroes of The Jade Abbey;Seraphon;0;AOS
+0;Ven Denst’s Hounds;Seraphon;230;AOS
+0;Reinholt’s Sharpshooters;Seraphon;400;AOS
+0;Rogue Engine;Seraphon;0;AOS
+0;Cogfort Raiders;Seraphon;0;AOS
+1;Scourge of Aqshy Saurus Scar-Veteran on Aggradon;Seraphon;130;AOS
+1;Scourge of Aqshy Slann Starmaster;Seraphon;230;AOS
+0;Bundo Whalebiter;Seraphon;0;AOS
+0;Krong The Club;Seraphon;0;AOS
+0;Stumblefoot Gargant;Seraphon;0;AOS
+10;Saurus Warriors;Seraphon;140;AOS
+1;Gatebreaker Mega-Gargant;Sons of Behemat;400;AOS
+1;Kraken-eater Mega-Gargant;Sons of Behemat;370;AOS
+1;Warstomper Mega-Gargant;Sons of Behemat;390;AOS
+1;Beast-smasher Mega-Gargant;Sons of Behemat;380;AOS
+1;King Brodd;Sons of Behemat;430;AOS
+1;Mancrusher Gargant;Sons of Behemat;140;AOS
+1;Kragnos, the End of Empires;Sons of Behemat;580;AOS
+0;Bundo Whalebiter;Sons of Behemat;0;AOS
+0;Odo Godswallow;Sons of Behemat;0;AOS
+0;Big Drogg Fort-Kicka;Sons of Behemat;0;AOS
+0;One-eyed Grunnock;Sons of Behemat;0;AOS
+0;Goroan Scions;Sons of Behemat;0;AOS
+0;Big Grikk’s Kruleshots;Sons of Behemat;0;AOS
+0;Da Hurtlin’ Hogz;Sons of Behemat;0;AOS
+0;Da Kountin’ Krew;Sons of Behemat;0;AOS
+0;Braggit’s Bottle-Snatchaz;Sons of Behemat;0;AOS
+0;The Shinestealaz;Sons of Behemat;500;AOS
+0;Skulkrik’s Loonladz;Sons of Behemat;280;AOS
+1;Scourge of Ghyran Kraken-eater Mega-Gargant;Sons of Behemat;430;AOS
+0;Exile Scavengers;Sons of Behemat;0;AOS
+0;The Scarlet Jury;Sons of Behemat;0;AOS
+0;Nurgle’s Gift;Sons of Behemat;0;AOS
+0;Enforcers of the Tithe;Sons of Behemat;0;AOS
+1;Mancrusher Gargant;Sons of Behemat;140;AOS
+0;Rogue Engine;Sons of Behemat;0;AOS
+0;Cogfort Raiders;Sons of Behemat;0;AOS
+1;Scourge of Aqshy Gatebreaker Mega-Gargant;Sons of Behemat;490;AOS
+1;Scourge of Aqshy Mancrusher Gargant;Sons of Behemat;120;AOS
+0;Okar’s Torrbad;Sons of Behemat;0;AOS
+3;Rock-hurlers;Sons of Behemat;380;AOS
+3;Boss-Stompers;Sons of Behemat;370;AOS
+1;Ma Maegran, Chooser Of The Mighty;Sons of Behemat;370;AOS
+2;Ancient Ghyrochs;Sons of Behemat;0;AOS
+0;Krong The Club;Sons of Behemat;0;AOS
+3;Rock-hurlers;Sons of Behemat;380;AOS
+1;Bullstomper Hero;Sons of Behemat;0;AOS
+1;Mega-Gargant Hero;Sons of Behemat;0;AOS
+1;Plagueclaw;Skaven;100;AOS
+1;Warp Lightning Cannon;Skaven;120;AOS
+3;Warplock Jezzails;Skaven;120;AOS
+20;Clanrats;Skaven;150;AOS
+1;Doomwheel;Skaven;100;AOS
+1;Hell Pit Abomination;Skaven;200;AOS
+1;Arch-Warlock;Skaven;140;AOS
+1;Clawlord;Skaven;70;AOS
+1;Deathmaster;Skaven;120;AOS
+1;Grey Seer;Skaven;110;AOS
+1;Master Moulder;Skaven;80;AOS
+1;Plague Priest;Skaven;110;AOS
+5;Spiteclaw’s Swarm;Skaven;100;AOS
+1;Warlock Bombardier;Skaven;90;AOS
+1;Warlock Engineer;Skaven;100;AOS
+1;Grey Seer on Screaming Bell;Skaven;310;AOS
+1;Lord Skreech Verminking;Skaven;350;AOS
+1;Plague Priest on Plague Furnace;Skaven;350;AOS
+1;Thanquol on Boneripper;Skaven;310;AOS
+1;Verminlord Corruptor;Skaven;260;AOS
+1;Verminlord Deceiver;Skaven;360;AOS
+1;Verminlord Warbringer;Skaven;260;AOS
+1;Verminlord Warpseer;Skaven;300;AOS
+10;Night Runners;Skaven;130;AOS
+20;Plague Monks;Skaven;140;AOS
+3;Rat Ogors;Skaven;130;AOS
+3;Ratling Guns;Skaven;160;AOS
+3;Stormfiends;Skaven;230;AOS
+10;Stormvermin;Skaven;110;AOS
+3;Warpfire Throwers;Skaven;120;AOS
+1;Warp-Grinder;Skaven;100;AOS
+1;Bell of Doom;Skaven;0;AOS
+1;Vermintide;Skaven;0;AOS
+3;Warp Lightning Vortex;Skaven;0;AOS
+1;Gnawhole;Skaven;0;AOS
+5;Skittershank’s Clawpack;Skaven;100;AOS
+0;Hargax’s Pit-Beasts;Skaven;0;AOS
+5;Skabbik’s Plaguepack;Skaven;100;AOS
+0;Brand’s Oathbound;Skaven;0;AOS
+0;Volt-Klaw’s Enginecoven;Skaven;0;AOS
+0;Krittok’s Clawpack;Skaven;0;AOS
+1;Ratling Warpblaster;Skaven;110;AOS
+5;Acolyte Globadiers;Skaven;90;AOS
+1;Warlock Galvaneer;Skaven;120;AOS
+3;Warpvolt Scourgers;Skaven;170;AOS
+1;Krittok Foulblade;Skaven;140;AOS
+5;Plaguepack;Skaven;130;AOS
+1;Brood Terror;Skaven;200;AOS
+2;Doom-Flayers;Skaven;100;AOS
+1;Vizzik Skour, Prophet of the Horned Rat;Skaven;340;AOS
+1;Clawlord on Gnaw-beast;Skaven;90;AOS
+5;Plague Censer Bearer;Skaven;160;AOS
+0;Lord Skaldior’s Chosen;Skaven;0;AOS
+0;Snerk’s Trogg-Fer-Hire;Skaven;0;AOS
+1;Scourge of Ghyran Grey Seer on Screaming Bell;Skaven;330;AOS
+1;Scourge of Ghyran Brood Terror;Skaven;240;AOS
+0;Skaven Hero;Skaven;0;AOS
+0;The Exiled One;Skaven;400;AOS
+0;The Red Revelation;Skaven;350;AOS
+4;Zikkit’s Tunnelpack;Skaven;110;AOS
+0;Seeker of the Dread Dirge;Skaven;0;AOS
+0;The Curse-Steel Battery;Skaven;0;AOS
+0;Phulgoth’s Shudderhood;Skaven;0;AOS
+0;Nurgle’s Gift;Skaven;0;AOS
+0;The Pustules;Skaven;0;AOS
+0;Diseased Revellers;Skaven;0;AOS
+0;Warped Saboteur;Skaven;0;AOS
+0;The Coven of Thryx;Skaven;0;AOS
+0;Mask of the Deceiver;Skaven;0;AOS
+0;Seekers of Silver;Skaven;380;AOS
+0;Enforcers of the Tithe;Skaven;0;AOS
+1;Deathmaster Crixxit;Skaven;150;AOS
+10;Gutter Runners;Skaven;150;AOS
+20;Clanrats;Skaven;150;AOS
+3;Rat Ogors;Skaven;130;AOS
+1;Grey Seer;Skaven;110;AOS
+1;Warlock Engineer;Skaven;100;AOS
+1;Clawlord on Gnaw-beast;Skaven;90;AOS
+10;Gutter Runners;Skaven;150;AOS
+1;Deathmaster Crixxit;Skaven;150;AOS
+10;Night Runners;Skaven;130;AOS
+1;Deathmaster;Skaven;120;AOS
+3;Stormfiends;Skaven;230;AOS
+1;Warp Lightning Cannon;Skaven;120;AOS
+0;Rogue Engine;Skaven;0;AOS
+0;Cogfort Raiders;Skaven;0;AOS
+1;Scourge of Aqshy Grey Seer on Screaming Bell;Skaven;330;AOS
+1;Scourge of Aqshy Verminlord Corruptor;Skaven;290;AOS
+0;Mist-Clad Revellers;Skaven;0;AOS
+0;The Accursed Reflection;Skaven;0;AOS
+0;Urrgar’s Maulerguts;Skaven;0;AOS
+0;One-eyed Grunnock;Skaven;0;AOS
+0;Krong The Club;Skaven;0;AOS
+0;Stumblefoot Gargant;Skaven;0;AOS
+20;Clanrats;Skaven;150;AOS
+10;Chaos Warriors;Slaves to Darkness;180;AOS
+1;Chaos Warshrine;Slaves to Darkness;250;AOS
+1;Mutalith Vortex Beast;Slaves to Darkness;150;AOS
+1;Slaughterbrute;Slaves to Darkness;170;AOS
+1;Archaon, the Everchosen;Slaves to Darkness;780;AOS
+1;Chaos Sorcerer Lord on Manticore;Slaves to Darkness;280;AOS
+1;Chaos Lord on Manticore;Slaves to Darkness;260;AOS
+1;Be’lakor, the Dark Master;Slaves to Darkness;450;AOS
+1;Chaos Lord;Slaves to Darkness;100;AOS
+1;Chaos Lord on Daemonic Mount;Slaves to Darkness;130;AOS
+1;Chaos Lord on Karkadrak;Slaves to Darkness;180;AOS
+1;Chaos Sorcerer Lord;Slaves to Darkness;120;AOS
+1;Daemon Prince;Slaves to Darkness;230;AOS
+1;Darkoath Chieftain;Slaves to Darkness;80;AOS
+1;Darkoath Warqueen;Slaves to Darkness;80;AOS
+1;Exalted Hero of Chaos;Slaves to Darkness;90;AOS
+1;Gaunt Summoner on Disc of Tzeentch;Slaves to Darkness;190;AOS
+1;Ogroid Myrmidon;Slaves to Darkness;120;AOS
+6;Godsworn Hunt;Slaves to Darkness;110;AOS
+1;Eightfold Doom-Sigil;Slaves to Darkness;0;AOS
+1;Darkfire Daemonrift;Slaves to Darkness;0;AOS
+1;Realmscourge Rupture;Slaves to Darkness;0;AOS
+1;Chaos Chariot;Slaves to Darkness;90;AOS
+5;Chaos Chosen;Slaves to Darkness;250;AOS
+5;Chaos Knights;Slaves to Darkness;240;AOS
+9;Corvus Cabal;Slaves to Darkness;100;AOS
+8;Cypher Lords;Slaves to Darkness;100;AOS
+1;Chaos Spawn;Slaves to Darkness;60;AOS
+1;Fomoroid Crusher;Slaves to Darkness;100;AOS
+1;Gorebeast Chariot;Slaves to Darkness;100;AOS
+8;Iron Golem;Slaves to Darkness;100;AOS
+1;Mindstealer Sphiranx;Slaves to Darkness;140;AOS
+6;Raptoryx;Slaves to Darkness;100;AOS
+9;Spire Tyrants;Slaves to Darkness;110;AOS
+9;Splintered Fang;Slaves to Darkness;110;AOS
+9;The Unmade;Slaves to Darkness;110;AOS
+9;Untamed Beasts;Slaves to Darkness;110;AOS
+3;Varanguard;Slaves to Darkness;290;AOS
+4;Khagra’s Ravagers;Slaves to Darkness;170;AOS
+8;Scions of the Flame;Slaves to Darkness;120;AOS
+10;Darkoath Savagers;Slaves to Darkness;90;AOS
+13;Tarantulos Brood;Slaves to Darkness;150;AOS
+3;Flamers of Tzeentch;Slaves to Darkness;130;AOS
+3;Screamers of Tzeentch;Slaves to Darkness;80;AOS
+10;Bloodletters;Slaves to Darkness;150;AOS
+3;Bloodcrushers;Slaves to Darkness;130;AOS
+10;Plaguebearers;Slaves to Darkness;130;AOS
+1;Beasts of Nurgle;Slaves to Darkness;120;AOS
+3;Fiends;Slaves to Darkness;150;AOS
+1;Hellflayer;Slaves to Darkness;130;AOS
+1;Centaurion Marshal;Slaves to Darkness;120;AOS
+8;Chaos Legionnaires;Slaves to Darkness;80;AOS
+10;Horns of Hashut;Slaves to Darkness;120;AOS
+1;Soul Grinder;Slaves to Darkness;330;AOS
+1;Eternus, Blade of the First Prince;Slaves to Darkness;160;AOS
+1;Gaunt Summoner;Slaves to Darkness;160;AOS
+3;Ogroid Theridons;Slaves to Darkness;150;AOS
+4;The Gnarlspirit Pack;Slaves to Darkness;110;AOS
+1;Darkoath Chieftain on Warsteed;Slaves to Darkness;90;AOS
+1;Darkoath Wilderfiend;Slaves to Darkness;120;AOS
+10;Darkoath Marauders;Slaves to Darkness;80;AOS
+5;Darkoath Fellriders;Slaves to Darkness;130;AOS
+1;Abraxia, Spear of the Everchosen;Slaves to Darkness;230;AOS
+1;Gunnar Brand;Slaves to Darkness;180;AOS
+3;The Oathsworn Kin;Slaves to Darkness;0;AOS
+1;Singri Brand;Slaves to Darkness;0;AOS
+1;Nexus Chaotica;Slaves to Darkness;0;AOS
+6;Chaos Furies;Slaves to Darkness;100;AOS
+0;Brand’s Oathbound;Slaves to Darkness;0;AOS
+0;Hargax’s Pit-Beasts;Slaves to Darkness;0;AOS
+0;Lord Skaldior’s Chosen;Slaves to Darkness;0;AOS
+0;Godmarked Ascendant;Slaves to Darkness;0;AOS
+0;Goroan Scions;Slaves to Darkness;0;AOS
+0;Krittok’s Clawpack;Slaves to Darkness;0;AOS
+0;Volt-Klaw’s Enginecoven;Slaves to Darkness;0;AOS
+0;Snerk’s Trogg-Fer-Hire;Slaves to Darkness;0;AOS
+1;Scourge of Ghyran Abraxia, Spear of the Everchosen;Slaves to Darkness;300;AOS
+0;Exile Scavengers;Slaves to Darkness;0;AOS
+0;The Exiled One;Slaves to Darkness;400;AOS
+0;The Red Revelation;Slaves to Darkness;350;AOS
+0;Squires of the Everchosen;Slaves to Darkness;0;AOS
+0;The Scarlet Jury;Slaves to Darkness;0;AOS
+0;Seeker of the Dread Dirge;Slaves to Darkness;0;AOS
+0;The Curse-Steel Battery;Slaves to Darkness;0;AOS
+0;Slaves to Darkness Hero;Slaves to Darkness;0;AOS
+1;Athol Khul;Slaves to Darkness;150;AOS
+0;Phulgoth’s Shudderhood;Slaves to Darkness;0;AOS
+0;Nurgle’s Gift;Slaves to Darkness;0;AOS
+0;The Pustules;Slaves to Darkness;0;AOS
+0;Diseased Revellers;Slaves to Darkness;0;AOS
+0;The Coven of Thryx;Slaves to Darkness;0;AOS
+0;Mask of the Deceiver;Slaves to Darkness;0;AOS
+0;Seekers of Silver;Slaves to Darkness;380;AOS
+5;Darkoath Fellriders;Slaves to Darkness;130;AOS
+10;Darkoath Savagers;Slaves to Darkness;90;AOS
+1;Darkoath Warqueen;Slaves to Darkness;80;AOS
+10;Darkoath Marauders;Slaves to Darkness;80;AOS
+1;Chaos Chariot;Slaves to Darkness;90;AOS
+1;Chaos Lord;Slaves to Darkness;100;AOS
+10;Chaos Warriors;Slaves to Darkness;180;AOS
+5;Chaos Knights;Slaves to Darkness;240;AOS
+0;Rogue Engine;Slaves to Darkness;0;AOS
+0;Cogfort Raiders;Slaves to Darkness;0;AOS
+10;Scourge of Aqshy Chaos Warriors;Slaves to Darkness;200;AOS
+1;Scourge of Aqshy Chaos Lord on Karkadrak;Slaves to Darkness;200;AOS
+0;Mist-Clad Revellers;Slaves to Darkness;0;AOS
+0;The Accursed Reflection;Slaves to Darkness;0;AOS
+0;Urrgar’s Maulerguts;Slaves to Darkness;0;AOS
+0;One-eyed Grunnock;Slaves to Darkness;0;AOS
+0;Krong The Club;Slaves to Darkness;0;AOS
+0;Stumblefoot Gargant;Slaves to Darkness;0;AOS
+10;Dryads;Sylvaneth;100;AOS
+1;Treelord;Sylvaneth;200;AOS
+1;Arch-Revenant;Sylvaneth;90;AOS
+1;Branchwych;Sylvaneth;100;AOS
+4;Ylthari’s Guardians;Sylvaneth;140;AOS
+1;Alarielle the Everqueen;Sylvaneth;620;AOS
+1;Drycha Hamadreth;Sylvaneth;250;AOS
+1;Spirit of Durthu;Sylvaneth;320;AOS
+1;Treelord Ancient;Sylvaneth;260;AOS
+5;Spite-Revenants;Sylvaneth;100;AOS
+5;Tree-Revenants;Sylvaneth;110;AOS
+1;Gladewyrm;Sylvaneth;0;AOS
+1;Spiteswarm Hive;Sylvaneth;0;AOS
+1;Vengeful Skullroot;Sylvaneth;0;AOS
+1;Awakened Wyldwood;Sylvaneth;0;AOS
+5;Skaeth’s Wild Hunt;Sylvaneth;90;AOS
+1;Warsong Revenant;Sylvaneth;190;AOS
+1;The Lady of Vines;Sylvaneth;280;AOS
+5;Gossamid Archers;Sylvaneth;120;AOS
+3;Revenant Seekers;Sylvaneth;180;AOS
+3;Spiterider Lancers;Sylvaneth;230;AOS
+0;Elthwin’s Thorns;Sylvaneth;0;AOS
+1;Belthanos, First Thorn of Kurnoth;Sylvaneth;290;AOS
+8;The Twistweald;Sylvaneth;160;AOS
+0;The Lost-Song Spirits;Sylvaneth;0;AOS
+3;Scourge of Ghyran Revenant Seekers;Sylvaneth;240;AOS
+1;Scourge of Ghyran Drycha Hamadreth;Sylvaneth;300;AOS
+3;Kurnoth’s Heralds;Sylvaneth;110;AOS
+3;Kurnoth Hunters with Greatbows;Sylvaneth;190;AOS
+3;Kurnoth Hunters with Greatscythes;Sylvaneth;200;AOS
+1;Grove Guardian;Sylvaneth;200;AOS
+3;Kurnoth Hunters with Greatswords;Sylvaneth;220;AOS
+1;Kelthannor, the Forest Prince;Sylvaneth;0;AOS
+0;The Twisted Branch;Sylvaneth;0;AOS
+0;Drycha’s Talons;Sylvaneth;0;AOS
+0;Khinerai Death Flight;Sylvaneth;0;AOS
+0;The Crimson Lash;Sylvaneth;0;AOS
+0;Tree Spirit Hero;Sylvaneth;0;AOS
+0;Forest Elder Hero;Sylvaneth;0;AOS
+0;Bloodthirsty Shiver;Sylvaneth;0;AOS
+0;Dawnrider Lance;Sylvaneth;0;AOS
+0;Drekki’s Privateers;Sylvaneth;0;AOS
+0;Fjori’s Flamebearers;Sylvaneth;0;AOS
+0;Gotrek Gurnisson;Sylvaneth;0;AOS
+0;Mask of the Deceiver;Sylvaneth;0;AOS
+0;Namarti Shore Raid;Sylvaneth;0;AOS
+0;Nurgle’s Gift;Sylvaneth;0;AOS
+0;Sigil Convocation;Sylvaneth;0;AOS
+0;Sky-Port Profiteers;Sylvaneth;0;AOS
+0;The Blacktalons;Sylvaneth;0;AOS
+0;The Horizon Seekers;Sylvaneth;0;AOS
+0;Valnir’s Stormwing;Sylvaneth;0;AOS
+5;Gossamid Archers;Sylvaneth;120;AOS
+3;Spiterider Lancers;Sylvaneth;230;AOS
+1;Arch-Revenant;Sylvaneth;90;AOS
+3;Revenant Seekers;Sylvaneth;180;AOS
+3;Kurnoth Hunters;Sylvaneth;0;AOS
+1;Branchwych;Sylvaneth;100;AOS
+5;Tree-Revenants;Sylvaneth;110;AOS
+1;Treelord;Sylvaneth;200;AOS
+0;Norgrimm’s Rune Throng;Sylvaneth;330;AOS
+0;Saviours of Cinderfall;Sylvaneth;270;AOS
+0;Heroes of The Jade Abbey;Sylvaneth;0;AOS
+0;Ven Denst’s Hounds;Sylvaneth;230;AOS
+0;Reinholt’s Sharpshooters;Sylvaneth;400;AOS
+0;Rogue Engine;Sylvaneth;0;AOS
+0;Cogfort Raiders;Sylvaneth;0;AOS
+3;Scourge of Aqshy Kurnoth Hunters with Greatswords;Sylvaneth;220;AOS
+1;Scourge of Aqshy Treelord Ancient;Sylvaneth;290;AOS
+0;Bundo Whalebiter;Sylvaneth;0;AOS
+0;Krong The Club;Sylvaneth;0;AOS
+0;Stumblefoot Gargant;Sylvaneth;0;AOS
+;;;;AOS
+;;;;AOS
+;;;;AOS
+;;;;AOS
+;;;;AOS
+;;;;AOS
+;;;;AOS
+;;;;AOS
+;;;;AOS
+;;;;AOS
+;;;;AOS
+;;;;AOS
+;;;;AOS
+;;;;AOS
+;;;;AOS
+;;;;AOS
+;;;;AOS
+;;;;AOS
+;;;;AOS
+;;;;AOS
+;;;;AOS
+;;;;AOS
+;;;;AOS
+;;;;AOS
+;;;;AOS
+;;;;AOS
+;;;;AOS
+;;;;AOS
+;;;;AOS
+;;;;AOS
+;;;;AOS
+;;;;AOS
+;;;;AOS
+;;;;AOS
+;;;;AOS
+;;;;AOS
+;;;;AOS
+;;;;AOS
+;;;;AOS
+;;;;AOS
+;;;;AOS
+;;;;AOS
+;;;;AOS
+;;;;AOS
+;;;;AOS
+;;;;AOS
+;;;;AOS
+;;;;AOS
+;;;;AOS
+;;;;AOS
+;;;;AOS
+;;;;AOS
+;;;;AOS
+;;;;AOS
+;;;;AOS
+;;;;AOS
+;;;;AOS
+;;;;AOS
+;;;;AOS
+;;;;AOS
+;;;;AOS
+;;;;AOS
+;;;;AOS
+;;;;AOS
+;;;;AOS
+;;;;AOS
+;;;;AOS
+;;;;AOS
+;;;;AOS
+;;;;AOS
+;;;;AOS
+;;;;AOS
+;;;;AOS
+;;;;AOS
+;;;;AOS
+;;;;AOS
+;;;;AOS
+;;;;AOS
+;;;;AOS
+;;;;AOS
+;;;;AOS
+;;;;AOS
+;;;;AOS
+;;;;AOS
+;;;;AOS
+;;;;AOS
+;;;;AOS
+;;;;AOS
+;;;;AOS
+;;;;AOS
+;;;;AOS
+;;;;AOS
+;;;;AOS
+;;;;AOS
+;;;;AOS
+;;;;AOS
+;;;;AOS

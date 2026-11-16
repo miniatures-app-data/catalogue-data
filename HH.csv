@@ -1,0 +1,832 @@
+﻿nb de fig par unité;nom de l'unité;faction;coût de l'unité;système de jeu
+1;Force Commander;Imperialis Militia;70;HH
+1;Discipline Master Cadre;Imperialis Militia;0;HH
+5;Command Troop;Imperialis Militia;70;HH
+5;Mounted Command Troop;Imperialis Militia;85;HH
+2;Rogue Psyker;Imperialis Militia;66;HH
+10;Grenadier Troop;Imperialis Militia;85;HH
+4;Ogryn Brute Troop;Imperialis Militia;135;HH
+3;Beastmaster Troop;Imperialis Militia;30;HH
+20;Infantry Troop;Imperialis Militia;90;HH
+21;Levy Troop;Imperialis Militia;85;HH
+1;Militia Medicae;Imperialis Militia;20;HH
+3;Fire Support Troop;Imperialis Militia;50;HH
+1;Rapier Troop;Imperialis Militia;40;HH
+1;Field Gun Battery;Imperialis Militia;55;HH
+4;Heavy Ordnance Battery;Imperialis Militia;85;HH
+1;Sentinel Patrol;Imperialis Militia;40;HH
+1;Militia Arvus Lighter;Imperialis Militia;65;HH
+1;Militia Utility Hauler;Imperialis Militia;55;HH
+1;Militia Industrial Rig;Imperialis Militia;0;HH
+1;Militia Gorgon Transporter;Imperialis Militia;275;HH
+5;Reconnaissance Troop;Imperialis Militia;50;HH
+5;Cavalry Troop;Imperialis Militia;60;HH
+1;All-Terrain Patrol;Imperialis Militia;20;HH
+1;Militia Scout Rover;Imperialis Militia;0;HH
+1;Militia Thunderbolt Heavy Fighter;Imperialis Militia;110;HH
+1;Militia Leman Russ Tank;Imperialis Militia;130;HH
+1;Militia Malcador Heavy Tank;Imperialis Militia;170;HH
+1;Militia Baneblade Super-Heavy Battle Tank;Imperialis Militia;500;HH
+1;Triaros Armoured Conveyor;Imperialis Militia;200;HH
+1;Krios Battle Tank;Imperialis Militia;135;HH
+1;Rhino;Imperialis Militia;60;HH
+1;Termite;Imperialis Militia;80;HH
+1;Land Raider Carrier;Imperialis Militia;265;HH
+3;Ruinstorm Daemon Brutes;Imperialis Militia;120;HH
+2;Castellax Battle Maniple;Imperialis Militia;100;HH
+2;Castellax Destructor Maniple;Imperialis Militia;100;HH
+1;Domitar Battle Maniple;Imperialis Militia;100;HH
+1;Thanatar Siege Maniple;Imperialis Militia;225;HH
+2;Vorax Attack Maniple;Imperialis Militia;90;HH
+1;Vultarax Stratos Squadron;Imperialis Militia;100;HH
+1;Mortarion;XIV - Death Guard;425;HH
+1;Calas Typhon;XIV - Death Guard;200;HH
+2;Deathshroud Terminator Squad;XIV - Death Guard;100;HH
+5;Grave Warden Terminator Squad;XIV - Death Guard;225;HH
+5;Mortus Poisoner Squad;XIV - Death Guard;70;HH
+10;Inductii Squad;XIV - Death Guard;90;HH
+1;Constantin Valdor;Legio Custodes;400;HH
+1;Tribune;Legio Custodes;250;HH
+1;Shield Captain;Legio Custodes;175;HH
+3;Aquilon Terminator Sodality;Legio Custodes;255;HH
+6;Custodian Guard Sodality;Legio Custodes;270;HH
+6;Sentinel Guard Sodality;Legio Custodes;240;HH
+1;Contemptor-Achillus Dreadnought;Legio Custodes;250;HH
+1;Contemptor-Galatus Dreadnought;Legio Custodes;225;HH
+1;Telemon Heavy Dreadnought;Legio Custodes;360;HH
+1;Coronus Grav-Carrier;Legio Custodes;180;HH
+3;Venatari Sodality;Legio Custodes;165;HH
+2;Gyrfalcon Jetbike Sodality;Legio Custodes;140;HH
+1;Pallas Grav-Attack;Legio Custodes;105;HH
+1;Caladius Grav-Tank;Legio Custodes;225;HH
+1;Orion Assault Dropship;Legio Custodes;600;HH
+1;Ares Gunship;Legio Custodes;650;HH
+6;Adrasite Guard Sodality;Legio Custodes;360;HH
+6;Pyrithite Guard Sodality;Legio Custodes;360;HH
+6;Sagittarum Guard Sodality;Legio Custodes;240;HH
+3;Adjutorum Sodality;Legio Custodes;275;HH
+1;Ephoroi Venatari Proconsul;Legio Custodes;160;HH
+1;Hykanatoi Proconsul-Delegate;Legio Custodes;80;HH
+2;Castellax Battle Maniple;Legio Custodes;100;HH
+2;Castellax Destructor Maniple;Legio Custodes;100;HH
+1;Domitar Battle Maniple;Legio Custodes;100;HH
+1;Thanatar Siege Maniple;Legio Custodes;225;HH
+2;Vorax Attack Maniple;Legio Custodes;90;HH
+1;Vultarax Stratos Squadron;Legio Custodes;100;HH
+1;Fulgrim;III - Emperor's Children;425;HH
+1;Fulgrim Transfigured;III - Emperor's Children;600;HH
+1;Lord Commander Eidolon;III - Emperor's Children;215;HH
+1;Captain Lucius;III - Emperor's Children;215;HH
+1;Saul Tarvitz;III - Emperor's Children;215;HH
+5;Phoenix Terminator Squad;III - Emperor's Children;200;HH
+5;Palatine Blade Squad;III - Emperor's Children;165;HH
+5;Kakophoni Squad;III - Emperor's Children;150;HH
+5;Palatine Blade Aquilae Squad;III - Emperor's Children;195;HH
+1;Rylanor The Unyielding;III - Emperor's Children;180;HH
+5;Sun Killer Squad;III - Emperor's Children;65;HH
+10;Inductii Squad;III - Emperor's Children;100;HH
+1;Jaghatai Khan;V - White Scars;440;HH
+1;Qin Xa;V - White Scars;220;HH
+1;Stormseer;V - White Scars;95;HH
+1;Hibou Khan;V - White Scars;165;HH
+3;Golden Keshig;V - White Scars;140;HH
+5;Ebon Keshig;V - White Scars;200;HH
+1;Kyzagan Assault Speeder;V - White Scars;105;HH
+5;Falcon's Claws;V - White Scars;110;HH
+1;Stormseer with Jump Pack;V - White Scars;115;HH
+1;Mounted Stormseer;V - White Scars;125;HH
+1;Stormseer in Terminator Armour;V - White Scars;115;HH
+5;Dark Sons of Death;V - White Scars;125;HH
+10;Inductii Squad;V - White Scars;100;HH
+1;Skitarii Battle-Pilgrym Marshal;Skitarii Conclaves;100;HH
+8;Skitarii Battle-Pilgrym Corpus;Skitarii Conclaves;100;HH
+10;Bonepicker Host;Skitarii Conclaves;50;HH
+1;Vultarax Stratos Squadron;Skitarii Conclaves;100;HH
+1;Triaros Armoured Conveyor;Skitarii Conclaves;200;HH
+1;Karacnos Assault Tank;Skitarii Conclaves;235;HH
+1;Krios Battle Tank;Skitarii Conclaves;135;HH
+1;Krios Venator;Skitarii Conclaves;160;HH
+2;Castellax Battle Maniple;Skitarii Conclaves;100;HH
+2;Castellax Destructor Maniple;Skitarii Conclaves;100;HH
+1;Domitar Battle Maniple;Skitarii Conclaves;100;HH
+1;Thanatar Siege Maniple;Skitarii Conclaves;225;HH
+2;Vorax Attack Maniple;Skitarii Conclaves;90;HH
+1;Sigismund;VII - Imperial Fists;250;HH
+1;Rogal Dorn;VII - Imperial Fists;435;HH
+1;Evander Garrius;VII - Imperial Fists;215;HH
+10;Phalanx Warder-Squad;VII - Imperial Fists;200;HH
+1;Camba Diaz;VII - Imperial Fists;120;HH
+1;Alexis Polux;VII - Imperial Fists;185;HH
+5;Templar Brethren;VII - Imperial Fists;160;HH
+1;Fafnir Rann;VII - Imperial Fists;175;HH
+5;Huscarl Terminator Retinue;VII - Imperial Fists;275;HH
+1;Ætos Dios;VII - Imperial Fists;700;HH
+10;Inductii Squad;VII - Imperial Fists;90;HH
+1;Armillus Dynat;XX - Alpha Legion;185;HH
+1;Saboteur;XX - Alpha Legion;95;HH
+5;Headhunter Kill Team;XX - Alpha Legion;125;HH
+1;Exodus;XX - Alpha Legion;165;HH
+5;Lernaean Terminator Squad;XX - Alpha Legion;250;HH
+1;Alpharius;XX - Alpha Legion;465;HH
+1;Autilon Skorr;XX - Alpha Legion;135;HH
+5;Effrit Disruption Cadre;XX - Alpha Legion;145;HH
+10;Inductii Squad;XX - Alpha Legion;90;HH
+5;Deathwing Companion Detachment;XX - Alpha Legion;175;HH
+5;Inner Circle Knights Cenobium;XX - Alpha Legion;275;HH
+5;Dreadwing Interemptor Squad;XX - Alpha Legion;125;HH
+3;Golden Keshig;XX - Alpha Legion;140;HH
+5;Ebon Keshig;XX - Alpha Legion;200;HH
+1;Kyzagan Assault Speeder;XX - Alpha Legion;105;HH
+5;Varagyr Wolf Guard Terminators;XX - Alpha Legion;250;HH
+5;Deathsworn Pack;XX - Alpha Legion;175;HH
+10;Grey Slayer Pack;XX - Alpha Legion;145;HH
+5;Templar Brethren;XX - Alpha Legion;160;HH
+10;Phalanx Warder-Squad;XX - Alpha Legion;200;HH
+5;Gorgon Terminator Squad;XX - Alpha Legion;200;HH
+5;Medusan Immortals Squad;XX - Alpha Legion;95;HH
+5;Invictus Suzerain Squad;XX - Alpha Legion;175;HH
+5;Praetorian Breacher Squad;XX - Alpha Legion;115;HH
+5;Mor Deythan Squad;XX - Alpha Legion;175;HH
+5;Dark Fury Squad;XX - Alpha Legion;175;HH
+5;Phoenix Terminator Squad;XX - Alpha Legion;200;HH
+5;Palatine Blade Squad;XX - Alpha Legion;165;HH
+5;Kakophoni Squad;XX - Alpha Legion;150;HH
+5;Tyrant Siege Terminator Squad;XX - Alpha Legion;300;HH
+1;Iron Circle Maniple;XX - Alpha Legion;150;HH
+5;Contekar Terminator Squad;XX - Alpha Legion;225;HH
+5;Terror Squad;XX - Alpha Legion;115;HH
+5;Night Raptor Squad;XX - Alpha Legion;150;HH
+5;Red Butchers;XX - Alpha Legion;250;HH
+5;Rampager Squad;XX - Alpha Legion;135;HH
+2;Deathshroud Terminator Squad;XX - Alpha Legion;100;HH
+5;Grave Warden Terminator Squad;XX - Alpha Legion;225;HH
+5;Sekhmet Terminator Cabal;XX - Alpha Legion;250;HH
+5;Khenetai Occult Cabal;XX - Alpha Legion;145;HH
+1;Castellax-Achea Automata;XX - Alpha Legion;80;HH
+1;Contemptor-Osiron Dreadnought;XX - Alpha Legion;200;HH
+5;Justaerin Terminator Squad;XX - Alpha Legion;275;HH
+5;Reaver Attack Squad;XX - Alpha Legion;135;HH
+5;Gal Vorbak;XX - Alpha Legion;250;HH
+1;Mhara Gal Dreadnought;XX - Alpha Legion;210;HH
+5;Ashen Circle;XX - Alpha Legion;125;HH
+5;Crimson Paladins;XX - Alpha Legion;225;HH
+5;Dawnbreaker Cohort;XX - Alpha Legion;150;HH
+5;The Angel's Tears;XX - Alpha Legion;150;HH
+1;Contemptor-Incaendius Dreadnought;XX - Alpha Legion;200;HH
+5;Firedrake Terminator Squad;XX - Alpha Legion;250;HH
+5;Pyroclast Squad;XX - Alpha Legion;175;HH
+5;Tartaros Terminator Deathwing Companions;XX - Alpha Legion;240;HH
+5;Inner Circle Knights Cenobium – Order of the Broken Claws;XX - Alpha Legion;285;HH
+3;Firewing Enigmatus Cabal;XX - Alpha Legion;90;HH
+5;Palatine Blade Aquilae Squad;XX - Alpha Legion;195;HH
+5;Sun Killer Squad;XX - Alpha Legion;65;HH
+5;Dominator Cohort;XX - Alpha Legion;255;HH
+5;Iron Havocs;XX - Alpha Legion;135;HH
+5;Falcon's Claws;XX - Alpha Legion;110;HH
+5;Dark Sons of Death;XX - Alpha Legion;125;HH
+5;Jorlund Hunter Pack;XX - Alpha Legion;95;HH
+1;Fenrisian Wolf Pack;XX - Alpha Legion;10;HH
+5;Huscarl Terminator Retinue;XX - Alpha Legion;275;HH
+5;Atramentar Flay-clade;XX - Alpha Legion;170;HH
+5;Sanguinary Guard;XX - Alpha Legion;205;HH
+3;Ofanim Court;XX - Alpha Legion;130;HH
+3;Ofanim Court With Jump Packs;XX - Alpha Legion;160;HH
+3;Morlock Terminator Squad;XX - Alpha Legion;165;HH
+5;Red Hand Destroyer Mortalis Squad;XX - Alpha Legion;85;HH
+5;Red Hand Destroyer Assault Squad;XX - Alpha Legion;110;HH
+5;Locutarus Storm Squad;XX - Alpha Legion;200;HH
+5;Fulmentarus Terminator Squad;XX - Alpha Legion;290;HH
+10;Nemesis Destroyer Squad;XX - Alpha Legion;165;HH
+5;Mortus Poisoner Squad;XX - Alpha Legion;70;HH
+5;Numerologist Cabal;XX - Alpha Legion;130;HH
+5;Ammitara Occult Intercession Cabal;XX - Alpha Legion;145;HH
+5;Chieftain Squad;XX - Alpha Legion;155;HH
+5;Reaver Aggressor Squad;XX - Alpha Legion;165;HH
+6;Procurators;XX - Alpha Legion;120;HH
+6;Procurators with Jump Packs;XX - Alpha Legion;150;HH
+5;Adherents Squad;XX - Alpha Legion;85;HH
+5;Sanctifier Squad;XX - Alpha Legion;90;HH
+5;Deliverers Squad;XX - Alpha Legion;215;HH
+10;Inductii Squad;XX - Alpha Legion;100;HH
+11;Inductii Squad;XX - Alpha Legion;114;HH
+11;Inductii Squad;XX - Alpha Legion;124;HH
+5;Cataphractii Terminator Deathwing Companions;XX - Alpha Legion;240;HH
+1;Sanguinius;IX - Blood Angels;485;HH
+1;Chapter Master Raldoron;IX - Blood Angels;180;HH
+1;Dominion Zephon;IX - Blood Angels;185;HH
+1;Aster Chrone;IX - Blood Angels;155;HH
+1;Contemptor-Incaendius Dreadnought;IX - Blood Angels;200;HH
+5;Crimson Paladins;IX - Blood Angels;225;HH
+5;Dawnbreaker Cohort;IX - Blood Angels;150;HH
+5;The Angel's Tears;IX - Blood Angels;150;HH
+5;Sanguinary Guard;IX - Blood Angels;205;HH
+3;Ofanim Court;IX - Blood Angels;130;HH
+3;Ofanim Court With Jump Packs;IX - Blood Angels;160;HH
+10;Inductii Squad;IX - Blood Angels;100;HH
+1;Rapier Battery;Legiones Astartes;40;HH
+3;Saturnine Terminator Squad;Legiones Astartes;200;HH
+1;Centurion;Legiones Astartes;80;HH
+1;Praetor in Saturnine Terminator Armour;Legiones Astartes;200;HH
+10;Assault Squad;Legiones Astartes;140;HH
+10;Breacher Squad;Legiones Astartes;140;HH
+1;Araknae Quad Accelerator Platform;Legiones Astartes;125;HH
+1;Saturnine Dreadnought;Legiones Astartes;340;HH
+1;Fellblade Super-Heavy Battle Tank;Legiones Astartes;650;HH
+5;Praetorian Command Squad;Legiones Astartes;130;HH
+1;Rhino;Legiones Astartes;60;HH
+1;Spartan Assault Tank;Legiones Astartes;400;HH
+5;Veteran Tactical Squad;Legiones Astartes;85;HH
+5;Veteran Assault Squad;Legiones Astartes;120;HH
+10;Tactical Squad;Legiones Astartes;100;HH
+1;Deredeo Dreadnought;Legiones Astartes;190;HH
+1;Leviathan Dreadnought;Legiones Astartes;230;HH
+1;Praetor;Legiones Astartes;120;HH
+1;Praetor in Terminator Armour;Legiones Astartes;145;HH
+1;Optae;Legiones Astartes;50;HH
+1;Centurion in Terminator Armour;Legiones Astartes;100;HH
+1;Damocles Command Rhino;Legiones Astartes;120;HH
+1;Librarian;Legiones Astartes;85;HH
+1;Legion Champion;Legiones Astartes;105;HH
+1;Vigilator;Legiones Astartes;95;HH
+1;Esoterist;Legiones Astartes;95;HH
+1;Master of Signals;Legiones Astartes;115;HH
+1;Praevian;Legiones Astartes;95;HH
+1;Moritat;Legiones Astartes;95;HH
+1;Siege Breaker;Legiones Astartes;115;HH
+1;Herald;Legiones Astartes;100;HH
+1;Chaplain;Legiones Astartes;80;HH
+5;Praetorian Command Squad with Jump Packs;Legiones Astartes;160;HH
+5;Centurion Command Squad;Legiones Astartes;85;HH
+3;Tartaros Terminator Command Squad;Legiones Astartes;140;HH
+5;Cataphractii Terminator Squad;Legiones Astartes;150;HH
+5;Seeker Squad;Legiones Astartes;105;HH
+5;Tartaros Terminator Squad;Legiones Astartes;150;HH
+3;Cataphractii Terminator Command Squad;Legiones Astartes;140;HH
+10;Despoiler Squad;Legiones Astartes;100;HH
+5;Tactical Support Squad;Legiones Astartes;40;HH
+5;Heavy Support Squad;Legiones Astartes;50;HH
+1;Apothecary;Legiones Astartes;30;HH
+1;Techmarine;Legiones Astartes;50;HH
+1;Deathstorm Drop Pod;Legiones Astartes;90;HH
+1;Contemptor Dreadnought;Legiones Astartes;150;HH
+1;Termite;Legiones Astartes;80;HH
+1;Drop Pod;Legiones Astartes;50;HH
+1;Land Raider Carrier;Legiones Astartes;265;HH
+1;Dreadnought Drop Pod;Legiones Astartes;100;HH
+1;Kharybdis Assault Claw;Legiones Astartes;235;HH
+1;Dreadclaw Drop Pod;Legiones Astartes;115;HH
+3;Outrider Squadron;Legiones Astartes;85;HH
+5;Reconnaissance Squad;Legiones Astartes;110;HH
+1;Sabre;Legiones Astartes;80;HH
+1;Land Raider Explorator;Legiones Astartes;220;HH
+2;Tarantula Battery;Legiones Astartes;45;HH
+3;Scimitar Jetbike Squadron;Legiones Astartes;95;HH
+1;Xiphon Interceptor;Legiones Astartes;120;HH
+1;Storm Eagle;Legiones Astartes;200;HH
+1;Fire Raptor;Legiones Astartes;220;HH
+1;Javelin Speeder Squadron;Legiones Astartes;75;HH
+1;Predator;Legiones Astartes;100;HH
+1;Land Speeder Squadron;Legiones Astartes;50;HH
+1;Sicaran;Legiones Astartes;160;HH
+1;Sicaran Venator;Legiones Astartes;170;HH
+1;Kratos Assault Tank;Legiones Astartes;280;HH
+1;Vindicator Siege Tank;Legiones Astartes;140;HH
+1;Scorpius Missile Tank;Legiones Astartes;120;HH
+1;Arquitor Bombard;Legiones Astartes;150;HH
+1;Cerberus Heavy Tank Destroyer;Legiones Astartes;400;HH
+1;Typhon Heavy Siege Tank;Legiones Astartes;400;HH
+1;Glaive Super-Heavy Special Weapons Tank;Legiones Astartes;650;HH
+1;Falchion Super-Heavy Tank Destroyer;Legiones Astartes;650;HH
+1;Thunderhawk Gunship;Legiones Astartes;685;HH
+1;Mastodon Super-Heavy Assault Transport;Legiones Astartes;600;HH
+1;Sokar Stormbird;Legiones Astartes;850;HH
+1;Master of Descent;Legiones Astartes;115;HH
+1;Overseer;Legiones Astartes;85;HH
+4;Augur Command and Control Squad;Legiones Astartes;80;HH
+1;Hyperios Missile Tank;Legiones Astartes;120;HH
+1;Mounted Praetor;Legiones Astartes;160;HH
+1;Mounted Centurion;Legiones Astartes;110;HH
+1;Librarian With Jump Pack;Legiones Astartes;115;HH
+1;Mounted Librarian;Legiones Astartes;125;HH
+1;Librarian In Terminator Armour;Legiones Astartes;115;HH
+1;Esoterist With Jump Pack;Legiones Astartes;125;HH
+1;Mounted Esoterist;Legiones Astartes;135;HH
+1;Esoterist In Terminator Armour;Legiones Astartes;125;HH
+1;Legion Champion With Jump Pack;Legiones Astartes;135;HH
+1;Mounted Legion Champion;Legiones Astartes;145;HH
+1;Legion Champion In Terminator Armour;Legiones Astartes;135;HH
+1;Chaplain With Jump Pack;Legiones Astartes;100;HH
+1;Mounted Chaplain;Legiones Astartes;110;HH
+1;Chaplain In Terminator Armour;Legiones Astartes;110;HH
+1;Herald With Jump Pack;Legiones Astartes;130;HH
+1;Mounted Herald;Legiones Astartes;140;HH
+1;Herald In Terminator Armour;Legiones Astartes;130;HH
+1;Siege Breaker With Jump Pack;Legiones Astartes;135;HH
+1;Mounted Siege Breaker;Legiones Astartes;145;HH
+1;Siege Breaker In Terminator Armour;Legiones Astartes;130;HH
+1;Master Of Signals With Jump Pack;Legiones Astartes;135;HH
+1;Mounted Master Of Signals;Legiones Astartes;145;HH
+1;Moritat Mortalis;Legiones Astartes;85;HH
+1;Forge Lord;Legiones Astartes;110;HH
+1;Mounted Forge Lord;Legiones Astartes;140;HH
+1;Forge Lord In Terminator Armour;Legiones Astartes;130;HH
+1;Primus Medicae;Legiones Astartes;100;HH
+1;Mounted Primus Medicae;Legiones Astartes;130;HH
+1;Primus Medicae In Terminator Armour;Legiones Astartes;120;HH
+1;Delegatus;Legiones Astartes;100;HH
+1;Mounted Delegatus;Legiones Astartes;130;HH
+1;Delegatus In Terminator Armour;Legiones Astartes;120;HH
+1;Mortificator;Legiones Astartes;100;HH
+1;Mortificator In Terminator Armour;Legiones Astartes;120;HH
+1;Warmonger;Legiones Astartes;130;HH
+1;Warmonger In Terminator Armour;Legiones Astartes;150;HH
+1;Pathfinder;Legiones Astartes;60;HH
+1;Armistos;Legiones Astartes;70;HH
+3;Praetorian Command Squad On Scimitar Jetbikes;Legiones Astartes;170;HH
+3;Outrider Praetorian Command Squad;Legiones Astartes;150;HH
+5;Veteran Breacher Squad;Legiones Astartes;125;HH
+5;Veteran Heavy Support Squad;Legiones Astartes;115;HH
+5;Tartaros Terminator Siege Squad;Legiones Astartes;150;HH
+5;Indomitus Terminator Squad;Legiones Astartes;180;HH
+5;Mortalis Destroyer Squad;Legiones Astartes;85;HH
+5;Destroyer Assault Squad;Legiones Astartes;100;HH
+1;Castra Ferrum Dreadnought;Legiones Astartes;115;HH
+1;Land Raider Achilles;Legiones Astartes;280;HH
+1;Caestus Assault Ram;Legiones Astartes;290;HH
+1;Attack Bike Squadron;Legiones Astartes;45;HH
+5;Scout Squad;Legiones Astartes;70;HH
+1;Legion Basilisk;Legiones Astartes;140;HH
+1;Legion Medusa;Legiones Astartes;150;HH
+1;Thunderhawk Transporter;Legiones Astartes;500;HH
+1;Centurion in Saturnine Terminator Armour;Legiones Astartes;150;HH
+2;Saturnine Terminator Command Squad;Legiones Astartes;160;HH
+1;Whirlwind Missile Tank;Legiones Astartes;100;HH
+1;Spartan Prometheus Command Tank;Legiones Astartes;420;HH
+5;Veteran Despoiler Squad;Legiones Astartes;95;HH
+2;Castellax Battle Maniple;Legiones Astartes;100;HH
+2;Castellax Destructor Maniple;Legiones Astartes;100;HH
+6;Thallax Cohort;Legiones Astartes;120;HH
+3;Ruinstorm Daemon Brutes;Legiones Astartes;120;HH
+1;Domitar Battle Maniple;Legiones Astartes;100;HH
+1;Thanatar Siege Maniple;Legiones Astartes;225;HH
+2;Vorax Attack Maniple;Legiones Astartes;90;HH
+1;Vultarax Stratos Squadron;Legiones Astartes;100;HH
+1;Herald of Slaanesh;Legiones Astartes;135;HH
+10;Daemonettes;Legiones Astartes;140;HH
+4;Slaaneshi Fiends;Legiones Astartes;220;HH
+5;Slaaneshi Seekers;Legiones Astartes;90;HH
+3;Screamers of Tzeentch;Legiones Astartes;130;HH
+10;Horrors of Tzeentch;Legiones Astartes;140;HH
+1;Herald of Tzeentch;Legiones Astartes;135;HH
+3;Flamers of Tzeentch;Legiones Astartes;105;HH
+1;Ferrus Manus;X - Iron Hands;465;HH
+1;Iron Father;X - Iron Hands;175;HH
+5;Medusan Immortals Squad;X - Iron Hands;95;HH
+1;Shadrak Meduson;X - Iron Hands;175;HH
+5;Gorgon Terminator Squad;X - Iron Hands;200;HH
+1;Iron Father In Artificer Armour;X - Iron Hands;150;HH
+3;Morlock Terminator Squad;X - Iron Hands;165;HH
+10;Inductii Squad;X - Iron Hands;90;HH
+2;Castellax Battle Maniple;X - Iron Hands;100;HH
+2;Castellax Destructor Maniple;X - Iron Hands;100;HH
+1;Jenetia Krole;Anathema Psykana;125;HH
+1;Knight-Centura;Anathema Psykana;75;HH
+5;Anathema Cadre;Anathema Psykana;65;HH
+1;Kharon Pattern Acquisitor;Anathema Psykana;120;HH
+2;Castellax Battle Maniple;Anathema Psykana;100;HH
+2;Castellax Destructor Maniple;Anathema Psykana;100;HH
+1;Domitar Battle Maniple;Anathema Psykana;100;HH
+1;Thanatar Siege Maniple;Anathema Psykana;225;HH
+2;Vorax Attack Maniple;Anathema Psykana;90;HH
+1;Vultarax Stratos Squadron;Anathema Psykana;100;HH
+1;Roboute Guilliman;XIII - Ultramarines;465;HH
+1;Remus Ventanus;XIII - Ultramarines;175;HH
+5;Invictus Suzerain Squad;XIII - Ultramarines;175;HH
+5;Praetorian Breacher Squad;XIII - Ultramarines;115;HH
+5;Locutarus Storm Squad;XIII - Ultramarines;200;HH
+5;Fulmentarus Terminator Squad;XIII - Ultramarines;290;HH
+10;Nemesis Destroyer Squad;XIII - Ultramarines;165;HH
+1;Honoured Telemechrus;XIII - Ultramarines;170;HH
+11;Inductii Squad;XIII - Ultramarines;114;HH
+1;Horus Lupercal;XVI - Sons of Horus;530;HH
+1;Ezekyle Abaddon;XVI - Sons of Horus;250;HH
+1;Dark Emmissary;XVI - Sons of Horus;90;HH
+1;Vheren Ashurhaddon;XVI - Sons of Horus;205;HH
+1;Horus Ascended;XVI - Sons of Horus;850;HH
+5;Justaerin Terminator Squad;XVI - Sons of Horus;275;HH
+1;'Little' Horus Aximand;XVI - Sons of Horus;170;HH
+1;Garviel Loken;XVI - Sons of Horus;175;HH
+1;Tybalt Marr;XVI - Sons of Horus;160;HH
+5;Reaver Attack Squad;XVI - Sons of Horus;135;HH
+1;Maloghurst the Twisted;XVI - Sons of Horus;140;HH
+5;Reaver Aggressor Squad;XVI - Sons of Horus;165;HH
+1;Dark Emissary In Terminator Armour;XVI - Sons of Horus;120;HH
+5;Chieftain Squad;XVI - Sons of Horus;155;HH
+10;Inductii Squad;XVI - Sons of Horus;100;HH
+5;Firedrake Terminator Squad;XVIII - Salamanders;250;HH
+1;Vulkan;XVIII - Salamanders;465;HH
+5;Pyroclast Squad;XVIII - Salamanders;175;HH
+1;Cassian Dracos Reborn;XVIII - Salamanders;220;HH
+5;Adherents Squad;XVIII - Salamanders;85;HH
+5;Sanctifier Squad;XVIII - Salamanders;90;HH
+11;Inductii Squad;XVIII - Salamanders;124;HH
+5;Legatine Command Section;Solar Auxilia;125;HH
+5;Tactical Command Section;Solar Auxilia;100;HH
+5;Line Command Section;Solar Auxilia;65;HH
+5;Veletaris Command Section;Solar Auxilia;75;HH
+2;Hermes Command Section;Solar Auxilia;75;HH
+5;Artillery Command Section;Solar Auxilia;65;HH
+1;Armoured Command Section;Solar Auxilia;150;HH
+10;Veletaris Storm Section;Solar Auxilia;90;HH
+10;Veletaris Vanguard Section;Solar Auxilia;100;HH
+3;Charonite Ogryn Section;Solar Auxilia;120;HH
+10;Lasrifle Section;Solar Auxilia;50;HH
+1;Basilisk Artillery Tank;Solar Auxilia;120;HH
+1;Medusa Artillery Tank;Solar Auxilia;140;HH
+1;Rapier Section;Solar Auxilia;30;HH
+2;Hermes Veletaris Squadron;Solar Auxilia;40;HH
+1;Aethon Heavy Sentinel Squadron;Solar Auxilia;60;HH
+1;Arvus Lighter;Solar Auxilia;75;HH
+1;Dracosan Armoured Transport;Solar Auxilia;140;HH
+2;Hermes Light Sentinel Squadron;Solar Auxilia;32;HH
+1;Primaris-Lightning Strike Fighter;Solar Auxilia;160;HH
+1;Thunderbolt Heavy Fighter;Solar Auxilia;120;HH
+1;Malcador Infernus Special Weapon Tank;Solar Auxilia;205;HH
+1;Leman Russ Assault Tank;Solar Auxilia;140;HH
+1;Leman Russ Strike Tank;Solar Auxilia;140;HH
+1;Malcador Heavy Tank;Solar Auxilia;180;HH
+1;Valdor Tank Destroyer;Solar Auxilia;190;HH
+1;Stormhammer Super-Heavy Assault Tank;Solar Auxilia;500;HH
+1;Aurox Transport;Solar Auxilia;50;HH
+1;Avenger Strike Fighter;Solar Auxilia;100;HH
+1;Baneblade Super-heavy Battle Tank;Solar Auxilia;520;HH
+1;Banehammer Super-heavy Assault Tank;Solar Auxilia;450;HH
+1;Carnodon Strike Tank;Solar Auxilia;80;HH
+5;Companion Section;Solar Auxilia;80;HH
+1;Crassus Armoured Assault Transport;Solar Auxilia;350;HH
+1;Cyclops Demolition Vehicle;Solar Auxilia;50;HH
+1;Davinite Lodge Priest;Solar Auxilia;60;HH
+1;Destroyer Tank Hunter;Solar Auxilia;130;HH
+1;Expeditionary Navigator;Solar Auxilia;65;HH
+1;Hellhammer Super-heavy Battle Tank;Solar Auxilia;520;HH
+1;Macharius Heavy Tank;Solar Auxilia;300;HH
+1;Marauder Bomber;Solar Auxilia;225;HH
+1;Marauder Destroyer;Solar Auxilia;245;HH
+1;Medicae Section;Solar Auxilia;15;HH
+1;Minotaur Artillery Tank;Solar Auxilia;205;HH
+1;Praetor Armoured Assault Launcher;Solar Auxilia;300;HH
+1;Shadowsword Super-heavy Tank Destroyer;Solar Auxilia;475;HH
+1;Stormblade Super-heavy Tank;Solar Auxilia;500;HH
+1;Stormlord Super-heavy Assault Tank;Solar Auxilia;500;HH
+1;Stormsword Super-heavy Siege Tank;Solar Auxilia;475;HH
+3;Surgeon-Primus Aevos Jovan;Solar Auxilia;60;HH
+2;Tarantula Section;Solar Auxilia;35;HH
+1;Thunderer Siege Tank;Solar Auxilia;155;HH
+1;Dracosan Command Tank;Solar Auxilia;200;HH
+4;Auxilia Combat Technician Section;Solar Auxilia;35;HH
+10;Veletaris Raider Section;Solar Auxilia;85;HH
+10;Exalted Section;Solar Auxilia;90;HH
+1;Tech-Priest;Solar Auxilia;30;HH
+6;Thallax Cohort;Solar Auxilia;120;HH
+2;Castellax Battle Maniple;Solar Auxilia;100;HH
+2;Castellax Destructor Maniple;Solar Auxilia;100;HH
+1;Domitar Battle Maniple;Solar Auxilia;100;HH
+1;Thanatar Siege Maniple;Solar Auxilia;225;HH
+2;Vorax Attack Maniple;Solar Auxilia;90;HH
+1;Vultarax Stratos Squadron;Solar Auxilia;100;HH
+1;Discipline Master Cadre;Solar Auxilia;0;HH
+20;Infantry Troop;Solar Auxilia;90;HH
+21;Levy Troop;Solar Auxilia;85;HH
+1;Militia Medicae;Solar Auxilia;20;HH
+3;Fire Support Troop;Solar Auxilia;50;HH
+1;Herald of Tzeentch;Solar Auxilia;135;HH
+10;Horrors of Tzeentch;Solar Auxilia;140;HH
+3;Flamers of Tzeentch;Solar Auxilia;105;HH
+3;Screamers of Tzeentch;Solar Auxilia;130;HH
+1;Herald of Slaanesh;Solar Auxilia;135;HH
+10;Daemonettes;Solar Auxilia;140;HH
+5;Slaaneshi Seekers;Solar Auxilia;90;HH
+4;Slaaneshi Fiends;Solar Auxilia;220;HH
+1;Hibou Khan;Shattered Legions;165;HH
+1;Alexis Polux;Shattered Legions;185;HH
+1;Shadrak Meduson;Shattered Legions;175;HH
+1;Saul Tarvitz;Shattered Legions;215;HH
+1;Garviel Loken;Shattered Legions;175;HH
+10;Inductii Squad;Shattered Legions;90;HH
+5;Deathwing Companion Detachment;Shattered Legions;175;HH
+5;Dreadwing Interemptor Squad;Shattered Legions;125;HH
+5;Inner Circle Knights Cenobium;Shattered Legions;275;HH
+5;Tartaros Terminator Deathwing Companions;Shattered Legions;240;HH
+5;Inner Circle Knights Cenobium – Order of the Broken Claws;Shattered Legions;285;HH
+1;Excindio Battle-automata;Shattered Legions;180;HH
+3;Firewing Enigmatus Cabal;Shattered Legions;90;HH
+5;Phoenix Terminator Squad;Shattered Legions;200;HH
+5;Palatine Blade Squad;Shattered Legions;165;HH
+5;Kakophoni Squad;Shattered Legions;150;HH
+5;Palatine Blade Aquilae Squad;Shattered Legions;195;HH
+5;Sun Killer Squad;Shattered Legions;65;HH
+10;Inductii Squad;Shattered Legions;100;HH
+5;Tyrant Siege Terminator Squad;Shattered Legions;300;HH
+1;Iron Circle Maniple;Shattered Legions;150;HH
+5;Dominator Cohort;Shattered Legions;255;HH
+5;Iron Havocs;Shattered Legions;135;HH
+3;Golden Keshig;Shattered Legions;140;HH
+5;Ebon Keshig;Shattered Legions;200;HH
+1;Kyzagan Assault Speeder;Shattered Legions;105;HH
+5;Falcon's Claws;Shattered Legions;110;HH
+5;Dark Sons of Death;Shattered Legions;125;HH
+5;Varagyr Wolf Guard Terminators;Shattered Legions;250;HH
+5;Deathsworn Pack;Shattered Legions;175;HH
+10;Grey Slayer Pack;Shattered Legions;145;HH
+5;Jorlund Hunter Pack;Shattered Legions;95;HH
+1;Fenrisian Wolf Pack;Shattered Legions;10;HH
+5;Templar Brethren;Shattered Legions;160;HH
+10;Phalanx Warder-Squad;Shattered Legions;200;HH
+5;Huscarl Terminator Retinue;Shattered Legions;275;HH
+5;Contekar Terminator Squad;Shattered Legions;225;HH
+5;Terror Squad;Shattered Legions;115;HH
+5;Night Raptor Squad;Shattered Legions;150;HH
+5;Atramentar Flay-clade;Shattered Legions;170;HH
+5;Crimson Paladins;Shattered Legions;225;HH
+5;Dawnbreaker Cohort;Shattered Legions;150;HH
+5;The Angel's Tears;Shattered Legions;150;HH
+1;Contemptor-Incaendius Dreadnought;Shattered Legions;200;HH
+5;Sanguinary Guard;Shattered Legions;205;HH
+3;Ofanim Court;Shattered Legions;130;HH
+3;Ofanim Court With Jump Packs;Shattered Legions;160;HH
+5;Gorgon Terminator Squad;Shattered Legions;200;HH
+5;Medusan Immortals Squad;Shattered Legions;95;HH
+3;Morlock Terminator Squad;Shattered Legions;165;HH
+5;Red Butchers;Shattered Legions;250;HH
+5;Rampager Squad;Shattered Legions;135;HH
+5;Red Hand Destroyer Mortalis Squad;Shattered Legions;85;HH
+5;Red Hand Destroyer Assault Squad;Shattered Legions;110;HH
+5;Invictus Suzerain Squad;Shattered Legions;175;HH
+5;Praetorian Breacher Squad;Shattered Legions;115;HH
+5;Locutarus Storm Squad;Shattered Legions;200;HH
+5;Fulmentarus Terminator Squad;Shattered Legions;290;HH
+10;Nemesis Destroyer Squad;Shattered Legions;165;HH
+11;Inductii Squad;Shattered Legions;114;HH
+2;Deathshroud Terminator Squad;Shattered Legions;100;HH
+5;Grave Warden Terminator Squad;Shattered Legions;225;HH
+5;Mortus Poisoner Squad;Shattered Legions;70;HH
+5;Sekhmet Terminator Cabal;Shattered Legions;250;HH
+5;Khenetai Occult Cabal;Shattered Legions;145;HH
+1;Castellax-Achea Automata;Shattered Legions;80;HH
+1;Contemptor-Osiron Dreadnought;Shattered Legions;200;HH
+5;Numerologist Cabal;Shattered Legions;130;HH
+5;Ammitara Occult Intercession Cabal;Shattered Legions;145;HH
+5;Justaerin Terminator Squad;Shattered Legions;275;HH
+5;Reaver Attack Squad;Shattered Legions;135;HH
+5;Chieftain Squad;Shattered Legions;155;HH
+5;Reaver Aggressor Squad;Shattered Legions;165;HH
+5;Gal Vorbak;Shattered Legions;250;HH
+1;Mhara Gal Dreadnought;Shattered Legions;210;HH
+5;Ashen Circle;Shattered Legions;125;HH
+6;Procurators;Shattered Legions;120;HH
+6;Procurators with Jump Packs;Shattered Legions;150;HH
+5;Firedrake Terminator Squad;Shattered Legions;250;HH
+5;Pyroclast Squad;Shattered Legions;175;HH
+5;Adherents Squad;Shattered Legions;85;HH
+5;Sanctifier Squad;Shattered Legions;90;HH
+11;Inductii Squad;Shattered Legions;124;HH
+5;Mor Deythan Squad;Shattered Legions;175;HH
+5;Dark Fury Squad;Shattered Legions;175;HH
+5;Deliverers Squad;Shattered Legions;215;HH
+5;Headhunter Kill Team;Shattered Legions;125;HH
+5;Lernaean Terminator Squad;Shattered Legions;250;HH
+5;Effrit Disruption Cadre;Shattered Legions;145;HH
+1;Exodus;Shattered Legions;165;HH
+2;Castellax Battle Maniple;Shattered Legions;100;HH
+2;Castellax Destructor Maniple;Shattered Legions;100;HH
+1;Domitar Battle Maniple;Shattered Legions;100;HH
+1;Thanatar Siege Maniple;Shattered Legions;225;HH
+2;Vorax Attack Maniple;Shattered Legions;90;HH
+1;Vultarax Stratos Squadron;Shattered Legions;100;HH
+1;Lorgar Aurelian;XVII - Word Bearers;445;HH
+1;Kor Phaeron;XVII - Word Bearers;125;HH
+1;Erebus;XVII - Word Bearers;165;HH
+1;Argel Tal;XVII - Word Bearers;240;HH
+1;Zardu Layak;XVII - Word Bearers;180;HH
+5;Gal Vorbak;XVII - Word Bearers;250;HH
+1;Mhara Gal Dreadnought;XVII - Word Bearers;210;HH
+5;Ashen Circle;XVII - Word Bearers;125;HH
+1;Diabolist;XVII - Word Bearers;105;HH
+1;Diabolist In Terminator Armour;XVII - Word Bearers;135;HH
+1;Mounted Diabolist;XVII - Word Bearers;145;HH
+6;Procurators;XVII - Word Bearers;120;HH
+6;Procurators with Jump Packs;XVII - Word Bearers;150;HH
+10;Inductii Squad;XVII - Word Bearers;100;HH
+3;Phraetus Anointed Conclave;XVII - Word Bearers;240;HH
+1;Knight Questoris;Questoris Familia;400;HH
+1;Armiger Helverin;Questoris Familia;150;HH
+1;Armiger Warglaive;Questoris Familia;150;HH
+1;Armiger Moirax;Questoris Familia;165;HH
+1;Questoris Knight Magaera;Questoris Familia;460;HH
+1;Questoris Knight Styrix;Questoris Familia;455;HH
+1;Cerastus Knight Castigator;Questoris Familia;480;HH
+1;Cerastus Knight Acheron;Questoris Familia;500;HH
+1;Cerastus Knight Lancer;Questoris Familia;480;HH
+1;Cerastus Knight Atrapos;Questoris Familia;600;HH
+1;Acastus Knight Porphyrion;Questoris Familia;725;HH
+1;Acastus Knight Asterius;Questoris Familia;750;HH
+1;Domitar Battle Maniple;Questoris Familia;100;HH
+2;Castellax Battle Maniple;Questoris Familia;100;HH
+2;Vorax Attack Maniple;Questoris Familia;90;HH
+1;Vultarax Stratos Squadron;Questoris Familia;100;HH
+10;Veletaris Storm Section;Questoris Familia;90;HH
+10;Veletaris Vanguard Section;Questoris Familia;100;HH
+10;Lasrifle Section;Questoris Familia;50;HH
+2;Hermes Light Sentinel Squadron;Questoris Familia;32;HH
+2;Tarantula Section;Questoris Familia;35;HH
+1;Dracosan Armoured Transport;Questoris Familia;140;HH
+20;Infantry Troop;Questoris Familia;90;HH
+21;Levy Troop;Questoris Familia;85;HH
+10;Grenadier Troop;Questoris Familia;85;HH
+5;Cavalry Troop;Questoris Familia;60;HH
+5;Reconnaissance Troop;Questoris Familia;50;HH
+1;Militia Gorgon Transporter;Questoris Familia;275;HH
+2;Castellax Destructor Maniple;Questoris Familia;100;HH
+1;Thanatar Siege Maniple;Questoris Familia;225;HH
+1;Angron;XII - World Eaters;450;HH
+5;Rampager Squad;XII - World Eaters;135;HH
+5;Red Butchers;XII - World Eaters;250;HH
+1;Lotara Sarrin;XII - World Eaters;85;HH
+1;Angron Transfigured;XII - World Eaters;600;HH
+1;Kharn the Bloody;XII - World Eaters;175;HH
+5;Red Hand Destroyer Mortalis Squad;XII - World Eaters;85;HH
+5;Red Hand Destroyer Assault Squad;XII - World Eaters;110;HH
+10;Inductii Squad;XII - World Eaters;100;HH
+1;Perturabo;IV - Iron Warriors;425;HH
+1;Warsmith;IV - Iron Warriors;165;HH
+5;Tyrant Siege Terminator Squad;IV - Iron Warriors;300;HH
+1;Iron Circle Maniple;IV - Iron Warriors;150;HH
+1;Warsmith In Artificer Armour;IV - Iron Warriors;140;HH
+1;Nârik Dreygur;IV - Iron Warriors;115;HH
+5;Dominator Cohort;IV - Iron Warriors;255;HH
+5;Iron Havocs;IV - Iron Warriors;135;HH
+1;The Tormentor;IV - Iron Warriors;700;HH
+10;Inductii Squad;IV - Iron Warriors;90;HH
+1;Secutarii Axiarch;Legio Titanicus;95;HH
+10;Secutarii Cohort;Legio Titanicus;165;HH
+1;Warhound Titan;Legio Titanicus;750;HH
+1;Reaver Titan;Legio Titanicus;1500;HH
+1;Warbringer Nemesis Titan;Legio Titanicus;2000;HH
+1;Warlord Titan;Legio Titanicus;3000;HH
+1;Triaros Armoured Conveyor;Legio Titanicus;200;HH
+2;Castellax Battle Maniple;Legio Titanicus;100;HH
+2;Castellax Destructor Maniple;Legio Titanicus;100;HH
+1;Domitar Battle Maniple;Legio Titanicus;100;HH
+1;Thanatar Siege Maniple;Legio Titanicus;225;HH
+2;Vorax Attack Maniple;Legio Titanicus;90;HH
+1;Vultarax Stratos Squadron;Legio Titanicus;100;HH
+1;Konrad Curze;VIII - Night Lords;450;HH
+5;Contekar Terminator Squad;VIII - Night Lords;225;HH
+5;Night Raptor Squad;VIII - Night Lords;150;HH
+5;Terror Squad;VIII - Night Lords;115;HH
+1;Sevatar;VIII - Night Lords;220;HH
+5;Atramentar Flay-clade;VIII - Night Lords;170;HH
+10;Inductii Squad;VIII - Night Lords;100;HH
+1;Leman Russ;VI - Space Wolves;450;HH
+5;Deathsworn Pack;VI - Space Wolves;175;HH
+1;Geigor Fell-Hand;VI - Space Wolves;105;HH
+10;Grey Slayer Pack;VI - Space Wolves;145;HH
+1;Hvarl Red-Blade;VI - Space Wolves;210;HH
+5;Varagyr Wolf Guard Terminators;VI - Space Wolves;250;HH
+2;Wolf-kin of Russ;VI - Space Wolves;100;HH
+1;Caster of Runes;VI - Space Wolves;110;HH
+1;Caster Of Runes In Terminator Armour;VI - Space Wolves;130;HH
+1;Caster Of Runes With Jump Pack;VI - Space Wolves;140;HH
+5;Jorlund Hunter Pack;VI - Space Wolves;95;HH
+1;Mounted Caster Of Runes;VI - Space Wolves;150;HH
+1;Fenrisian Wolf Pack;VI - Space Wolves;10;HH
+1;Speaker Of The Dead;VI - Space Wolves;100;HH
+1;Speaker Of The Dead In Terminator Armour;VI - Space Wolves;120;HH
+1;Mounted Speaker Of The Dead;VI - Space Wolves;130;HH
+10;Inductii Squad;VI - Space Wolves;100;HH
+1;Hammerfall Bunker;Battlefield Fortifications;150;HH
+1;Vengeance Weapon Battery;Battlefield Fortifications;100;HH
+1;Void Shield Generator;Battlefield Fortifications;120;HH
+1;Skyshield Landing Pad;Battlefield Fortifications;100;HH
+1;Aegis Defense Line;Battlefield Fortifications;70;HH
+1;Firestorm Redoubt;Battlefield Fortifications;200;HH
+1;Fortress of Redemption;Battlefield Fortifications;300;HH
+1;Aquila Strongpoint;Battlefield Fortifications;100;HH
+1;Primus Redoubt;Battlefield Fortifications;400;HH
+1;Nathaniel Garro;Knights-Errant;160;HH
+1;Tylos Rubio;Knights-Errant;130;HH
+2;Castellax Battle Maniple;Knights-Errant;100;HH
+2;Castellax Destructor Maniple;Knights-Errant;100;HH
+1;Domitar Battle Maniple;Knights-Errant;100;HH
+1;Thanatar Siege Maniple;Knights-Errant;225;HH
+2;Vorax Attack Maniple;Knights-Errant;90;HH
+1;Vultarax Stratos Squadron;Knights-Errant;100;HH
+1;Corvus Corax;XIX - Raven Guard;440;HH
+1;Kaedes Nex;XIX - Raven Guard;165;HH
+5;Mor Deythan Squad;XIX - Raven Guard;175;HH
+5;Dark Fury Squad;XIX - Raven Guard;175;HH
+5;Deliverers Squad;XIX - Raven Guard;215;HH
+10;Inductii Squad;XIX - Raven Guard;90;HH
+1;Corswain;I - Dark Angels;220;HH
+5;Deathwing Companion Detachment;I - Dark Angels;175;HH
+5;Dreadwing Interemptor Squad;I - Dark Angels;125;HH
+5;Inner Circle Knights Cenobium;I - Dark Angels;275;HH
+1;Lion El'Johnson;I - Dark Angels;460;HH
+1;Marduk Sedras;I - Dark Angels;225;HH
+5;Cataphractii Terminator Deathwing Companions;I - Dark Angels;240;HH
+5;Tartaros Terminator Deathwing Companions;I - Dark Angels;240;HH
+5;Inner Circle Knights Cenobium – Order of the Broken Claws;I - Dark Angels;285;HH
+1;Excindio Battle-automata;I - Dark Angels;180;HH
+3;Firewing Enigmatus Cabal;I - Dark Angels;90;HH
+10;Inductii Squad;I - Dark Angels;90;HH
+1;Endryd Haar;Blackshields;165;HH
+2;Castellax Battle Maniple;Blackshields;100;HH
+2;Castellax Destructor Maniple;Blackshields;100;HH
+1;Domitar Battle Maniple;Blackshields;100;HH
+1;Thanatar Siege Maniple;Blackshields;225;HH
+2;Vorax Attack Maniple;Blackshields;90;HH
+1;Vultarax Stratos Squadron;Blackshields;100;HH
+1;Magnus the Red;XV - Thousand Sons;470;HH
+1;Ahzek Ahriman;XV - Thousand Sons;185;HH
+1;Magistus Amon;XV - Thousand Sons;185;HH
+1;Prosperine Sorcerer;XV - Thousand Sons;105;HH
+5;Sekhmet Terminator Cabal;XV - Thousand Sons;250;HH
+5;Khenetai Occult Cabal;XV - Thousand Sons;145;HH
+1;Contemptor-Osiron Dreadnought;XV - Thousand Sons;200;HH
+1;Castellax-Achea Automata;XV - Thousand Sons;80;HH
+5;Numerologist Cabal;XV - Thousand Sons;130;HH
+5;Ammitara Occult Intercession Cabal;XV - Thousand Sons;145;HH
+10;Inductii Squad;XV - Thousand Sons;90;HH
+1;Ruinstorm Daemon Sovereign;Daemons;350;HH
+1;Ruinstorm Daemon Hierarch;Daemons;250;HH
+1;Ruinstorm Daemon Harbinger;Daemons;135;HH
+3;Ruinstorm Daemon Brutes;Daemons;120;HH
+10;Ruinstorm Lesser Daemons;Daemons;100;HH
+3;Ruinstorm Daemon Swarms;Daemons;60;HH
+1;Ruinstorm Greater Daemon Beast;Daemons;150;HH
+3;Ruinstorm Daemon Beasts;Daemons;110;HH
+1;Ruinstorm Daemon Behemoth;Daemons;250;HH
+6;Ruinstorm Daemon Harriers;Daemons;150;HH
+6;Ruinstorm Daemon Riders;Daemons;150;HH
+1;Ka'bandha;Daemons;600;HH
+1;Cor'bax Utterblight;Daemons;350;HH
+1;Samus;Daemons;400;HH
+1;Ascendant Lord of Tzeentch;Daemons;300;HH
+1;Herald of Tzeentch;Daemons;135;HH
+1;Lord of Change;Daemons;400;HH
+3;Flamers of Tzeentch;Daemons;105;HH
+3;Screamers of Tzeentch;Daemons;130;HH
+10;Horrors of Tzeentch;Daemons;140;HH
+1;Ascendant Lord of Slaanesh;Daemons;300;HH
+1;Herald of Slaanesh;Daemons;135;HH
+5;Slaaneshi Seekers;Daemons;90;HH
+4;Slaaneshi Fiends;Daemons;220;HH
+10;Daemonettes;Daemons;140;HH
+1;Keeper of Secrets;Daemons;400;HH
+2;Blood Slaughterer;Daemons;100;HH
+1;Decimator;Daemons;125;HH
+2;Castellax Battle Maniple;Daemons;100;HH
+2;Castellax Destructor Maniple;Daemons;100;HH
+1;Domitar Battle Maniple;Daemons;100;HH
+1;Thanatar Siege Maniple;Daemons;225;HH
+2;Vorax Attack Maniple;Daemons;90;HH
+1;Vultarax Stratos Squadron;Daemons;100;HH
+1;Anacharis Scoria;Mechanicum;410;HH
+1;Archmagos;Mechanicum;120;HH
+1;Archmagos on Abeyant;Mechanicum;150;HH
+1;Magos;Mechanicum;100;HH
+4;Scyllax Guardian Maniple;Mechanicum;100;HH
+1;Arcuitor Magisterium;Mechanicum;115;HH
+4;Echidnax Servo Maniple;Mechanicum;40;HH
+1;Domitar Battle Maniple;Mechanicum;100;HH
+1;Magos on Abeyant;Mechanicum;130;HH
+3;Myrmidon Secutor Host;Mechanicum;150;HH
+3;Myrmidon Destructor Host;Mechanicum;150;HH
+10;Tech-Thrall Covenant;Mechanicum;100;HH
+2;Castellax Destructor Maniple;Mechanicum;100;HH
+7;Ursarax Cohort;Mechanicum;160;HH
+1;Tech-Priest;Mechanicum;30;HH
+6;Thallax Cohort;Mechanicum;120;HH
+1;Armiger Moirax;Mechanicum;165;HH
+1;Thanatar Siege Maniple;Mechanicum;225;HH
+1;Triaros Armoured Conveyor;Mechanicum;200;HH
+2;Castellax Battle Maniple;Mechanicum;100;HH
+2;Vorax Attack Maniple;Mechanicum;90;HH
+1;Vultarax Stratos Squadron;Mechanicum;100;HH
+2;Blood Slaughterer;Mechanicum;100;HH
+1;Karacnos Assault Tank;Mechanicum;235;HH
+1;Krios Battle Tank;Mechanicum;135;HH
+1;Decimator;Mechanicum;125;HH
+1;Krios Venator;Mechanicum;160;HH
+1;Brass Scorpion;Mechanicum;600;HH
+1;Archmagos Draykavac;Mechanicum;200;HH
+1;Kytan Daemon Engine;Mechanicum;450;HH
+10;Tech Thrall Defence Covenant;Mechanicum;100;HH
+1;Arlatax Battle Maniple;Mechanicum;120;HH
+1;Mechanicum Termite;Mechanicum;80;HH
+2;Mechanicum Tarantula Battery;Mechanicum;45;HH
+1;Mechanicum Macrocarid Explorator;Mechanicum;200;HH
+1;Mechanicum Ordinatus Ulator;Mechanicum;750;HH
+1;Mechanicum Ordinatus Sagittar;Mechanicum;800;HH
+1;Mechanicum Ordinatus Aktaeus;Mechanicum;900;HH
+2;Castellax Infernus Maniple;Mechanicum;110;HH

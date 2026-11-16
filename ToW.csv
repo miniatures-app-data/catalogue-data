@@ -1,0 +1,690 @@
+ qty;Unit;Factions;cost;System
+1;Glade Lord;Wood Elf;135;ToW
+1;Glade Captain;Wood Elf;70;ToW
+1;Spellweaver;Wood Elf;155;ToW
+1;Spellsinger;Wood Elf;80;ToW
+1;Shadowdancer;Wood Elf;85;ToW
+1;Waystalker;Wood Elf;85;ToW
+1;Treeman Ancient;Wood Elf;265;ToW
+1;Branchwraith;Wood Elf;80;ToW
+1;Orion;Wood Elf;405;ToW
+1;Araloth;Wood Elf;150;ToW
+1;Warden of Talsyn;Wood Elf;125;ToW
+1;Gargantuan Treeman Ancient;Wood Elf;325;ToW
+1;Glade Guard;Wood Elf;10;ToW
+1;Deepwood Scouts;Wood Elf;13;ToW
+1;Eternal Guard;Wood Elf;12;ToW
+1;Dryads;Wood Elf;13;ToW
+1;Glade Riders;Wood Elf;17;ToW
+1;Wild Riders;Wood Elf;26;ToW
+1;Tree Kin;Wood Elf;51;ToW
+1;Glade Guard;Wood Elf;10;ToW
+1;Deepwood Scouts;Wood Elf;13;ToW
+1;Wildwood Rangers;Wood Elf;14;ToW
+1;Wardancers;Wood Elf;16;ToW
+1;Sisters of the Thorn;Wood Elf;22;ToW
+1;Wild Riders;Wood Elf;26;ToW
+1;Warhawk Riders;Wood Elf;41;ToW
+1;Tree Kin;Wood Elf;51;ToW
+1;Guardians of Talsyn;Wood Elf;18;ToW
+1;Waywatchers;Wood Elf;16;ToW
+1;Great Eagle;Wood Elf;60;ToW
+1;Treeman;Wood Elf;215;ToW
+1;Wood Elf Beast Pack;Wood Elf;11;ToW
+1;Deepwood Hound;Wood Elf;8;ToW
+1;Forest Cat;Wood Elf;6;ToW
+1;Sylvan Boar;Wood Elf;11;ToW
+1;Bear of Loren;Wood Elf;20;ToW
+1;Gargantuan Treeman;Wood Elf;300;ToW
+1;Beastlord;Beast of Chaos;115;ToW
+1;Wargor;Beast of Chaos;55;ToW
+1;Great Bray-Shaman;Beast of Chaos;150;ToW
+1;Bray-Shaman;Beast of Chaos;65;ToW
+1;Doombull;Beast of Chaos;210;ToW
+1;Gorebull;Beast of Chaos;130;ToW
+1;Warhoof;Beast of Chaos;75;ToW
+1;Kralmaw;Beast of Chaos;245;ToW
+1;Ghorros;Beast of Chaos;155;ToW
+1;Chieftain of Ruin;Beast of Chaos;70;ToW
+1;Primal Warherd;Beast of Chaos;0;ToW
+1;Gors;Beast of Chaos;6;ToW
+1;Ungors;Beast of Chaos;6;ToW
+1;Bestigor Herd;Beast of Chaos;13;ToW
+1;Gor Herd;Beast of Chaos;7;ToW
+1;Ungor Herd;Beast of Chaos;5;ToW
+1;Chaos Warhounds;Beast of Chaos;6;ToW
+1;Primal Warhounds;Beast of Chaos;6;ToW
+1;Razorgor Herd;Beast of Chaos;52;ToW
+1;Centigor Herd;Beast of Chaos;17;ToW
+1;Tuskgor Chariot;Beast of Chaos;85;ToW
+1;Minotaur Herd;Beast of Chaos;44;ToW
+1;Bestigor Herd;Beast of Chaos;13;ToW
+1;Harpies;Beast of Chaos;11;ToW
+1;Minotaur Herd;Beast of Chaos;44;ToW
+1;Cockatrice;Beast of Chaos;155;ToW
+1;Centigor Herd;Beast of Chaos;17;ToW
+1;Dragon Ogres;Beast of Chaos;59;ToW
+1;Razorgor Chariot;Beast of Chaos;120;ToW
+1;Chaos Ogres;Beast of Chaos;31;ToW
+1;Jabberslythe;Beast of Chaos;185;ToW
+1;Cygor;Beast of Chaos;205;ToW
+1;Ghorgon;Beast of Chaos;245;ToW
+1;Herdstone;Beast of Chaos;100;ToW
+1;Preyton;Beast of Chaos;160;ToW
+1;Warped Gors;Beast of Chaos;16;ToW
+1;Tuskgor Chariot;Beast of Chaos;85;ToW
+1;Dragon Ogre Shaggoth;Beast of Chaos;225;ToW
+1;Jabberslythe;Beast of Chaos;185;ToW
+1;Cygor;Beast of Chaos;205;ToW
+1;Chaos Giant;Beast of Chaos;200;ToW
+1;Ghorgon;Beast of Chaos;245;ToW
+1;Chaos Trolls;Beast of Chaos;39;ToW
+1;Chaos Spawn;Beast of Chaos;50;ToW
+1;Gigantic Spawn of Chaos;Beast of Chaos;145;ToW
+1;Dark Elf Dreadlord;Dark Elves;130;ToW
+1;Dark Elf Master;Dark Elves;70;ToW
+1;Supreme Sorceress;Dark Elves;150;ToW
+1;Supreme Sorceress;Dark Elves;155;ToW
+1;Sorceress;Dark Elves;75;ToW
+1;Sorceress;Dark Elves;80;ToW
+1;High Beastmaster;Dark Elves;75;ToW
+1;Death Hag;Dark Elves;70;ToW
+1;Khainite Assassin;Dark Elves;80;ToW
+1;Dark Elf Warriors;Dark Elves;8;ToW
+1;Dark Elf Warriors {renegade};Dark Elves;8;ToW
+1;Repeater Crossbowmen;Dark Elves;11;ToW
+1;Repeater Crossbowmen {renegade};Dark Elves;10;ToW
+1;Black Ark Corsairs;Dark Elves;11;ToW
+1;Black Ark Corsairs;Dark Elves;11;ToW
+1;Dark Riders;Dark Elves;16;ToW
+1;Witch Elves;Dark Elves;11;ToW
+1;Witch Elves {renegade};Dark Elves;11;ToW
+1;Har Ganeth Executioners;Dark Elves;15;ToW
+1;Har Ganeth Executioners {renegade};Dark Elves;14;ToW
+1;Witch Elves;Dark Elves;11;ToW
+1;Witch Elves {renegade};Dark Elves;11;ToW
+1;Dark Elf Shades {renegade};Dark Elves;15;ToW
+1;Harpies;Dark Elves;11;ToW
+1;Black Guard of Naggarond;Dark Elves;15;ToW
+1;Black Guard of Naggarond {renegade};Dark Elves;15;ToW
+1;Cold One Knights {renegade};Dark Elves;31;ToW
+1;Scourgerunner Chariots;Dark Elves;85;ToW
+1;Cold One Chariot;Dark Elves;125;ToW
+1;Cold One Chariot {renegade};Dark Elves;110;ToW
+1;War Hydra;Dark Elves;200;ToW
+1;War Hydra {renegade};Dark Elves;165;ToW
+1;Kharibdyss;Dark Elves;195;ToW
+1;Kharibdyss {renegade};Dark Elves;145;ToW
+1;Sisters of Slaughter;Dark Elves;17;ToW
+1;Sisters of Slaughter {renegade};Dark Elves;14;ToW
+1;Bloodwrack Shrines;Dark Elves;175;ToW
+1;Bloodwrack Shrines {renegade};Dark Elves;140;ToW
+1;War Hydra;Dark Elves;200;ToW
+1;War Hydra {renegade};Dark Elves;165;ToW
+1;Kharibdyss;Dark Elves;195;ToW
+1;Kharibdyss {renegade};Dark Elves;145;ToW
+1;Bloodwrack Medusas;Dark Elves;85;ToW
+1;Bloodwrack Medusas {renegade};Dark Elves;70;ToW
+1;Doomfire Warlocks;Dark Elves;22;ToW
+1;Reaper Bolt Thrower;Dark Elves;80;ToW
+1;Merwyrm;Dark Elves;200;ToW
+1;Daemon Prince {daemons of chaos};Daemons of Chaos;210;ToW
+1;Bloodthirster;Daemons of Chaos;355;ToW
+1;Daemonic Herald of Khorne;Daemons of Chaos;80;ToW
+1;Great Unclean One;Daemons of Chaos;330;ToW
+1;Great Unclean One;Daemons of Chaos;360;ToW
+1;Daemonic Herald of Nurgle;Daemons of Chaos;95;ToW
+1;Keeper of Secrets;Daemons of Chaos;330;ToW
+1;Daemonic Herald of Slaanesh;Daemons of Chaos;85;ToW
+1;Lord of Change;Daemons of Chaos;310;ToW
+1;Lord of Change;Daemons of Chaos;340;ToW
+1;Daemonic Herald of Tzeentch;Daemons of Chaos;90;ToW
+1;Daemonettes of Slaanesh;Daemons of Chaos;11;ToW
+1;Daemonettes of Slaanesh;Daemons of Chaos;11;ToW
+1;Seekers of Slaanesh;Daemons of Chaos;21;ToW
+1;Seekers of Slaanesh;Daemons of Chaos;19;ToW
+1;Plaguebearers of Nurgle;Daemons of Chaos;13;ToW
+1;Plaguebearers of Nurgle;Daemons of Chaos;12;ToW
+1;Nurglings;Daemons of Chaos;45;ToW
+1;Bloodletters of Khorne;Daemons of Chaos;14;ToW
+1;Bloodletters of Khorne;Daemons of Chaos;13;ToW
+1;Flesh Hounds of Khorne;Daemons of Chaos;32;ToW
+1;Flesh Hounds of Khorne;Daemons of Chaos;30;ToW
+1;Pink Horrors of Tzeentch;Daemons of Chaos;12;ToW
+1;Blue Horrors of Tzeentch;Daemons of Chaos;9;ToW
+1;Brimstone Horrors of Tzeentch;Daemons of Chaos;38;ToW
+1;Chaos Furies;Daemons of Chaos;12;ToW
+1;Chaos Furies of Slaanesh;Daemons of Chaos;14;ToW
+1;Chaos Furies of Nurgle;Daemons of Chaos;14;ToW
+1;Chaos Furies of Khorne;Daemons of Chaos;14;ToW
+1;Chaos Furies of Tzeentch;Daemons of Chaos;14;ToW
+1;Chaos Furies;Daemons of Chaos;11;ToW
+1;Chaos Furies of Slaanesh;Daemons of Chaos;13;ToW
+1;Chaos Furies of Nurgle;Daemons of Chaos;12;ToW
+1;Chaos Furies of Khorne;Daemons of Chaos;13;ToW
+1;Chaos Furies of Tzeentch;Daemons of Chaos;12;ToW
+1;Daemonettes of Slaanesh;Daemons of Chaos;11;ToW
+1;Seekers of Slaanesh;Daemons of Chaos;21;ToW
+1;Seekers of Slaanesh;Daemons of Chaos;19;ToW
+1;Fiends of Slaanesh;Daemons of Chaos;66;ToW
+1;Fiends of Slaanesh;Daemons of Chaos;46;ToW
+1;Seeker Chariot of Slaanesh;Daemons of Chaos;100;ToW
+1;Seeker Chariot of Slaanesh;Daemons of Chaos;85;ToW
+1;Hellflayer of Slaanesh;Daemons of Chaos;145;ToW
+1;Hellflayer of Slaanesh;Daemons of Chaos;125;ToW
+1;Plaguebearers of Nurgle;Daemons of Chaos;13;ToW
+1;Nurglings;Daemons of Chaos;45;ToW
+1;Beasts of Nurgle;Daemons of Chaos;62;ToW
+1;Beasts of Nurgle;Daemons of Chaos;62;ToW
+1;Plague Drones of Nurgle;Daemons of Chaos;63;ToW
+1;Bloodletters of Khorne;Daemons of Chaos;14;ToW
+1;Flesh Hounds of Khorne;Daemons of Chaos;32;ToW
+1;Flesh Hounds of Khorne;Daemons of Chaos;30;ToW
+1;Bloodcrushers of Khorne;Daemons of Chaos;65;ToW
+1;Soul Grinder of Khorne;Daemons of Chaos;240;ToW
+1;Pink Horrors of Tzeentch;Daemons of Chaos;12;ToW
+1;Blue Horrors of Tzeentch;Daemons of Chaos;9;ToW
+1;Brimstone Horrors of Tzeentch;Daemons of Chaos;38;ToW
+1;Screamers of Tzeentch;Daemons of Chaos;44;ToW
+1;Screamers of Tzeentch;Daemons of Chaos;44;ToW
+1;Flamers of Tzeentch;Daemons of Chaos;40;ToW
+1;Flamers of Tzeentch;Daemons of Chaos;40;ToW
+1;Burning Chariot of Tzeentch;Daemons of Chaos;140;ToW
+1;Bloodcrushers of Khorne;Daemons of Chaos;65;ToW
+1;Beasts of Nurgle;Daemons of Chaos;62;ToW
+1;Plague Drones of Nurgle;Daemons of Chaos;63;ToW
+1;Fiends of Slaanesh;Daemons of Chaos;66;ToW
+1;Hellflayer of Slaanesh;Daemons of Chaos;145;ToW
+1;Hellflayer of Slaanesh;Daemons of Chaos;125;ToW
+1;Seeker Chariot of Slaanesh;Daemons of Chaos;100;ToW
+1;Flamers of Tzeentch;Daemons of Chaos;40;ToW
+1;Screamers of Tzeentch;Daemons of Chaos;44;ToW
+1;Burning Chariot of Tzeentch;Daemons of Chaos;190;ToW
+1;Burning Chariot of Tzeentch;Daemons of Chaos;140;ToW
+1;Soul Grinder;Daemons of Chaos;255;ToW
+1;Soul Grinder;Daemons of Chaos;240;ToW
+1;Skull Cannon of Khorne;Daemons of Chaos;185;ToW
+1;King;Dwarfen Mountain;125;ToW
+1;Thane;Dwarfen Mountain;60;ToW
+1;Anvil of Doom;Dwarfen Mountain;235;ToW
+1;Runelord;Dwarfen Mountain;120;ToW
+1;Runesmith;Dwarfen Mountain;65;ToW
+1;Daemon Slayer;Dwarfen Mountain;130;ToW
+1;Dragon Slayer;Dwarfen Mountain;70;ToW
+1;Engineer;Dwarfen Mountain;50;ToW
+1;Engineer Sapper;Dwarfen Mountain;70;ToW
+1;Thorgrim Ulleksson;Dwarfen Mountain;250;ToW
+1;Ungrim Ironfist;Dwarfen Mountain;315;ToW
+1;Burlok Damminson;Dwarfen Mountain;85;ToW
+1;Dwarf Warriors;Dwarfen Mountain;8;ToW
+1;Royal Clan Warriors;Dwarfen Mountain;10;ToW
+1;Longbeards;Dwarfen Mountain;12;ToW
+1;Quarrellers;Dwarfen Mountain;9;ToW
+1;Thunderers;Dwarfen Mountain;10;ToW
+1;Rangers;Dwarfen Mountain;11;ToW
+1;Scout Gyrocopters;Dwarfen Mountain;60;ToW
+1;Dwarf Cart;Dwarfen Mountain;65;ToW
+1;Dwarf Cart;Dwarfen Mountain;65;ToW
+1;Longbeards;Dwarfen Mountain;12;ToW
+1;Hammerers;Dwarfen Mountain;16;ToW
+1;Ironbreakers;Dwarfen Mountain;15;ToW
+1;Miners;Dwarfen Mountain;12;ToW
+1;Slayers;Dwarfen Mountain;12;ToW
+1;Brotherhood of Grimnir;Dwarfen Mountain;18;ToW
+1;Doomseeker;Dwarfen Mountain;50;ToW
+1;Gyrocopters;Dwarfen Mountain;60;ToW
+1;Scout Gyrocopters;Dwarfen Mountain;60;ToW
+1;Bolt Thrower {dwarfs};Dwarfen Mountain;55;ToW
+1;Grudge Thrower;Dwarfen Mountain;95;ToW
+1;Cannon {dwarfs};Dwarfen Mountain;95;ToW
+1;Rangers;Dwarfen Mountain;11;ToW
+1;Irondrakes;Dwarfen Mountain;15;ToW
+1;Gyrobomber;Dwarfen Mountain;95;ToW
+1;Organ Gun;Dwarfen Mountain;115;ToW
+1;Flame Cannon;Dwarfen Mountain;120;ToW
+1;Goblin-Hewer;Dwarfen Mountain;120;ToW
+1;General of the Empire;Empire of Man;90;ToW
+1;Captain of the Empire;Empire of Man;45;ToW
+1;Wizard Lord;Empire of Man;130;ToW
+1;Master Mage;Empire of Man;60;ToW
+1;Grand Master;Empire of Man;145;ToW
+1;Chapter Master;Empire of Man;75;ToW
+1;Witch Hunter;Empire of Man;55;ToW
+1;Lector of Sigmar;Empire of Man;110;ToW
+1;Priest of Sigmar;Empire of Man;60;ToW
+1;High Priest of Ulric;Empire of Man;110;ToW
+1;Priest of Ulric;Empire of Man;60;ToW
+1;Empire Engineer;Empire of Man;45;ToW
+1;Harbinger of Doom;Empire of Man;65;ToW
+1;General Hans von Löwenhacke;Empire of Man;190;ToW
+1;Harald Gemunsen;Empire of Man;185;ToW
+1;Inner Circle Knights Panther;Empire of Man;4;ToW
+1;Inner Circle Knights of the White Wolf;Empire of Man;4;ToW
+1;Inner Circle Knights of the Blazing Sun;Empire of Man;4;ToW
+1;Inner Circle Knights of Morr;Empire of Man;4;ToW
+1;Inner Circle Knights of the Fiery Heart;Empire of Man;4;ToW
+1;State Troops;Empire of Man;10;ToW
+1;Nuln State Troops;Empire of Man;10;ToW
+1;State Troops;Empire of Man;10;ToW
+1;Veteran State Troops;Empire of Man;10;ToW
+1;Nuln Veteran State Troops;Empire of Man;10;ToW
+1;State Missile Troops;Empire of Man;10;ToW
+1;State Missile Troops;Empire of Man;10;ToW
+1;Free Company Militia;Empire of Man;10;ToW
+1;Empire Archers;Empire of Man;5;ToW
+1;Outriders;Empire of Man;4;ToW
+1;Empire Knights;Empire of Man;4;ToW
+1;Empire Knights Panther;Empire of Man;4;ToW
+1;Empire Knights of the White Wolf;Empire of Man;4;ToW
+1;Empire Knights of the Blazing Sun;Empire of Man;4;ToW
+1;Empire Knights of Morr;Empire of Man;4;ToW
+1;Empire Knights of the Fiery Heart;Empire of Man;4;ToW
+1;Empire Greatswords;Empire of Man;11;ToW
+1;Teutogen Guard;Empire of Man;13;ToW
+1;Pistoliers;Empire of Man;15;ToW
+1;Outriders;Empire of Man;19;ToW
+1;Great Cannon {empire};Empire of Man;125;ToW
+1;Mortar {empire};Empire of Man;95;ToW
+1;Empire War Wagon;Empire of Man;140;ToW
+1;Inner Circle Knights;Empire of Man;28;ToW
+1;Inner Circle Knights Panther;Empire of Man;30;ToW
+1;Inner Circle Knights of the White Wolf;Empire of Man;31;ToW
+1;Inner Circle Knights of the Blazing Sun;Empire of Man;30;ToW
+1;Inner Circle Knights of Morr;Empire of Man;31;ToW
+1;Inner Circle Knights of the Fiery Heart;Empire of Man;31;ToW
+1;Demigryph Knights;Empire of Man;58;ToW
+1;Demigryph Knights Panther;Empire of Man;60;ToW
+1;Demigryph Knights of the White Wolf;Empire of Man;61;ToW
+1;Demigryph Knights of the Blazing Sun;Empire of Man;60;ToW
+1;Demigryph Knights of Morr;Empire of Man;61;ToW
+1;Demigryph Knights of the Fiery Heart;Empire of Man;61;ToW
+1;Empire Road Wardens;Empire of Man;18;ToW
+1;Steam Tank;Empire of Man;265;ToW
+1;Flagellants;Empire of Man;13;ToW
+1;Helblaster Volley Gun;Empire of Man;120;ToW
+1;Helstorm Rocket Battery;Empire of Man;125;ToW
+1;Miao Ying;Grand Cathay;485;ToW
+1;Shugengan Lord;Grand Cathay;220;ToW
+1;Shugengan General;Grand Cathay;145;ToW
+1;Lord Magistrate;Grand Cathay;65;ToW
+1;Supreme Astromancer;Grand Cathay;125;ToW
+1;Strategist;Grand Cathay;40;ToW
+1;Gate Master;Grand Cathay;80;ToW
+1;Gate Keeper;Grand Cathay;45;ToW
+1;Astromancer;Grand Cathay;65;ToW
+1;Peasant Levy;Grand Cathay;4;ToW
+1;Jade Warriors;Grand Cathay;8;ToW
+1;Jade Lancers;Grand Cathay;20;ToW
+1;Jade Warriors;Grand Cathay;8;ToW
+1;Jade Lancers;Grand Cathay;20;ToW
+1;Cathayan Grand Cannon;Grand Cathay;130;ToW
+1;Fire Rain Rocket Battery;Grand Cathay;130;ToW
+1;Cathayan Sentinel;Grand Cathay;230;ToW
+1;Sky Lantern;Grand Cathay;135;ToW
+1;Crane Gunner Teams;Grand Cathay;16;ToW
+1;Iron Hail Gunners;Grand Cathay;12;ToW
+1;Sky Lantern;Grand Cathay;135;ToW
+1;Cathayan Sentinel;Grand Cathay;230;ToW
+1;Prince;High Elf;130;ToW
+1;Noble;High Elf;70;ToW
+1;Archmage;High Elf;155;ToW
+1;Mage;High Elf;80;ToW
+1;Dragon Mage;High Elf;275;ToW
+1;Handmaiden of the Everqueen;High Elf;65;ToW
+1;Chracian Chieftain;High Elf;105;ToW
+1;Sea Guard Garrison Commander;High Elf;90;ToW
+1;Storm Weaver;High Elf;85;ToW
+1;Korhil Lionmane;High Elf;175;ToW
+1;Ishaya Vess;High Elf;170;ToW
+1;Elven Spearmen;High Elf;8;ToW
+1;Elven Archers;High Elf;9;ToW
+1;Lothern Sea Guard;High Elf;10;ToW
+1;Ellyrian Reavers;High Elf;16;ToW
+1;Silver Helms;High Elf;23;ToW
+1;Sisters of Avelorn;High Elf;15;ToW
+1;Chracian Woodsmen;High Elf;12;ToW
+1;White Lions of Chrace;High Elf;14;ToW
+1;Ship's Company;High Elf;9;ToW
+1;Dragon Princes;High Elf;37;ToW
+1;Swordmasters of Hoeth;High Elf;14;ToW
+1;Phoenix Guard;High Elf;16;ToW
+1;White Lions of Chrace;High Elf;14;ToW
+1;Shadow Warriors;High Elf;14;ToW
+1;Tiranoc Chariots;High Elf;75;ToW
+1;Lion Chariot of Chrace;High Elf;125;ToW
+1;Lothern Skycutter;High Elf;90;ToW
+1;War Lions;High Elf;18;ToW
+1;Sisters of Avelorn;High Elf;15;ToW
+1;Lion Chariot of Chrace;High Elf;125;ToW
+1;Flamespyre Phoenix;High Elf;170;ToW
+1;Frostheart Phoenix;High Elf;205;ToW
+1;Great Eagle;High Elf;60;ToW
+1;Eagle-Claw Bolt Thrower;High Elf;70;ToW
+1;Lothern Skycutter;High Elf;90;ToW
+1;Lion Guard;High Elf;17;ToW
+1;Merwyrm;High Elf;200;ToW
+1;Duke;Kingdom of Bretonnia;175;ToW
+1;Baron;Kingdom of Bretonnia;100;ToW
+1;Prophetess;Kingdom of Bretonnia;135;ToW
+1;Paladin;Kingdom of Bretonnia;60;ToW
+1;Damsel;Kingdom of Bretonnia;60;ToW
+1;Sergeant-at-Arms;Kingdom of Bretonnia;45;ToW
+1;Outcast Wizard;Kingdom of Bretonnia;45;ToW
+1;The Green Knight;Kingdom of Bretonnia;275;ToW
+1;Sir Cecil Gastonne;Kingdom of Bretonnia;165;ToW
+1;Lady Élisse Duchaard;Kingdom of Bretonnia;225;ToW
+1;Men-at-Arms;Kingdom of Bretonnia;4;ToW
+1;Peasant Bowmen;Kingdom of Bretonnia;5;ToW
+1;Knights of the Realm on Foot;Kingdom of Bretonnia;11;ToW
+1;Mounted Knights of the Realm;Kingdom of Bretonnia;24;ToW
+1;Knights Errant;Kingdom of Bretonnia;19;ToW
+1;Yeomen Guard;Kingdom of Bretonnia;5;ToW
+1;Battle Pilgrims;Kingdom of Bretonnia;6;ToW
+1;Questing Knights;Kingdom of Bretonnia;26;ToW
+1;Pegasus Knights;Kingdom of Bretonnia;59;ToW
+1;Mounted Yeomen;Kingdom of Bretonnia;13;ToW
+1;Squires;Kingdom of Bretonnia;7;ToW
+1;Battle Pilgrims;Kingdom of Bretonnia;6;ToW
+1;Grail Knights;Kingdom of Bretonnia;38;ToW
+1;Field Trebuchet;Kingdom of Bretonnia;100;ToW
+1;Border Princes Brigands;Kingdom of Bretonnia;4;ToW
+1;Border Princes Bombard;Kingdom of Bretonnia;100;ToW
+1;Slann Mage-Priest {renegade};Lizardmen;285;ToW
+1;Saurus Oldblood;Lizardmen;140;ToW
+1;Saurus Scar-Veteran;Lizardmen;90;ToW
+1;Skink Priest;Lizardmen;60;ToW
+1;Skink Chief;Lizardmen;45;ToW
+1;Saurus Warriors;Lizardmen;10;ToW
+1;Saurus Warriors;Lizardmen;10;ToW
+1;Temple Guard {renegade};Lizardmen;10;ToW
+1;Temple Guard;Lizardmen;10;ToW
+1;Temple Guard {renegade};Lizardmen;10;ToW
+1;Skink Skirmishers;Lizardmen;10;ToW
+1;Skink Skirmishers;Lizardmen;10;ToW
+1;Jungle Swarms;Lizardmen;3;ToW
+1;Skink Cohort;Lizardmen;10;ToW
+1;Kroxigors;Lizardmen;;ToW
+1;Chameleon Skinks;Lizardmen;11;ToW
+1;Kroxigors;Lizardmen;49;ToW
+1;Terradon Riders;Lizardmen;32;ToW
+1;Ripperdactyl Riders;Lizardmen;40;ToW
+1;Cold One Riders;Lizardmen;34;ToW
+1;Cold One Riders;Lizardmen;34;ToW
+1;Bastiladon;Lizardmen;160;ToW
+1;Bastiladon;Lizardmen;140;ToW
+1;Stegadon;Lizardmen;215;ToW
+1;Stegadon;Lizardmen;195;ToW
+1;Salamander Pack;Lizardmen;75;ToW
+1;Salamander Pack;Lizardmen;65;ToW
+1;Razordon Pack;Lizardmen;60;ToW
+1;Razordon Pack;Lizardmen;60;ToW
+1;Troglodon;Lizardmen;200;ToW
+1;Troglodon;Lizardmen;140;ToW
+1;Ancient Stegadon;Lizardmen;230;ToW
+1;Ancient Stegadon;Lizardmen;210;ToW
+1;Tyrant;Ogre Kingdoms;185;ToW
+1;Bruiser;Ogre Kingdoms;110;ToW
+1;Slaughtermaster;Ogre Kingdoms;230;ToW
+1;Slaughtermaster;Ogre Kingdoms;180;ToW
+1;Butcher;Ogre Kingdoms;105;ToW
+1;Butcher;Ogre Kingdoms;95;ToW
+1;Hunter;Ogre Kingdoms;115;ToW
+1;Firebelly;Ogre Kingdoms;110;ToW
+1;Ogre Bulls;Ogre Kingdoms;31;ToW
+1;Ironguts;Ogre Kingdoms;39;ToW
+1;Gnoblar Fighters;Ogre Kingdoms;2;ToW
+1;Gnoblar Trappers;Ogre Kingdoms;5;ToW
+1;Sabretusk Pack;Ogre Kingdoms;17;ToW
+1;Leadbelchers {renegade};Ogre Kingdoms;41;ToW
+1;Leadbelchers {renegade};Ogre Kingdoms;39;ToW
+1;Maneaters;Ogre Kingdoms;54;ToW
+1;Mournfang Cavalry;Ogre Kingdoms;64;ToW
+1;Yhetees;Ogre Kingdoms;46;ToW
+1;Yhetees;Ogre Kingdoms;43;ToW
+1;Ironblaster;Ogre Kingdoms;185;ToW
+1;Gnoblar Scraplauncher;Ogre Kingdoms;140;ToW
+1;Stonehorn Riders;Ogre Kingdoms;245;ToW
+1;Stonehorn Riders;Ogre Kingdoms;220;ToW
+1;Thundertusk Riders;Ogre Kingdoms;215;ToW
+1;Thundertusk Riders;Ogre Kingdoms;215;ToW
+1;Giant;Ogre Kingdoms;200;ToW
+1;Gorger;Ogre Kingdoms;90;ToW
+1;Black Orc Warboss;Orc and Goblin Tribes;135;ToW
+1;Black Orc Bigboss;Orc and Goblin Tribes;75;ToW
+1;Orc Warboss;Orc and Goblin Tribes;110;ToW
+1;Orc Bigboss;Orc and Goblin Tribes;55;ToW
+1;Orc Weirdnob;Orc and Goblin Tribes;140;ToW
+1;Orc Weirdboy;Orc and Goblin Tribes;65;ToW
+1;Goblin Warboss;Orc and Goblin Tribes;60;ToW
+1;Goblin Bigboss;Orc and Goblin Tribes;35;ToW
+1;Goblin Oddnob;Orc and Goblin Tribes;135;ToW
+1;Goblin Oddgit;Orc and Goblin Tribes;60;ToW
+1;Night Goblin Warboss;Orc and Goblin Tribes;55;ToW
+1;Night Goblin Bigboss;Orc and Goblin Tribes;30;ToW
+1;Night Goblin Oddnob;Orc and Goblin Tribes;130;ToW
+1;Night Goblin Oddgit;Orc and Goblin Tribes;55;ToW
+1;Kiknik Toofsnatcha;Orc and Goblin Tribes;105;ToW
+1;Ogdruz Swampdigga;Orc and Goblin Tribes;195;ToW
+1;Troll Hag;Orc and Goblin Tribes;235;ToW
+1;Common Troll Mob;Orc and Goblin Tribes;39;ToW
+1;River Troll Mob;Orc and Goblin Tribes;47;ToW
+1;Stone Troll Mob;Orc and Goblin Tribes;43;ToW
+1;Orc Mob;Orc and Goblin Tribes;5;ToW
+1;Black Orc Mob;Orc and Goblin Tribes;12;ToW
+1;Goblin Mob;Orc and Goblin Tribes;3;ToW
+1;Snotling Mob;Orc and Goblin Tribes;35;ToW
+1;Night Goblin Mob;Orc and Goblin Tribes;3;ToW
+1;Fanatics;Orc and Goblin Tribes;25;ToW
+1;Goblin Spider Rider Mob;Orc and Goblin Tribes;12;ToW
+1;Goblin Wolf Rider Mob;Orc and Goblin Tribes;10;ToW
+1;Orc Boar Boy Mob;Orc and Goblin Tribes;15;ToW
+1;Night Goblin Squig Herd;Orc and Goblin Tribes;10;ToW
+1;Black Orc Boar Chariot;Orc and Goblin Tribes;130;ToW
+1;Black Orc Mob;Orc and Goblin Tribes;12;ToW
+1;Orc Boar Boy Mob;Orc and Goblin Tribes;15;ToW
+1;Night Goblin Squig Hopper Mob;Orc and Goblin Tribes;12;ToW
+1;Orc Boar Chariot;Orc and Goblin Tribes;90;ToW
+1;Common Troll Mob;Orc and Goblin Tribes;39;ToW
+1;River Troll Mob;Orc and Goblin Tribes;47;ToW
+1;Stone Troll Mob;Orc and Goblin Tribes;43;ToW
+1;Goblin Wolf Chariots;Orc and Goblin Tribes;53;ToW
+1;Snotling Pump Wagons;Orc and Goblin Tribes;35;ToW
+1;Goblin Bolt Throwa;Orc and Goblin Tribes;45;ToW
+1;Giant;Orc and Goblin Tribes;200;ToW
+1;Doom Diver Catapult;Orc and Goblin Tribes;95;ToW
+1;Goblin Rock Lobber;Orc and Goblin Tribes;75;ToW
+1;Arachnarok Spider;Orc and Goblin Tribes;310;ToW
+1;Mangler Squigs;Orc and Goblin Tribes;95;ToW
+1;Black Orc Boar Chariot;Orc and Goblin Tribes;130;ToW
+1;Skaven Warlord;Skaven;90;ToW
+1;Skaven Chieftain;Skaven;45;ToW
+1;Grey Seer;Skaven;185;ToW
+1;Grey Seer;Skaven;155;ToW
+1;Warlock Engineer;Skaven;35;ToW
+1;Warlock Engineer {renegade};Skaven;35;ToW
+1;Master Assassin;Skaven;90;ToW
+1;Master Assassin {renegade};Skaven;120;ToW
+1;Plague Priest;Skaven;60;ToW
+1;Stormvermin;Skaven;10;ToW
+1;Stormvermin {renegade};Skaven;9;ToW
+1;Skaven Dregs;Skaven;2;ToW
+1;Clanrats {renegade};Skaven;4;ToW
+1;Weapon Team {renegade};Skaven;15;ToW
+1;Weapon Team {renegade};Skaven;15;ToW
+1;Rat Swarms;Skaven;36;ToW
+1;Giant Rats;Skaven;3;ToW
+1;Giant Rats {renegade};Skaven;3;ToW
+1;Night Runners;Skaven;7;ToW
+1;Night Runners {renegade};Skaven;7;ToW
+1;Plague Monks {renegade};Skaven;7;ToW
+1;Stormvermin {renegade};Skaven;9;ToW
+1;Gutter Runners;Skaven;14;ToW
+1;Gutter Runners {renegade};Skaven;14;ToW
+1;Rat Ogres;Skaven;48;ToW
+1;Rat Ogres {renegade};Skaven;40;ToW
+1;Plague Monks;Skaven;7;ToW
+1;Plague Monks {renegade};Skaven;7;ToW
+1;Warplock Jezzails;Skaven;19;ToW
+1;Warplock Jezzails {renegade};Skaven;15;ToW
+1;Poisoned Wind Globadiers {renegade};Skaven;10;ToW
+1;Hell Pit Abomination {renegade};Skaven;210;ToW
+1;Hell Pit Abomination {renegade};Skaven;210;ToW
+1;Doomwheel;Skaven;145;ToW
+1;Doomwheel {renegade};Skaven;145;ToW
+1;Warp Lightning Cannon {renegade};Skaven;110;ToW
+1;Plagueclaw Catapult;Skaven;110;ToW
+1;Plague Censer Bearers;Skaven;13;ToW
+1;Plague Censer Bearers {renegade};Skaven;16;ToW
+1;Plague Censer Bearers {renegade};Skaven;16;ToW
+1;Tomb King;Tomb Kings;160;ToW
+1;Tomb Prince;Tomb Kings;90;ToW
+1;Royal Herald;Tomb Kings;60;ToW
+1;High Priest;Tomb Kings;140;ToW
+1;Mortuary Priest;Tomb Kings;55;ToW
+1;Arch Necrotect;Tomb Kings;90;ToW
+1;Necrotect;Tomb Kings;55;ToW
+1;Settra the Imperishable;Tomb Kings;445;ToW
+1;Prince Apophas;Tomb Kings;130;ToW
+1;Nekaph;Tomb Kings;120;ToW
+1;Skeleton Warriors {tomb kings};Tomb Kings;4;ToW
+1;Skeleton Archers;Tomb Kings;5;ToW
+1;Tomb Guard;Tomb Kings;10;ToW
+1;Sepulchral Stalkers;Tomb Kings;49;ToW
+1;Skeleton Skirmishers;Tomb Kings;4;ToW
+1;Skeleton Chariots;Tomb Kings;41;ToW
+1;Tomb Swarms;Tomb Kings;37;ToW
+1;Skeleton Horsemen;Tomb Kings;11;ToW
+1;Skeleton Horse Archers;Tomb Kings;11;ToW
+1;Skeleton Infantry Cohort;Tomb Kings;0;ToW
+1;Skeleton Cavalry Cohort;Tomb Kings;0;ToW
+1;Necroserpents;Tomb Kings;38;ToW
+1;Tomb Guard Chariots;Tomb Kings;49;ToW
+1;Ushabti;Tomb Kings;49;ToW
+1;Ushabti;Tomb Kings;49;ToW
+1;Venerable Ushabti;Tomb Kings;56;ToW
+1;Tomb Swarms;Tomb Kings;37;ToW
+1;Carrion;Tomb Kings;27;ToW
+1;Necropolis Knights;Tomb Kings;54;ToW
+1;Tomb Guard;Tomb Kings;10;ToW
+1;Necroserpents;Tomb Kings;38;ToW
+1;Sepulchral Stalkers;Tomb Kings;49;ToW
+1;Tomb Scorpion;Tomb Kings;70;ToW
+1;Khemrian Warsphinx;Tomb Kings;175;ToW
+1;Winged Warsphinx;Tomb Kings;180;ToW
+1;Tomb Guard Chariots;Tomb Kings;49;ToW
+1;Necrolith Colossus;Tomb Kings;160;ToW
+1;Necrosphinx;Tomb Kings;195;ToW
+1;Necrolith Colossus;Tomb Kings;160;ToW
+1;Screaming Skull Catapult;Tomb Kings;105;ToW
+1;Casket of Souls;Tomb Kings;135;ToW
+1;Necrosphinx;Tomb Kings;195;ToW
+1;Vampire Count;Vampire Counts;160;ToW
+1;Vampire Lord {renegade};Vampire Counts;185;ToW
+1;Vampire Thrall;Vampire Counts;75;ToW
+1;Vampire Thrall {renegade};Vampire Counts;70;ToW
+1;Master Necromancer;Vampire Counts;130;ToW
+1;Master Necromancer {renegade};Vampire Counts;145;ToW
+1;Necromantic Acolyte;Vampire Counts;60;ToW
+1;Necromantic Acolyte {renegade};Vampire Counts;60;ToW
+1;Strigoi Ghoul King;Vampire Counts;145;ToW
+1;Strigoi Ghoul King {renegade};Vampire Counts;145;ToW
+1;Cairn Wraith;Vampire Counts;50;ToW
+1;Cairn Wraith {renegade};Vampire Counts;50;ToW
+1;Wight King;Vampire Counts;85;ToW
+1;Wight King {renegade};Vampire Counts;85;ToW
+1;Wight Lord;Vampire Counts;40;ToW
+1;Wight Lord {renegade};Vampire Counts;60;ToW
+1;Tomb Banshee;Vampire Counts;90;ToW
+1;Tomb Banshee {renegade};Vampire Counts;90;ToW
+1;Skeleton Warriors {vampire counts};Vampire Counts;5;ToW
+1;Skeleton Warriors {renegade};Vampire Counts;4;ToW
+1;Zombies;Vampire Counts;3;ToW
+1;Zombies {renegade};Vampire Counts;3;ToW
+1;Crypt Ghouls;Vampire Counts;9;ToW
+1;Crypt Ghouls {renegade};Vampire Counts;8;ToW
+1;Bat Swarms;Vampire Counts;39;ToW
+1;Bat Swarms {renegade};Vampire Counts;39;ToW
+1;Dire Wolves;Vampire Counts;8;ToW
+1;Dire Wolves;Vampire Counts;8;ToW
+1;Grave Guard;Vampire Counts;11;ToW
+1;Grave Guard {renegade};Vampire Counts;11;ToW
+1;Black Knights;Vampire Counts;24;ToW
+1;Black Knights {renegade};Vampire Counts;24;ToW
+1;Corpse Cart {renegade};Vampire Counts;60;ToW
+1;Grave Guard;Vampire Counts;11;ToW
+1;Grave Guard {renegade};Vampire Counts;11;ToW
+1;Black Knights;Vampire Counts;24;ToW
+1;Black Knights {renegade};Vampire Counts;24;ToW
+1;Crypt Horrors;Vampire Counts;46;ToW
+1;Crypt Horrors {renegade};Vampire Counts;46;ToW
+1;Fell Bats;Vampire Counts;15;ToW
+1;Fell Bats {renegade};Vampire Counts;15;ToW
+1;Spirit Hosts;Vampire Counts;49;ToW
+1;Spirit Hosts {renegade};Vampire Counts;49;ToW
+1;Vargheists;Vampire Counts;61;ToW
+1;Vargheists {renegade};Vampire Counts;61;ToW
+1;Terrorgheist;Vampire Counts;205;ToW
+1;Terrorgheist {renegade};Vampire Counts;205;ToW
+1;Corpse Cart;Vampire Counts;115;ToW
+1;Varghulf {renegade};Vampire Counts;110;ToW
+1;Blood Knights {renegade};Vampire Counts;39;ToW
+1;Vargheists;Vampire Counts;61;ToW
+1;Vargheists {renegade};Vampire Counts;61;ToW
+1;Black Coach;Vampire Counts;205;ToW
+1;Black Coach {renegade};Vampire Counts;205;ToW
+1;Terrorgheist;Vampire Counts;205;ToW
+1;Terrorgheist {renegade};Vampire Counts;205;ToW
+1;Varghulf;Vampire Counts;140;ToW
+1;Blood Knights;Vampire Counts;39;ToW
+1;Blood Knights {renegade};Vampire Counts;39;ToW
+1;Hexwraiths;Vampire Counts;31;ToW
+1;Hexwraiths {renegade};Vampire Counts;31;ToW
+1;Galrauch;Warriors of Chaos;465;ToW
+1;Daemon Prince {warriors of chaos};Warriors of Chaos;215;ToW
+1;Chaos Lord;Warriors of Chaos;195;ToW
+1;Sorcerer Lord;Warriors of Chaos;195;ToW
+1;Great Bray-Shaman;Warriors of Chaos;150;ToW
+1;Gorebull;Warriors of Chaos;130;ToW
+1;Exalted Champion;Warriors of Chaos;125;ToW
+1;Exalted Sorcerer;Warriors of Chaos;90;ToW
+1;Aspiring Champion;Warriors of Chaos;70;ToW
+1;Marauder Tribe Chieftain;Warriors of Chaos;65;ToW
+1;Frydaal the Chainmaker;Warriors of Chaos;235;ToW
+1;Champion of Ruin;Warriors of Chaos;90;ToW
+1;Chieftain of Ruin;Warriors of Chaos;70;ToW
+1;Beastlord;Warriors of Chaos;115;ToW
+1;Wargor;Warriors of Chaos;55;ToW
+1;Bray-Shaman;Warriors of Chaos;65;ToW
+1;Cult Magister;Warriors of Chaos;55;ToW
+1;Chaos Warriors;Warriors of Chaos;13;ToW
+1;Chaos Knights;Warriors of Chaos;27;ToW
+1;Chaos Marauders;Warriors of Chaos;6;ToW
+1;Marauder Horsemen;Warriors of Chaos;12;ToW
+1;Chaos Warhounds {warriors of chaos};Warriors of Chaos;6;ToW
+1;Forsaken;Warriors of Chaos;19;ToW
+1;Marauder Tribe Berserkers;Warriors of Chaos;8;ToW
+1;Chaos Chariot;Warriors of Chaos;110;ToW
+1;Gor Herd;Warriors of Chaos;7;ToW
+1;Ungor Herd;Warriors of Chaos;5;ToW
+1;Bestigor Herd;Warriors of Chaos;13;ToW
+1;Chaos Cultists;Warriors of Chaos;6;ToW
+1;Chosen Chaos Warriors;Warriors of Chaos;17;ToW
+1;Chosen Chaos Knights;Warriors of Chaos;36;ToW
+1;Chosen Chaos Chariot;Warriors of Chaos;140;ToW
+1;Chaos Chariot;Warriors of Chaos;110;ToW
+1;Chaos Ogres;Warriors of Chaos;31;ToW
+1;Chaos Trolls;Warriors of Chaos;39;ToW
+1;Chaos Spawn;Warriors of Chaos;50;ToW
+1;Dragon Ogres;Warriors of Chaos;59;ToW
+1;Chimera;Warriors of Chaos;170;ToW
+1;Skin Wolves;Warriors of Chaos;45;ToW
+1;Marauder Tribe Huscarls;Warriors of Chaos;18;ToW
+1;Gorebeast Chariot;Warriors of Chaos;135;ToW
+1;Chaos Giant;Warriors of Chaos;200;ToW
+1;Dragon Ogre Shaggoth;Warriors of Chaos;225;ToW
+1;Hellcannon;Warriors of Chaos;215;ToW
+1;Gigantic Spawn of Chaos;Warriors of Chaos;145;ToW
+1;Warpfire Dragon;Warriors of Chaos;375;ToW
+1;Minotaur Herd;Warriors of Chaos;44;ToW
+1;Cygor;Warriors of Chaos;215;ToW
+1;Ghorgon;Warriors of Chaos;245;ToW

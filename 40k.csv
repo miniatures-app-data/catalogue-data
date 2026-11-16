@@ -1,0 +1,2136 @@
+ qty;Unit;Factions;cost;System
+1;Warboss;Orks;75;40K
+1;Warboss In Mega Armour;Orks;80;40K
+1;Warboss On Warbike;Orks;75;40K
+1;Weirdboy;Orks;65;40K
+1;Big Mek In Mega Armour;Orks;90;40K
+1;Big Mek On Warbike;Orks;105;40K
+2;Ghazghkull Thraka;Orks;235;40K
+1;Kaptin Badrukk;Orks;80;40K
+1;Boss Zagstruk;Orks;90;40K
+1;Boss Snikrot;Orks;75;40K
+1;Mek;Orks;45;40K
+4;Custodian Guard;Adeptus Custodes;160;40K
+5;Custodian Guard;Adeptus Custodes;200;40K
+1;Venerable Contemptor Dreadnought;Adeptus Custodes;170;40K
+1;Venerable Land Raider;Adeptus Custodes;220;40K
+1;Trajann Valoris;Adeptus Custodes;140;40K
+1;Shield-captain;Adeptus Custodes;120;40K
+1;Shield-captain In Allarus Terminator Armour;Adeptus Custodes;130;40K
+1;Shield-captain On Dawneagle Jetbike;Adeptus Custodes;150;40K
+4;Custodian Wardens;Adeptus Custodes;210;40K
+5;Custodian Wardens;Adeptus Custodes;260;40K
+2;Allarus Custodians;Adeptus Custodes;110;40K
+3;Allarus Custodians;Adeptus Custodes;165;40K
+5;Allarus Custodians;Adeptus Custodes;275;40K
+6;Allarus Custodians;Adeptus Custodes;330;40K
+2;Vertus Praetors;Adeptus Custodes;150;40K
+3;Vertus Praetors;Adeptus Custodes;225;40K
+1;Contemptor-achillus Dreadnought;Adeptus Custodes;155;40K
+1;Painboy;Orks;80;40K
+1;Caladius Grav-tank;Adeptus Custodes;215;40K
+1;Painboy On Warbike;Orks;85;40K
+1;Coronus Grav-carrier;Adeptus Custodes;200;40K
+1;Mad Dok Grotsnik;Orks;65;40K
+1;Telemon Heavy Dreadnought;Adeptus Custodes;225;40K
+10;Boyz;Orks;80;40K
+20;Boyz;Orks;170;40K
+1;Contemptor-galatus Dreadnought;Adeptus Custodes;165;40K
+3;Aquilon Custodians;Adeptus Custodes;195;40K
+6;Aquilon Custodians;Adeptus Custodes;390;40K
+11;Gretchin;Orks;40;40K
+22;Gretchin;Orks;80;40K
+5;Custodian Guard With Adrasite And Pyrithite Spears;Adeptus Custodes;250;40K
+3;Agamatus Custodians;Adeptus Custodes;225;40K
+6;Agamatus Custodians;Adeptus Custodes;450;40K
+1+4;Burna Boyz;Orks;60;40K
+2+8;Burna Boyz;Orks;120;40K
+3;Venatari Custodians;Adeptus Custodes;165;40K
+6;Venatari Custodians;Adeptus Custodes;330;40K
+1;Pallas Grav-attack;Adeptus Custodes;105;40K
+6;Tankbustas;Orks;140;40K
+5;Sagittarum Custodians;Adeptus Custodes;225;40K
+5;Nobz;Orks;105;40K
+10;Nobz;Orks;210;40K
+1;Orion Assault Dropship;Adeptus Custodes;690;40K
+1;Ares Gunship;Adeptus Custodes;580;40K
+1;Nob With Waaagh! Banner;Orks;70;40K
+1;Aleya;Adeptus Custodes;65;40K
+3;Nobz On Warbikes;Orks;125;40K
+1;Blade Champion;Adeptus Custodes;120;40K
+2;Meganobz;Orks;65;40K
+3;Meganobz;Orks;95;40K
+5;Meganobz;Orks;160;40K
+6;Meganobz;Orks;190;40K
+1;Valerian;Adeptus Custodes;110;40K
+1;Knight-centura;Adeptus Custodes;55;40K
+4;Prosecutors;Adeptus Custodes;40;40K
+5;Prosecutors;Adeptus Custodes;50;40K
+9;Prosecutors;Adeptus Custodes;75;40K
+10;Prosecutors;Adeptus Custodes;85;40K
+4;Vigilators;Adeptus Custodes;45;40K
+5;Vigilators;Adeptus Custodes;55;40K
+9;Vigilators;Adeptus Custodes;90;40K
+10;Vigilators;Adeptus Custodes;100;40K
+10;Kommandos;Orks;120;40K
+4;Witchseekers;Adeptus Custodes;45;40K
+5;Witchseekers;Adeptus Custodes;55;40K
+9;Witchseekers;Adeptus Custodes;90;40K
+10;Witchseekers;Adeptus Custodes;100;40K
+1;Trukk;Orks;70;40K
+1;Anathema Psykana Rhino;Adeptus Custodes;75;40K
+5;Stormboyz;Orks;65;40K
+10;Stormboyz;Orks;130;40K
+1;Belisarius Cawl;Adeptus Mechanicus;210;40K
+1;Tech-priest Dominus;Adeptus Mechanicus;65;40K
+3;Deffkoptas;Orks;80;40K
+6;Deffkoptas;Orks;160;40K
+1;Tech-priest Enginseer;Adeptus Mechanicus;55;40K
+3;Kataphron Breachers;Adeptus Mechanicus;160;40K
+6;Kataphron Breachers;Adeptus Mechanicus;320;40K
+1;Dakkajet;Orks;135;40K
+3;Kataphron Destroyers;Adeptus Mechanicus;105;40K
+6;Kataphron Destroyers;Adeptus Mechanicus;210;40K
+1;Burna-bommer;Orks;125;40K
+5;Fulgurite Electro-priests;Adeptus Mechanicus;70;40K
+10;Fulgurite Electro-priests;Adeptus Mechanicus;140;40K
+1;Blitza-bommer;Orks;115;40K
+5;Corpuscarii Electro-priests;Adeptus Mechanicus;65;40K
+10;Corpuscarii Electro-priests;Adeptus Mechanicus;130;40K
+1;Wazbom Blastajet;Orks;175;40K
+2;Kastelan Robots;Adeptus Mechanicus;180;40K
+4;Kastelan Robots;Adeptus Mechanicus;360;40K
+3;Warbikers;Orks;65;40K
+6;Warbikers;Orks;130;40K
+1;Cybernetica Datasmith;Adeptus Mechanicus;35;40K
+4;Servitors;Adeptus Mechanicus;50;40K
+1;Wartrakks;Orks;50;40K
+2;Wartrakks;Orks;100;40K
+10;Skitarii Rangers;Adeptus Mechanicus;85;40K
+10;Skitarii Vanguard;Adeptus Mechanicus;95;40K
+1;Skorchas;Orks;45;40K
+2;Skorchas;Orks;90;40K
+5;Sicarian Infiltrators;Adeptus Mechanicus;75;40K
+10;Sicarian Infiltrators;Adeptus Mechanicus;155;40K
+5;Sicarian Ruststalkers;Adeptus Mechanicus;80;40K
+10;Sicarian Ruststalkers;Adeptus Mechanicus;165;40K
+1;Warbuggies;Orks;40;40K
+2;Warbuggies;Orks;80;40K
+1;Ironstrider Ballistarii;Adeptus Mechanicus;85;40K
+2;Ironstrider Ballistarii;Adeptus Mechanicus;170;40K
+3;Ironstrider Ballistarii;Adeptus Mechanicus;255;40K
+1;Sydonian Dragoons With Taser Lances;Adeptus Mechanicus;65;40K
+2;Sydonian Dragoons With Taser Lances;Adeptus Mechanicus;130;40K
+3;Sydonian Dragoons With Taser Lances;Adeptus Mechanicus;195;40K
+1;Big Gunz;Orks;20;40K
+2;Big Gunz;Orks;40;40K
+1;Onager Dunecrawler;Adeptus Mechanicus;155;40K
+5;Secutarii Hoplites;Adeptus Mechanicus;65;40K
+10;Secutarii Hoplites;Adeptus Mechanicus;130;40K
+1;Mek Gunz;Orks;50;40K
+2;Mek Gunz;Orks;100;40K
+3;Mek Gunz;Orks;150;40K
+5;Secutarii Peltasts;Adeptus Mechanicus;50;40K
+10;Secutarii Peltasts;Adeptus Mechanicus;100;40K
+1;Terrax-pattern Termite;Adeptus Mechanicus;200;40K
+1;Tech-priest Manipulus;Adeptus Mechanicus;60;40K
+1;Battlewagon;Orks;160;40K
+1;Skorpius Dunerider;Adeptus Mechanicus;85;40K
+1;Deff Dread;Orks;120;40K
+1;Skorpius Disintegrator;Adeptus Mechanicus;165;40K
+3;Killa Kans;Orks;125;40K
+6;Killa Kans;Orks;250;40K
+1;X-101;Adeptus Mechanicus;40;40K
+3;Serberys Sulphurhounds;Adeptus Mechanicus;55;40K
+6;Serberys Sulphurhounds;Adeptus Mechanicus;110;40K
+1;Morkanaut;Orks;280;40K
+3;Serberys Raiders;Adeptus Mechanicus;60;40K
+6;Serberys Raiders;Adeptus Mechanicus;120;40K
+1;Gorkanaut;Orks;265;40K
+5;Pteraxii Sterylizors;Adeptus Mechanicus;80;40K
+10;Pteraxii Sterylizors;Adeptus Mechanicus;160;40K
+1+4;Lootas;Orks;50;40K
+2+8;Lootas;Orks;100;40K
+5;Pteraxii Skystalkers;Adeptus Mechanicus;75;40K
+10;Pteraxii Skystalkers;Adeptus Mechanicus;150;40K
+1;Archaeopter Transvector;Adeptus Mechanicus;150;40K
+5;Flash Gitz;Orks;80;40K
+10;Flash Gitz;Orks;160;40K
+1;Archaeopter Stratoraptor;Adeptus Mechanicus;185;40K
+1;Archaeopter Fusilave;Adeptus Mechanicus;160;40K
+1;Stompa;Orks;800;40K
+1;Technoarcheologist;Adeptus Mechanicus;45;40K
+4;Grot Tanks;Orks;155;40K
+8;Grot Tanks;Orks;310;40K
+1;Skitarii Marshal;Adeptus Mechanicus;35;40K
+1;Sydonian Dragoons With Radium Jezzails;Adeptus Mechanicus;55;40K
+2;Sydonian Dragoons With Radium Jezzails;Adeptus Mechanicus;100;40K
+3;Sydonian Dragoons With Radium Jezzails;Adeptus Mechanicus;150;40K
+1;Grot Mega-tank;Orks;110;40K
+1;Sydonian Skatros;Adeptus Mechanicus;50;40K
+1;Squiggoth;Orks;150;40K
+1;Meka-dread;Orks;210;40K
+1;Lifta Wagon;Orks;135;40K
+1;Big Trakk;Orks;90;40K
+1;Kannonwagon;Orks;115;40K
+1;Eldrad Ulthran;Aeldari;120;40K
+1;Kill Tank;Orks;295;40K
+1;Prince Yriel (Legendary);Aeldari;100;40K
+1;Chinork Warkopta;Orks;105;40K
+1;Illic Nightspear;Aeldari;70;40K
+1;Gargantuan Squiggoth;Orks;440;40K
+1;Asurmen;Aeldari;135;40K
+1;Apothecary Biologis;Space Marines;70;40K
+1;Jain Zar;Aeldari;120;40K
+5;Assault Squad;Space Marines;95;40K
+10;Assault Squad;Space Marines;190;40K
+1;Karandras;Aeldari;90;40K
+1;Fuegan;Aeldari;120;40K
+1;Apothecary on Bike;Space Marines;65;40K
+1;Baharroth;Aeldari;115;40K
+5;Assault Squad with Jump Packs;Space Marines;115;40K
+10;Assault Squad with Jump Packs;Space Marines;230;40K
+1;Maugan Ra;Aeldari;100;40K
+1;Autarch;Aeldari;85;40K
+1;Land Raider;Space Marines;220;40K
+1;Autarch Skyrunner;Aeldari;90;40K
+1;Land Raider Crusader;Space Marines;220;40K
+1;Avatar of Khaine;Aeldari;280;40K
+1;Land Raider Excelsior;Space Marines;250;40K
+1;Farseer;Aeldari;70;40K
+3;Suppressor Squad;Space Marines;75;40K
+1;Farseer Skyrunner;Aeldari;80;40K
+10;Tactical Squad;Space Marines;140;40K
+2;Warlock Conclave;Aeldari;55;40K
+4;Warlock Conclave;Aeldari;130;40K
+3;Bladeguard Veteran Squad;Space Marines;80;40K
+6;Bladeguard Veteran Squad;Space Marines;170;40K
+1;Warlock;Aeldari;45;40K
+1;Warlock Skyrunners;Aeldari;45;40K
+2;Warlock Skyrunners;Aeldari;90;40K
+1;Caestus Assault Ram;Space Marines;215;40K
+1;Spiritseer;Aeldari;65;40K
+1;Captain;Space Marines;80;40K
+11;Guardian Defenders;Aeldari;100;40K
+1;Lieutenant With Combi-weapon;Space Marines;85;40K
+11;Storm Guardians;Aeldari;110;40K
+1;Librarian In Terminator Armour;Space Marines;75;40K
+3;Windriders;Aeldari;80;40K
+6;Windriders;Aeldari;160;40K
+1;Captain With Jump Pack;Space Marines;75;40K
+5;Rangers;Aeldari;55;40K
+10;Rangers;Aeldari;110;40K
+1;Stormhawk Interceptor;Space Marines;155;40K
+5;Dire Avengers;Aeldari;75;40K
+10;Dire Avengers;Aeldari;150;40K
+1;Rhino Primaris;Space Marines;95;40K
+5;Howling Banshees;Aeldari;95;40K
+10;Howling Banshees;Aeldari;190;40K
+1;Firestrike Servo-turrets;Space Marines;75;40K
+2;Firestrike Servo-turrets;Space Marines;150;40K
+5;Striking Scorpions;Aeldari;85;40K
+10;Striking Scorpions;Aeldari;150;40K
+5;Fire Dragons;Aeldari;120;40K
+10;Fire Dragons;Aeldari;240;40K
+1;Drop Pod;Space Marines;70;40K
+5;Wraithguard;Aeldari;160;40K
+1;Ballistus Dreadnought;Space Marines;150;40K
+5;Wraithblades;Aeldari;150;40K
+1;Sicaran Venator;Space Marines;180;40K
+1;Wave Serpent;Aeldari;125;40K
+1;Typhon;Space Marines;320;40K
+5;Swooping Hawks;Aeldari;95;40K
+10;Swooping Hawks;Aeldari;190;40K
+1;Chaplain On Bike;Space Marines;75;40K
+5;Warp Spiders;Aeldari;105;40K
+10;Warp Spiders;Aeldari;190;40K
+4;Ultramarines Honour Guard;Space Marines;155;40K
+3;Shining Spears;Aeldari;110;40K
+6;Shining Spears;Aeldari;220;40K
+1;Carab Culln The Risen;Space Marines;250;40K
+1;Crimson Hunter;Aeldari;160;40K
+1;Hammerfall Bunker;Space Marines;175;40K
+1;Vypers;Aeldari;75;40K
+2;Vypers;Aeldari;150;40K
+1;Tarantula Sentry Battery;Space Marines;30;40K
+2;Tarantula Sentry Battery;Space Marines;60;40K
+3;Tarantula Sentry Battery;Space Marines;90;40K
+1;Hemlock Wraithfighter;Aeldari;155;40K
+5;Dark Reapers;Aeldari;90;40K
+10;Dark Reapers;Aeldari;195;40K
+1;Falcon;Aeldari;130;40K
+1;Tarantula Air Defence Battery;Space Marines;70;40K
+1;Fire Prism;Aeldari;150;40K
+3;Eradicator Squad;Space Marines;90;40K
+6;Eradicator Squad;Space Marines;180;40K
+1;Night Spinner;Aeldari;190;40K
+1;War Walkers;Aeldari;85;40K
+2;War Walkers;Aeldari;170;40K
+5;Relic Terminator Squad;Space Marines;200;40K
+10;Relic Terminator Squad;Space Marines;400;40K
+1;Wraithlord;Aeldari;130;40K
+1;Wraithknight;Aeldari;435;40K
+1;Javelin Attack Speeder;Space Marines;110;40K
+5;Shadow Spectres;Aeldari;115;40K
+10;Shadow Spectres;Aeldari;230;40K
+1;Shadow Spectre Exarch;Aeldari;30;40K
+1;Rapier Carrier;Space Marines;90;40K
+1;Wasp Assault Walker;Aeldari;95;40K
+1;Mortis Dreadnought;Space Marines;130;40K
+1;Wraithseer;Aeldari;160;40K
+1;Chaplain With Jump Pack;Space Marines;75;40K
+1;Hornet;Aeldari;100;40K
+1;Storm Eagle Gunship;Space Marines;250;40K
+1;Warp Hunter;Aeldari;145;40K
+1;Storm Speeder Hammerstrike;Space Marines;125;40K
+1;Lynx;Aeldari;180;40K
+1;Chaplain In Terminator Armour;Space Marines;75;40K
+1;Scorpion;Aeldari;410;40K
+3;Bike Squad;Space Marines;80;40K
+6;Bike Squad;Space Marines;160;40K
+1;Attack Bike;Space Marines;55;40K
+1;Cobra;Aeldari;415;40K
+1;Nightwing;Aeldari;150;40K
+1;Phoenix;Aeldari;175;40K
+1;Dreadnought;Space Marines;135;40K
+1;Vampire Raider;Aeldari;430;40K
+5;Terminator Assault Squad;Space Marines;180;40K
+10;Terminator Assault Squad;Space Marines;360;40K
+1;Vampire Hunter;Aeldari;460;40K
+1;Skathach Wraithknight;Aeldari;490;40K
+1;Librarian In Phobos Armour;Space Marines;70;40K
+1;Revenant Titan;Aeldari;1100;40K
+1;Venerable Dreadnought (Legendary);Space Marines;165;40K
+3;Corsair Cloud Dancer Band;Aeldari;105;40K
+4;Corsair Cloud Dancer Band;Aeldari;140;40K
+6;Corsair Cloud Dancer Band;Aeldari;210;40K
+7;Corsair Cloud Dancer Band;Aeldari;245;40K
+1;Uriel Ventris;Space Marines;95;40K
+1;Irillyth;Aeldari;105;40K
+1;Dreadnought Drop Pod;Space Marines;75;40K
+1;Phantom Titan;Aeldari;2100;40K
+1;Sicaran Punisher;Space Marines;160;40K
+5;Corsair Reaver Band;Aeldari;125;40K
+6;Corsair Reaver Band;Aeldari;150;40K
+10;Corsair Reaver Band;Aeldari;250;40K
+11;Corsair Reaver Band;Aeldari;275;40K
+1;Storm Speeder Hailstrike;Space Marines;115;40K
+5;Corsair Skyreaver Band;Aeldari;125;40K
+6;Corsair Skyreaver Band;Aeldari;150;40K
+10;Corsair Skyreaver Band;Aeldari;250;40K
+11;Corsair Skyreaver Band;Aeldari;275;40K
+3;Inceptor Squad;Space Marines;120;40K
+6;Inceptor Squad;Space Marines;240;40K
+1;Firestorm;Aeldari;115;40K
+1;Bonesinger;Aeldari;45;40K
+5;Infernus Squad;Space Marines;90;40K
+10;Infernus Squad;Space Marines;180;40K
+1;Amallyn Shadowguide;Aeldari;75;40K
+2;Webway Gate;Aeldari;105;40K
+1;Iron Father Feirros;Space Marines;95;40K
+5;Corsair Voidreavers;Aeldari;65;40K
+10;Corsair Voidreavers;Aeldari;110;40K
+5;Infiltrator Squad;Space Marines;100;40K
+10;Infiltrator Squad;Space Marines;200;40K
+5;Corsair Voidscarred;Aeldari;80;40K
+10;Corsair Voidscarred;Aeldari;160;40K
+3;Shroud Runners;Aeldari;80;40K
+6;Shroud Runners;Aeldari;160;40K
+1;Razorback;Space Marines;95;40K
+1;Troupe Master;Aeldari;75;40K
+1;Leviathan Dreadnought;Space Marines;160;40K
+1;Shadowseer;Aeldari;60;40K
+1;Land Speeder Storm;Space Marines;70;40K
+5;Troupe;Aeldari;85;40K
+6;Troupe;Aeldari;100;40K
+11;Troupe;Aeldari;190;40K
+12;Troupe;Aeldari;205;40K
+4;Astartes Servitors;Space Marines;55;40K
+1;Death Jester;Aeldari;90;40K
+1;Captain In Terminator Armour;Space Marines;95;40K
+1;Solitaire;Aeldari;115;40K
+1;Brutalis Dreadnought;Space Marines;160;40K
+2;Skyweavers;Aeldari;95;40K
+4;Skyweavers;Aeldari;190;40K
+3;Scout Bike Squad;Space Marines;75;40K
+6;Scout Bike Squad;Space Marines;150;40K
+1;Voidweaver;Aeldari;125;40K
+1;Starweaver;Aeldari;80;40K
+1;Roboute Guilliman;Space Marines;340;40K
+1;Yvraine;Aeldari;100;40K
+1;Thunderhawk Gunship;Space Marines;840;40K
+1;The Visarch;Aeldari;90;40K
+1;Techmarine;Space Marines;55;40K
+1;The Yncarne;Aeldari;260;40K
+1;Hunter;Space Marines;100;40K
+1;Autarch Wayleaper;Aeldari;80;40K
+5;Vanguard Veteran Squad With Jump Packs;Space Marines;100;40K
+10;Vanguard Veteran Squad With Jump Packs;Space Marines;200;40K
+1;Imperial Space Marine;Space Marines;40;40K
+1;Commander Dante;Space Marines;120;40K
+1;Captain Tycho;Space Marines;75;40K
+1;Tycho The Lost;Space Marines;90;40K
+1;Librarian Dreadnought;Space Marines;170;40K
+1;Chief Librarian Mephiston;Space Marines;120;40K
+1;The Sanguinor;Space Marines;130;40K
+1;Astorath;Space Marines;85;40K
+1;Sanguinary Priest;Space Marines;75;40K
+1;Sanguinary Priest on Bike;Space Marines;135;40K
+1;Brother Corbulo;Space Marines;75;40K
+1;Lemartes;Space Marines;100;40K
+3;Sanguinary Guard;Space Marines;125;40K
+6;Sanguinary Guard;Space Marines;260;40K
+1;Death Company Dreadnought;Space Marines;160;40K
+1;Furioso Dreadnought;Space Marines;150;40K
+1;Leman Russ Commander;Astra Militarum;235;40K
+1;Baal Predator;Space Marines;125;40K
+3;Cadian Heavy Weapons Squad;Astra Militarum;65;40K
+1;Gabriel Seth;Space Marines;90;40K
+1;Scout Sentinels;Astra Militarum;55;40K
+2;Scout Sentinels;Astra Militarum;110;40K
+1;Azrael;Space Marines;125;40K
+1;Armoured Sentinels;Astra Militarum;65;40K
+2;Armoured Sentinels;Astra Militarum;130;40K
+1;Belial;Space Marines;85;40K
+1;Chimera;Astra Militarum;85;40K
+1;Asmodai;Space Marines;70;40K
+1;Taurox;Astra Militarum;75;40K
+1;Ezekiel;Space Marines;75;40K
+1;Hellhound;Astra Militarum;125;40K
+5;Deathwing Terminator Squad;Space Marines;180;40K
+10;Deathwing Terminator Squad;Space Marines;360;40K
+1;Basilisk;Astra Militarum;140;40K
+1;Hydra;Astra Militarum;95;40K
+5;Deathwing Knights;Space Marines;250;40K
+1;Wyvern;Astra Militarum;110;40K
+1;Ravenwing Darkshroud;Space Marines;100;40K
+1;Manticore;Astra Militarum;165;40K
+1;Nephilim Jetfighter;Space Marines;195;40K
+1;Deathstrike;Astra Militarum;145;40K
+1;Ravenwing Dark Talon;Space Marines;210;40K
+1;Leman Russ Battle Tank;Astra Militarum;185;40K
+3;Ravenwing Black Knights;Space Marines;80;40K
+6;Ravenwing Black Knights;Space Marines;160;40K
+1;Leman Russ Demolisher;Astra Militarum;190;40K
+1;Baneblade;Astra Militarum;450;40K
+1;Land Speeder Vengeance;Space Marines;120;40K
+1;Banehammer;Astra Militarum;420;40K
+1;Fortress Of Redemption;Unaligned Forces;480;40K
+1;Banesword;Astra Militarum;450;40K
+1;Logan Grimnar;Space Marines;110;40K
+1;Doomhammer;Astra Militarum;415;40K
+1;Logan Grimnar On Stormrider;Space Marines;180;40K
+1;Hellhammer;Astra Militarum;420;40K
+1;Wolf Lord on Thunderwolf;Space Marines;100;40K
+1;Shadowsword;Astra Militarum;410;40K
+1;Ragnar Blackmane;Space Marines;100;40K
+1;Stormlord;Astra Militarum;430;40K
+1;Krom Dragongaze;Space Marines;65;40K
+1;Stormsword;Astra Militarum;465;40K
+1;Harald Deathwolf;Space Marines;85;40K
+1;‘Iron Hand’ Straken;Astra Militarum;55;40K
+1;Canis Wolfborn;Space Marines;75;40K
+1;Sergeant Harker;Astra Militarum;40;40K
+1;Njal Stormcaller;Space Marines;85;40K
+1;Commissar;Astra Militarum;30;40K
+1;Ulrik The Slayer;Space Marines;70;40K
+5;Militarum Tempestus Command Squad;Astra Militarum;85;40K
+1;Wolf Guard Battle Leader In Terminator Armour;Space Marines;75;40K
+1;Taurox Prime;Astra Militarum;90;40K
+1;Wolf Guard Battle Leader On Thunderwolf;Space Marines;80;40K
+3;Ogryn Squad;Astra Militarum;60;40K
+6;Ogryn Squad;Astra Militarum;130;40K
+1;Bjorn The Fell-handed;Space Marines;160;40K
+3;Bullgryn Squad;Astra Militarum;100;40K
+6;Bullgryn Squad;Astra Militarum;200;40K
+10;Blood Claws;Space Marines;135;40K
+20;Blood Claws;Space Marines;285;40K
+5;Ratlings;Astra Militarum;60;40K
+10;Ratlings;Astra Militarum;100;40K
+1;Nork Deddog;Astra Militarum;60;40K
+1;Lukas The Trickster;Space Marines;50;40K
+1;Valkyrie;Astra Militarum;190;40K
+10;Grey Hunters;Space Marines;165;40K
+1;Atlas Recovery Vehicle;Astra Militarum;80;40K
+1;Iron Priest;Space Marines;55;40K
+1;Salamander Command Vehicle;Astra Militarum;80;40K
+1;Iron Priest On Thunderwolf;Space Marines;95;40K
+1;Hades Breaching Drill;Astra Militarum;110;40K
+5;Wolf Scouts (Legendary);Space Marines;80;40K
+10;Wolf Scouts (Legendary);Space Marines;160;40K
+1;Centaur Light Carrier;Astra Militarum;40;40K
+1;Trojan Support Vehicle;Astra Militarum;80;40K
+5;Wulfen;Space Marines;85;40K
+10;Wulfen;Space Marines;170;40K
+1;Salamander Scout Vehicle;Astra Militarum;95;40K
+1;Tauros Assault Vehicle;Astra Militarum;50;40K
+1;Murderfang;Space Marines;150;40K
+1;Tauros Venator;Astra Militarum;50;40K
+5;Wolf Guard;Space Marines;85;40K
+10;Wolf Guard;Space Marines;170;40K
+1;Armageddon-pattern Medusa;Astra Militarum;105;40K
+1;Colossus;Astra Militarum;160;40K
+1;Arjac Rockfist;Space Marines;105;40K
+1;Cyclops Demolition Vehicle;Astra Militarum;25;40K
+5;Wolf Guard Terminators;Space Marines;170;40K
+10;Wolf Guard Terminators;Space Marines;340;40K
+1;Earthshaker Carriage Battery;Astra Militarum;120;40K
+1;Griffon Mortar Carrier;Astra Militarum;115;40K
+1;Stormwolf;Space Marines;250;40K
+1;Heavy Mortar Team;Astra Militarum;50;40K
+3;Thunderwolf Cavalry;Space Marines;115;40K
+6;Thunderwolf Cavalry;Space Marines;230;40K
+1;Heavy Quad Launcher Team;Astra Militarum;50;40K
+1;Hydra Platform;Astra Militarum;95;40K
+5;Fenrisian Wolves;Space Marines;40;40K
+10;Fenrisian Wolves;Space Marines;80;40K
+1;Malcador Annihilator;Astra Militarum;270;40K
+1;Malcador Defender;Astra Militarum;310;40K
+5;Skyclaws;Space Marines;90;40K
+10;Skyclaws;Space Marines;165;40K
+15;Skyclaws;Space Marines;240;40K
+1;Malcador;Astra Militarum;250;40K
+1;Malcador Infernus;Astra Militarum;235;40K
+1;Manticore Platform;Astra Militarum;95;40K
+1;Stormfang Gunship;Space Marines;300;40K
+1;Medusa Carriage Battery;Astra Militarum;125;40K
+5;Long Fangs;Space Marines;120;40K
+6;Long Fangs;Space Marines;145;40K
+1;Rapier Laser Destroyer Battery;Astra Militarum;35;40K
+2;Rapier Laser Destroyer Battery;Astra Militarum;70;40K
+3;Rapier Laser Destroyer Battery;Astra Militarum;105;40K
+1;Sabre Weapons Battery;Astra Militarum;45;40K
+2;Sabre Weapons Battery;Astra Militarum;90;40K
+1;Corvus Blackstar;Space Marines;180;40K
+1;Sentinel Powerlifter;Astra Militarum;55;40K
+1;Kaldor Draigo;Grey Knights;125;40K
+1;Stygies Destroyer Tank Hunter;Astra Militarum;180;40K
+1;Grand Master Voldus;Grey Knights;110;40K
+1;Tarantula Battery;Astra Militarum;40;40K
+2;Tarantula Battery;Astra Militarum;80;40K
+3;Tarantula Battery;Astra Militarum;120;40K
+1;Grand Master;Grey Knights;95;40K
+1;Stormblade;Astra Militarum;415;40K
+1;Brother-captain;Grey Knights;90;40K
+1;Arkurian Stormhammer;Astra Militarum;480;40K
+1;Brother-captain Stern;Grey Knights;90;40K
+1;Crassus;Astra Militarum;180;40K
+1;Brotherhood Champion;Grey Knights;70;40K
+1;Dominus Armoured Siege Bombard;Astra Militarum;325;40K
+1;Castellan Crowe;Grey Knights;90;40K
+1;Gorgon Heavy Transport;Astra Militarum;275;40K
+5;Strike Squad;Grey Knights;120;40K
+10;Strike Squad;Grey Knights;240;40K
+1;Macharius;Astra Militarum;310;40K
+1;Macharius Omega;Astra Militarum;310;40K
+4;Brotherhood Terminator Squad;Grey Knights;150;40K
+5;Brotherhood Terminator Squad;Grey Knights;185;40K
+8;Brotherhood Terminator Squad;Grey Knights;300;40K
+10;Brotherhood Terminator Squad;Grey Knights;375;40K
+1;Macharius Vanquisher;Astra Militarum;285;40K
+1;Macharius Vulcan;Astra Militarum;310;40K
+1;Marauder Bomber;Astra Militarum;345;40K
+1;Marauder Destroyer;Astra Militarum;375;40K
+5;Purifier Squad;Grey Knights;125;40K
+10;Purifier Squad;Grey Knights;250;40K
+1;Minotaur;Astra Militarum;225;40K
+1;Praetor;Astra Militarum;275;40K
+4;Paladin Squad;Grey Knights;180;40K
+5;Paladin Squad;Grey Knights;225;40K
+8;Paladin Squad;Grey Knights;360;40K
+10;Paladin Squad;Grey Knights;450;40K
+1;Valdor;Astra Militarum;285;40K
+1;Aquila Lander;Astra Militarum;120;40K
+1;Arvus Lighter;Astra Militarum;95;40K
+1;Avenger Strike Fighter;Astra Militarum;130;40K
+5;Interceptor Squad;Grey Knights;125;40K
+10;Interceptor Squad;Grey Knights;250;40K
+1;Voss-pattern Lightning;Astra Militarum;130;40K
+1;Vendetta Gunship;Astra Militarum;255;40K
+5;Purgation Squad;Grey Knights;115;40K
+10;Purgation Squad;Grey Knights;230;40K
+1;Vulture Gunship;Astra Militarum;225;40K
+1;Primaris Psyker;Astra Militarum;60;40K
+1;Nemesis Dreadknight;Grey Knights;210;40K
+1;Valkyrie Sky Talon;Astra Militarum;185;40K
+1;Grey Knights Dreadnought;Grey Knights;160;40K
+3;Mukaali Riders;Astra Militarum;110;40K
+1;Land Raider;Grey Knights;220;40K
+1;Ministorum Priest;Astra Militarum;35;40K
+1;Land Raider Crusader;Grey Knights;220;40K
+1;Tech-Priest Enginseer;Astra Militarum;45;40K
+1;Land Raider Redeemer;Grey Knights;270;40K
+4;Munitorum Servitors;Astra Militarum;35;40K
+1;Razorback;Grey Knights;85;40K
+1;Ogryn Bodyguard;Astra Militarum;40;40K
+1;Rhino;Grey Knights;80;40K
+1;Sly Marbo;Astra Militarum;55;40K
+4;Servitors;Grey Knights;50;40K
+2;Rein And Raus;Astra Militarum;50;40K
+1;Stormraven Gunship;Grey Knights;280;40K
+1;Carnodon;Astra Militarum;160;40K
+1;Brotherhood Techmarine;Grey Knights;70;40K
+10;Death Korps Grenadier Squad;Astra Militarum;110;40K
+1;Venerable Dreadnought;Grey Knights;140;40K
+5;Quartermaster Cadre Squad;Astra Militarum;45;40K
+1;Commander In Coldstar Battlesuit;T’au Empire;95;40K
+3;Elysian Sniper Squad;Astra Militarum;65;40K
+4;Tactical Drones;T’au Empire;70;40K
+8;Tactical Drones;T’au Empire;140;40K
+12;Tactical Drones;T’au Empire;210;40K
+1;Death Rider Commissar;Astra Militarum;35;40K
+1;Storm Chimera;Astra Militarum;90;40K
+6;Gaunt’s Ghosts;Astra Militarum;100;40K
+1;Ethereal;T’au Empire;50;40K
+1;Lord Solar Leontus;Astra Militarum;130;40K
+1;Cadre Fireblade;T’au Empire;50;40K
+1;Ursula Creed;Astra Militarum;85;40K
+1;Commander Farsight;T’au Empire;85;40K
+1;Cadian Castellan;Astra Militarum;55;40K
+1;Commander Shadowsun;T’au Empire;100;40K
+5;Cadian Command Squad;Astra Militarum;65;40K
+1;Aun’shi;T’au Empire;50;40K
+3;Regimental Attachés;Astra Militarum;40;40K
+3;Aun’va;T’au Empire;65;40K
+10;Cadian Shock Troops;Astra Militarum;65;40K
+20;Cadian Shock Troops;Astra Militarum;120;40K
+1;Darkstrider;T’au Empire;60;40K
+10;Death Korps Of Krieg;Astra Militarum;65;40K
+20;Death Korps Of Krieg;Astra Militarum;145;40K
+10;Strike Team;T’au Empire;70;40K
+10;Catachan Jungle Fighters;Astra Militarum;65;40K
+20;Catachan Jungle Fighters;Astra Militarum;120;40K
+10;Breacher Team;T’au Empire;90;40K
+10;Kasrkin;Astra Militarum;110;40K
+10;Kroot Carnivores;T’au Empire;65;40K
+20;Kroot Carnivores;T’au Empire;140;40K
+5;Attilan Rough Riders;Astra Militarum;60;40K
+10;Attilan Rough Riders;Astra Militarum;120;40K
+1;Rogal Dorn Battle Tank;Astra Militarum;260;40K
+1;Krootox Riders;T’au Empire;40;40K
+2;Krootox Riders;T’au Empire;60;40K
+3;Krootox Riders;T’au Empire;90;40K
+1;Aegis Defence Line;Astra Militarum;145;40K
+1;Earthshaker Platform;Astra Militarum;110;40K
+1;Elysian Drop Sentinel;Astra Militarum;85;40K
+5;Kroot Hounds;T’au Empire;40;40K
+10;Kroot Hounds;T’au Empire;80;40K
+1;Leman Russ Eradicator;Astra Militarum;170;40K
+1;Leman Russ Executioner;Astra Militarum;170;40K
+5;Stealth Battlesuits;T’au Empire;100;40K
+1;Leman Russ Exterminator;Astra Militarum;180;40K
+3;Crisis Battlesuits;T’au Empire;200;40K
+6;Crisis Battlesuits;T’au Empire;400;40K
+1;Leman Russ Punisher;Astra Militarum;150;40K
+1;Leman Russ Vanquisher;Astra Militarum;145;40K
+1;Ghostkeel Battlesuit;T’au Empire;160;40K
+5;Tempestus Scions;Astra Militarum;70;40K
+10;Tempestus Scions;Astra Militarum;140;40K
+1;Riptide Battlesuit;T’au Empire;200;40K
+10;Tempestus Aquilons;Astra Militarum;100;40K
+10;Pathfinder Team;T’au Empire;90;40K
+1;Piranhas;T’au Empire;60;40K
+2;Piranhas;T’au Empire;120;40K
+3;Piranhas;T’au Empire;180;40K
+1;Devilfish;T’au Empire;85;40K
+1;Razorshark Strike Fighter;T’au Empire;170;40K
+1;Sun Shark Bomber;T’au Empire;160;40K
+5;Vespid Stingwings;T’au Empire;65;40K
+10;Vespid Stingwings;T’au Empire;130;40K
+1;Firesight Team;T’au Empire;60;40K
+1;Sky Ray Gunship;T’au Empire;150;40K
+1;Longstrike;T’au Empire;140;40K
+1;Hammerhead Gunship;T’au Empire;145;40K
+1;Broadside Battlesuits;T’au Empire;80;40K
+2;Broadside Battlesuits;T’au Empire;170;40K
+3;Broadside Battlesuits;T’au Empire;270;40K
+1;Stormsurge;T’au Empire;360;40K
+1;Tidewall Droneport;T’au Empire;85;40K
+1;Tidewall Shieldline;T’au Empire;85;40K
+1;Tidewall Defence Platform;T’au Empire;20;40K
+1;Vindicare Assassin;Imperial Agents;110;40K
+1;Vindicare Assassin;Imperial Agents;125;40K
+1;Callidus Assassin;Imperial Agents;100;40K
+1;Tidewall Gunrig;T’au Empire;90;40K
+1;Eversor Assassin;Imperial Agents;110;40K
+1;Eversor Assassin;Imperial Agents;120;40K
+1;Shas’o R’alai;T’au Empire;80;40K
+1;Culexus Assassin;Imperial Agents;85;40K
+1;Xv9 Hazard Battlesuits;T’au Empire;55;40K
+2;Xv9 Hazard Battlesuits;T’au Empire;110;40K
+1;Inquisitor Greyfax;Imperial Agents;65;40K
+1;Inquisitor Karamazov;Imperial Agents;140;40K
+1;Y’vahra Battlesuit;T’au Empire;210;40K
+1;Inquisitor Coteaz;Imperial Agents;75;40K
+1;Inquisitor Coteaz;Imperial Agents;95;40K
+1;R’varna Battlesuit;T’au Empire;200;40K
+1;Inquisitor;Imperial Agents;55;40K
+1;Inquisitor;Imperial Agents;65;40K
+1;Ta’unar Supremacy Armour;T’au Empire;790;40K
+1;Inquisitor Eisenhorn;Imperial Agents;65;40K
+2;Tetras;T’au Empire;80;40K
+4;Tetras;T’au Empire;160;40K
+1;Inquisitor Draxus;Imperial Agents;75;40K
+1;Inquisitor Draxus;Imperial Agents;110;40K
+6;Voidsmen-at-arms;Imperial Agents;50;40K
+6;Voidsmen-at-arms;Imperial Agents;70;40K
+1;Tx42 Piranha;T’au Empire;60;40K
+10;Imperial Navy Breachers;Imperial Agents;90;40K
+2;Heavy Gun Drones;T’au Empire;45;40K
+11;Vigilant Squad;Imperial Agents;85;40K
+2;Remora Stealth Drones;T’au Empire;160;40K
+11;Subductor Squad;Imperial Agents;85;40K
+11;Subductor Squad;Imperial Agents;100;40K
+1;Barracuda;T’au Empire;220;40K
+11;Exaction Squad;Imperial Agents;90;40K
+1;Tiger Shark;T’au Empire;325;40K
+1;Inquisitor In Terminator Armour;Imperial Agents;70;40K
+1;AX-1-0 Tiger Shark;T’au Empire;315;40K
+5;Damned Legionnaires;Imperial Agents;90;40K
+10;Damned Legionnaires;Imperial Agents;180;40K
+1;Orca Dropship;T’au Empire;275;40K
+4;Rogue Trader Entourage;Imperial Agents;75;40K
+4;Rogue Trader Entourage;Imperial Agents;105;40K
+1;Manta;T’au Empire;2100;40K
+1;Janus Draik;Imperial Agents;40;40K
+1;Remote Sensor Tower;T’au Empire;50;40K
+1;Neyam Shai Murad;Imperial Agents;40;40K
+1;Drone Sentry Turret;T’au Empire;50;40K
+1;Navigator;Imperial Agents;60;40K
+1;Navigator;Imperial Agents;75;40K
+1;Hive Tyrant;Tyranids;195;40K
+1;UR-025;Imperial Agents;55;40K
+1;The Swarmlord;Tyranids;220;40K
+6;Inquisitorial Agents;Imperial Agents;50;40K
+12;Inquisitorial Agents;Imperial Agents;100;40K
+6;Inquisitorial Agents;Imperial Agents;60;40K
+12;Inquisitorial Agents;Imperial Agents;120;40K
+1;Old One Eye;Tyranids;150;40K
+1;Ministorum Priest;Imperial Agents;40;40K
+1;Broodlord;Tyranids;80;40K
+5;Grey Knights Terminator Squad;Imperial Agents;190;40K
+5;Grey Knights Terminator Squad;Imperial Agents;210;40K
+1;Tervigon;Tyranids;160;40K
+1;Watch Captain Artemis;Imperial Agents;65;40K
+5;Genestealers;Tyranids;75;40K
+10;Genestealers;Tyranids;140;40K
+1;Watch Master;Imperial Agents;95;40K
+1;Watch Master;Imperial Agents;105;40K
+5;Deathwatch Kill Team;Imperial Agents;100;40K
+10;Deathwatch Kill Team;Imperial Agents;190;40K
+10;Deathwatch Kill Team;Imperial Agents;200;40K
+10;Termagants;Tyranids;60;40K
+20;Termagants;Tyranids;120;40K
+1;Corvus Blackstar;Imperial Agents;180;40K
+10;Sisters of Battle Squad;Imperial Agents;100;40K
+10;Sisters of Battle Squad;Imperial Agents;115;40K
+10;Hormagaunts;Tyranids;65;40K
+20;Hormagaunts;Tyranids;130;40K
+1;Sisters of Battle Immolator;Imperial Agents;100;40K
+1;Sisters of Battle Immolator;Imperial Agents;115;40K
+1;Inquisitorial Chimera;Imperial Agents;70;40K
+1;Ripper Swarms;Tyranids;25;40K
+2;Ripper Swarms;Tyranids;40;40K
+3;Ripper Swarms;Tyranids;50;40K
+11;Kill Team Cassius;Imperial Agents;220;40K
+5;Deathwatch Terminator Squad;Imperial Agents;210;40K
+10;Deathwatch Terminator Squad;Imperial Agents;420;40K
+3;Veteran Bike Squad;Imperial Agents;70;40K
+6;Veteran Bike Squad;Imperial Agents;140;40K
+3;Tyrant Guard;Tyranids;80;40K
+6;Tyrant Guard;Tyranids;160;40K
+5;Proteus Kill Team;Imperial Agents;160;40K
+10;Proteus Kill Team;Imperial Agents;320;40K
+5;Fortis Kill Team;Imperial Agents;100;40K
+10;Fortis Kill Team;Imperial Agents;200;40K
+3;Hive Guard;Tyranids;90;40K
+6;Hive Guard;Tyranids;180;40K
+5;Indomitor Kill Team;Imperial Agents;120;40K
+10;Indomitor Kill Team;Imperial Agents;240;40K
+5;Spectrus Kill Team;Imperial Agents;90;40K
+10;Spectrus Kill Team;Imperial Agents;180;40K
+1;Lictor;Tyranids;60;40K
+1;Daemonhost;Imperial Agents;40;40K
+2;Daemonhost;Imperial Agents;80;40K
+1;Maleceptor;Tyranids;170;40K
+1;Jokaero Weaponsmith;Imperial Agents;30;40K
+3;Zoanthropes;Tyranids;100;40K
+6;Zoanthropes;Tyranids;200;40K
+1;Imperial Rhino;Imperial Agents;75;40K
+3;Venomthropes;Tyranids;70;40K
+6;Venomthropes;Tyranids;140;40K
+1;Pyrovores;Tyranids;40;40K
+2;Pyrovores;Tyranids;70;40K
+3;Pyrovores;Tyranids;105;40K
+2;Crusaders;Adepta Sororitas;40;40K
+4;Crusaders;Adepta Sororitas;80;40K
+2;Death Cult Assassins;Adepta Sororitas;55;40K
+4;Death Cult Assassins;Adepta Sororitas;110;40K
+1;Haruspex;Tyranids;125;40K
+3;Arco-flagellants;Adepta Sororitas;45;40K
+10;Arco-flagellants;Adepta Sororitas;140;40K
+1;Deathleaper;Tyranids;80;40K
+1;Penitent Engines;Adepta Sororitas;75;40K
+2;Penitent Engines;Adepta Sororitas;150;40K
+5;Raveners;Tyranids;125;40K
+3;Saint Celestine;Adepta Sororitas;150;40K
+3;Sky-slasher Swarms;Tyranids;60;40K
+1;Canoness;Adepta Sororitas;60;40K
+10;Gargoyles;Tyranids;85;40K
+20;Gargoyles;Tyranids;170;40K
+1;Imagifier;Adepta Sororitas;65;40K
+1;Hospitaller;Adepta Sororitas;60;40K
+1;Harpy;Tyranids;215;40K
+1;Dialogus;Adepta Sororitas;40;40K
+1;Hive Crone;Tyranids;200;40K
+10;Battle Sisters Squad;Adepta Sororitas;105;40K
+1;Mucolid Spores;Tyranids;30;40K
+2;Mucolid Spores;Tyranids;60;40K
+5;Seraphim Squad;Adepta Sororitas;80;40K
+10;Seraphim Squad;Adepta Sororitas;160;40K
+5;Repentia Squad;Adepta Sororitas;75;40K
+10;Repentia Squad;Adepta Sororitas;160;40K
+3;Spore Mines;Tyranids;55;40K
+6;Spore Mines;Tyranids;110;40K
+5;Retributor Squad;Adepta Sororitas;120;40K
+10;Dominion Squad;Adepta Sororitas;120;40K
+1;Tyrannocyte;Tyranids;105;40K
+1;Sororitas Rhino;Adepta Sororitas;75;40K
+1;Carnifexes;Tyranids;90;40K
+2;Carnifexes;Tyranids;180;40K
+1;Immolator;Adepta Sororitas;115;40K
+1;Exorcist;Adepta Sororitas;210;40K
+1;Biovores;Tyranids;50;40K
+2;Biovores;Tyranids;100;40K
+3;Biovores;Tyranids;150;40K
+1;Repressor;Adepta Sororitas;130;40K
+1;Ministorum Priest;Adepta Sororitas;50;40K
+1;Triumph Of Saint Katherine;Adepta Sororitas;235;40K
+1;Trygon;Tyranids;140;40K
+1;Junith Eruita;Adepta Sororitas;80;40K
+1;Mawloc;Tyranids;135;40K
+5;Zephyrim Squad;Adepta Sororitas;80;40K
+10;Zephyrim Squad;Adepta Sororitas;160;40K
+1;Exocrine;Tyranids;140;40K
+1;Mortifiers;Adepta Sororitas;70;40K
+2;Mortifiers;Adepta Sororitas;140;40K
+1;Tyrannofex;Tyranids;200;40K
+1;Battle Sanctum;Adepta Sororitas;170;40K
+1;Toxicrene;Tyranids;150;40K
+1;Palatine;Adepta Sororitas;50;40K
+1;Sporocyst;Tyranids;145;40K
+1;Morvenn Vahl;Adepta Sororitas;185;40K
+1;Malanthrope;Tyranids;75;40K
+2;Aestred Thurga And Agathae Dolan;Adepta Sororitas;70;40K
+1;Dimachaeron;Tyranids;200;40K
+5;Celestian Sacresants;Adepta Sororitas;70;40K
+10;Celestian Sacresants;Adepta Sororitas;140;40K
+1;Barbed Hierodule;Tyranids;340;40K
+1;Dogmata;Adepta Sororitas;45;40K
+1;Harridan;Tyranids;610;40K
+3;Paragon Warsuits;Adepta Sororitas;210;40K
+1;Hierophant;Tyranids;810;40K
+1;Castigator;Adepta Sororitas;160;40K
+1;Scythed Hierodule;Tyranids;330;40K
+10;Sisters Novitiate Squad;Adepta Sororitas;100;40K
+1;Patriarch;Genestealer Cults;75;40K
+2;Daemonifuge;Adepta Sororitas;85;40K
+1;Magus;Genestealer Cults;50;40K
+1;Canoness with Jump Pack;Adepta Sororitas;75;40K
+1;Primus;Genestealer Cults;70;40K
+1;Celestian Sacresant Aveline;Adepta Sororitas;45;40K
+1;Acolyte Iconward;Genestealer Cults;50;40K
+5;Acolyte Hybrids With Autopistols;Genestealer Cults;65;40K
+10;Acolyte Hybrids With Autopistols;Genestealer Cults;130;40K
+10;Neophyte Hybrids;Genestealer Cults;65;40K
+20;Neophyte Hybrids;Genestealer Cults;145;40K
+1;Karanak;Chaos Daemons;75;40K
+1;Skarbrand;Chaos Daemons;305;40K
+5;Hybrid Metamorphs;Genestealer Cults;70;40K
+10;Hybrid Metamorphs;Genestealer Cults;140;40K
+1;Skulltaker;Chaos Daemons;85;40K
+1;Rendmaster On Blood Throne;Chaos Daemons;165;40K
+5;Aberrants;Genestealer Cults;135;40K
+10;Aberrants;Genestealer Cults;300;40K
+5;Flesh Hounds;Chaos Daemons;75;40K
+10;Flesh Hounds;Chaos Daemons;150;40K
+10;Bloodletters;Chaos Daemons;110;40K
+5;Purestrain Genestealers;Genestealer Cults;75;40K
+10;Purestrain Genestealers;Genestealer Cults;140;40K
+3;Bloodcrushers;Chaos Daemons;110;40K
+6;Bloodcrushers;Chaos Daemons;220;40K
+1;Skull Cannon;Chaos Daemons;95;40K
+1;Goliath Truck;Genestealer Cults;85;40K
+1;Kairos Fateweaver;Chaos Daemons;295;40K
+1;Goliath Rockgrinder;Genestealer Cults;120;40K
+1;The Changeling;Chaos Daemons;90;40K
+1;Imotekh The Stormlord;Necrons;100;40K
+1;The Blue Scribes;Chaos Daemons;75;40K
+1;Overlord;Necrons;85;40K
+1;Lord of Change;Chaos Daemons;285;40K
+1;Lord;Necrons;65;40K
+3;Flamers;Chaos Daemons;65;40K
+6;Flamers;Chaos Daemons;130;40K
+1;Nemesor Zahndrekh;Necrons;85;40K
+1;Exalted Flamer;Chaos Daemons;65;40K
+1;Vargard Obyron;Necrons;85;40K
+3;Screamers;Chaos Daemons;80;40K
+6;Screamers;Chaos Daemons;160;40K
+1;Orikan The Diviner;Necrons;80;40K
+1;Burning Chariot;Chaos Daemons;115;40K
+1;Anrakyr The Traveller;Necrons;95;40K
+1;Epidemius;Chaos Daemons;80;40K
+1;Trazyn The Infinite;Necrons;75;40K
+1;Great Unclean One;Chaos Daemons;250;40K
+1;Catacomb Command Barge;Necrons;120;40K
+10;Plaguebearers;Chaos Daemons;110;40K
+10;Necron Warriors;Necrons;90;40K
+20;Necron Warriors;Necrons;200;40K
+3;Nurglings;Chaos Daemons;40;40K
+6;Nurglings;Chaos Daemons;70;40K
+1;Beasts Of Nurgle;Chaos Daemons;65;40K
+2;Beasts Of Nurgle;Chaos Daemons;130;40K
+5;Immortals;Necrons;70;40K
+10;Immortals;Necrons;150;40K
+3;Plague Drones;Chaos Daemons;110;40K
+6;Plague Drones;Chaos Daemons;220;40K
+1;The Masque Of Slaanesh;Chaos Daemons;95;40K
+5;Lychguard;Necrons;85;40K
+10;Lychguard;Necrons;170;40K
+1;Keeper Of Secrets;Chaos Daemons;240;40K
+1;Tranceweaver;Chaos Daemons;60;40K
+5;Deathmarks;Necrons;60;40K
+10;Deathmarks;Necrons;120;40K
+1;Herald Of Slaanesh On Steed Of Slaanesh;Chaos Daemons;70;40K
+1;Tormentbringer On Exalted Seeker Chariot;Chaos Daemons;140;40K
+5;Flayed Ones;Necrons;60;40K
+10;Flayed Ones;Necrons;120;40K
+10;Daemonettes;Chaos Daemons;100;40K
+3;Fiends;Chaos Daemons;95;40K
+6;Fiends;Chaos Daemons;190;40K
+5;Triarch Praetorians;Necrons;90;40K
+10;Triarch Praetorians;Necrons;180;40K
+1;Hellflayers;Chaos Daemons;80;40K
+2;Hellflayers;Chaos Daemons;160;40K
+5;Seekers;Chaos Daemons;80;40K
+10;Seekers;Chaos Daemons;160;40K
+1;Triarch Stalker;Necrons;110;40K
+1;Seeker Chariot;Chaos Daemons;65;40K
+2;Seeker Chariot;Chaos Daemons;130;40K
+1;C’tan Shard of the Nightbringer;Necrons;340;40K
+1;Exalted Seeker Chariot;Chaos Daemons;115;40K
+1;C’tan Shard of the Deceiver;Necrons;310;40K
+1;Be’lakor;Chaos Daemons;375;40K
+1;Ghost Ark;Necrons;115;40K
+1;Daemon Prince of Chaos;Chaos Daemons;190;40K
+1;Night Scythe;Necrons;145;40K
+5;Furies;Chaos Daemons;40;40K
+10;Furies;Chaos Daemons;80;40K
+1;Doom Scythe;Necrons;230;40K
+1;Soul Grinder;Chaos Daemons;180;40K
+3;Canoptek Wraiths;Necrons;110;40K
+6;Canoptek Wraiths;Necrons;220;40K
+1;An’ggrath the Unbound;Chaos Daemons;415;40K
+1;Zarakynel;Chaos Daemons;320;40K
+3;Tomb Blades;Necrons;75;40K
+6;Tomb Blades;Necrons;150;40K
+1;Aetaos’rau’keres;Chaos Daemons;315;40K
+3;Plague Toads;Chaos Daemons;120;40K
+1;Canoptek Spyders;Necrons;75;40K
+2;Canoptek Spyders;Necrons;150;40K
+3;Pox Riders;Chaos Daemons;160;40K
+1;Spined Chaos Beast;Chaos Daemons;145;40K
+1;Monolith;Necrons;400;40K
+1;Giant Chaos Spawn;Chaos Daemons;130;40K
+1;Annihilation Barge;Necrons;105;40K
+1;Scabeiathrax The Bloated;Chaos Daemons;275;40K
+1;Doomsday Ark;Necrons;200;40K
+1;Bloodmaster;Chaos Daemons;65;40K
+1;Transcendent C’tan;Necrons;325;40K
+1;Skullmaster;Chaos Daemons;100;40K
+1;Tesseract Vault;Necrons;425;40K
+1;Changecaster;Chaos Daemons;60;40K
+1;Obelisk;Necrons;300;40K
+1;Fateskimmer;Chaos Daemons;95;40K
+1;Canoptek Tomb Stalker;Necrons;130;40K
+1;Fluxmaster;Chaos Daemons;60;40K
+3;Canoptek Acanthrites;Necrons;85;40K
+6;Canoptek Acanthrites;Necrons;170;40K
+1;Rotigus;Chaos Daemons;265;40K
+1;Horticulous Slimux;Chaos Daemons;120;40K
+1;Canoptek Tomb Sentinel;Necrons;115;40K
+1;Poxbringer;Chaos Daemons;55;40K
+1;Night Shroud;Necrons;140;40K
+1;Sloppity Bilepiper;Chaos Daemons;55;40K
+1;Sentry Pylon;Necrons;120;40K
+1;Spoilpox Scrivener;Chaos Daemons;60;40K
+1;Tesseract Ark;Necrons;130;40K
+1;Feculent Gnarlmaw;Chaos Daemons;100;40K
+1;Gauss Pylon;Necrons;210;40K
+1;Skull Altar;Chaos Daemons;105;40K
+1;Infernal Enrapturess;Chaos Daemons;60;40K
+1;Contorted Epitome;Chaos Daemons;100;40K
+1;Shalaxi Helbane;Chaos Daemons;340;40K
+1;Syll’esske;Chaos Daemons;120;40K
+1;Bloodthirster;Chaos Daemons;305;40K
+10;Blue Horrors;Chaos Daemons;125;40K
+10;Pink Horrors;Chaos Daemons;140;40K
+1;Daemon Prince Of Chaos With Wings;Chaos Daemons;180;40K
+1;Abaddon The Despoiler;Chaos Space Marines;270;40K
+1;Huron Blackheart;Chaos Space Marines;120;40K
+1;Cypher;Chaos Space Marines;90;40K
+2;Fabius Bile;Chaos Space Marines;100;40K
+1;Chaos Lord;Chaos Space Marines;90;40K
+1;Chaos Lord In Terminator Armour;Chaos Space Marines;85;40K
+1;Chaos Lord On Bike;Chaos Space Marines;95;40K
+1;Chaos Lord On Juggernaut;Chaos Space Marines;115;40K
+1;Chaos Lord On Disc Of Tzeentch;Chaos Space Marines;100;40K
+1;Chaos Lord On Palanquin Of Nurgle;Chaos Space Marines;90;40K
+1;Chaos Lord On Steed Of Slaanesh;Chaos Space Marines;100;40K
+3;Dark Apostle;Chaos Space Marines;65;40K
+1;Heretic Astartes Daemon Prince;Chaos Space Marines;165;40K
+1;Sorcerer;Chaos Space Marines;60;40K
+1;Sorcerer In Terminator Armour;Chaos Space Marines;80;40K
+1;Sorcerer On Bike;Chaos Space Marines;75;40K
+1;Sorcerer On Disc Of Tzeentch;Chaos Space Marines;80;40K
+1;Sorcerer On Palanquin Of Nurgle;Chaos Space Marines;80;40K
+1;Sorcerer On Steed Of Slaanesh;Chaos Space Marines;85;40K
+1;Warpsmith;Chaos Space Marines;70;40K
+10;Cultist Mob;Chaos Space Marines;50;40K
+20;Cultist Mob;Chaos Space Marines;100;40K
+5;Chaos Terminator Squad;Chaos Space Marines;180;40K
+10;Chaos Terminator Squad;Chaos Space Marines;360;40K
+5;Chosen;Chaos Space Marines;125;40K
+10;Chosen;Chaos Space Marines;250;40K
+5;Possessed;Chaos Space Marines;120;40K
+10;Possessed;Chaos Space Marines;240;40K
+1;Helbrute;Chaos Space Marines;130;40K
+3;Mutilators (Legendary);Chaos Space Marines;185;40K
+1;Chaos Rhino;Chaos Space Marines;75;40K
+3;Chaos Bikers;Chaos Space Marines;70;40K
+6;Chaos Bikers;Chaos Space Marines;130;40K
+5;Raptors;Chaos Space Marines;110;40K
+10;Raptors;Chaos Space Marines;210;40K
+5;Warp Talons;Chaos Space Marines;125;40K
+10;Warp Talons;Chaos Space Marines;270;40K
+2;Chaos Spawn;Chaos Space Marines;70;40K
+1;Heldrake;Chaos Space Marines;205;40K
+1;Chaos Land Raider;Chaos Space Marines;220;40K
+1;Chaos Predator Destructor;Chaos Space Marines;140;40K
+1;Chaos Vindicator;Chaos Space Marines;185;40K
+2;Obliterators;Chaos Space Marines;160;40K
+5;Havocs;Chaos Space Marines;125;40K
+1;Archon;Drukhari;80;40K
+1;Forgefiend;Chaos Space Marines;170;40K
+1;Succubus;Drukhari;50;40K
+1;Maulerfiend;Chaos Space Marines;130;40K
+1;Lelith Hesperax;Drukhari;85;40K
+1;Defiler;Chaos Space Marines;250;40K
+1;Haemonculus;Drukhari;60;40K
+1;Khorne Lord Of Skulls;Chaos Space Marines;450;40K
+1;Urien Rakarth;Drukhari;80;40K
+1;Blood Slaughterer;Chaos Space Marines;160;40K
+1;Drazhar;Drukhari;85;40K
+1;Greater Blight Drone;Chaos Space Marines;150;40K
+10;Kabalite Warriors;Drukhari;115;40K
+1;Decimator;Chaos Space Marines;165;40K
+10;Wyches;Drukhari;90;40K
+1;Kytan Ravager;Chaos Space Marines;400;40K
+5;Incubi;Drukhari;90;40K
+10;Incubi;Drukhari;180;40K
+1;Greater Brass Scorpion;Chaos Space Marines;500;40K
+1;Chaos Deimos Predator;Chaos Space Marines;115;40K
+5;Mandrakes;Drukhari;75;40K
+10;Mandrakes;Drukhari;150;40K
+1;Dreadclaw Drop Pod;Chaos Space Marines;115;40K
+1;Kharybdis Assault Claw;Chaos Space Marines;300;40K
+5;Wracks;Drukhari;60;40K
+8;Wracks;Drukhari;100;40K
+10;Wracks;Drukhari;120;40K
+1;Hell Blade;Chaos Space Marines;115;40K
+1;Hell Talon;Chaos Space Marines;140;40K
+1;Chaos Thunderhawk;Chaos Space Marines;840;40K
+3;Grotesques;Drukhari;80;40K
+6;Grotesques;Drukhari;170;40K
+1;Exalted Champion;Chaos Space Marines;70;40K
+1;Haarken Worldclaimer;Chaos Space Marines;90;40K
+7;Beastmaster;Drukhari;135;40K
+1;Master Of Possession;Chaos Space Marines;60;40K
+1;Raider;Drukhari;85;40K
+1;Lord Discordant On Helstalker;Chaos Space Marines;160;40K
+1;Venom;Drukhari;70;40K
+1;Master Of Executions;Chaos Space Marines;80;40K
+3;Reavers;Drukhari;70;40K
+6;Reavers;Drukhari;140;40K
+1;Venomcrawler;Chaos Space Marines;110;40K
+1;Noctilith Crown;Chaos Space Marines;125;40K
+5;Hellions;Drukhari;85;40K
+10;Hellions;Drukhari;170;40K
+1;Rogue Psyker;Chaos Space Marines;60;40K
+4;Negavolt Cultists;Chaos Space Marines;55;40K
+1;Razorwing Jetfighter;Drukhari;170;40K
+10;Fellgor Beastmen;Chaos Space Marines;70;40K
+1;Voidraven Bomber;Drukhari;245;40K
+5;Dark Commune;Chaos Space Marines;90;40K
+5;Scourges with Heavy Weapons;Drukhari;130;40K
+5;Legionaries;Chaos Space Marines;90;40K
+10;Legionaries;Chaos Space Marines;170;40K
+1;Talos;Drukhari;80;40K
+2;Talos;Drukhari;160;40K
+8;Accursed Cultists;Chaos Space Marines;90;40K
+16;Accursed Cultists;Chaos Space Marines;195;40K
+1;Chaos Predator Annihilator;Chaos Space Marines;135;40K
+1;Cronos;Drukhari;55;40K
+2;Cronos;Drukhari;110;40K
+2;Traitor Enforcer;Chaos Space Marines;55;40K
+10;Traitor Guardsmen Squad;Chaos Space Marines;70;40K
+1;Ravager;Drukhari;110;40K
+16;Mutoid Vermin;Chaos Space Marines;85;40K
+1;Reaper;Drukhari;115;40K
+7;Gellerpox Infected;Chaos Space Marines;125;40K
+1;Tantalus;Drukhari;230;40K
+1;Vashtorr The Arkifane;Chaos Space Marines;175;40K
+1;Heretic Astartes Daemon Prince With Wings;Chaos Space Marines;180;40K
+1;Renegade Enforcer;Chaos Space Marines;65;40K
+3;Renegade Heavy Weapons Squad;Chaos Space Marines;75;40K
+4;Renegade Ogryn Beast Handler;Chaos Space Marines;40;40K
+7;Renegade Ogryn Beast Handler;Chaos Space Marines;70;40K
+3;Renegade Ogryn Brutes;Chaos Space Marines;95;40K
+3;Renegade Plague Ogryns;Chaos Space Marines;95;40K
+10;Khorne Berzerkers;Chaos Space Marines;180;40K
+20;Khorne Berzerkers;Chaos Space Marines;360;40K
+5;Rubric Marines;Chaos Space Marines;100;40K
+10;Rubric Marines;Chaos Space Marines;190;40K
+5;Plague Marines;Chaos Space Marines;95;40K
+7;Plague Marines;Chaos Space Marines;130;40K
+10;Plague Marines;Chaos Space Marines;190;40K
+1;Terrax-pattern Termite;Chaos Space Marines;200;40K
+1;Land Raider Achilles;Chaos Space Marines;230;40K
+1;Land Raider Proteus;Chaos Space Marines;220;40K
+1;Fire Raptor Gunship;Chaos Space Marines;290;40K
+1;Spartan;Chaos Space Marines;300;40K
+1;Deredeo Dreadnought;Chaos Space Marines;160;40K
+1;Cerberus;Chaos Space Marines;270;40K
+1;Kratos;Chaos Space Marines;240;40K
+1;Sokar-pattern Stormbird;Chaos Space Marines;900;40K
+1;Sicaran Battle Tank;Chaos Space Marines;160;40K
+1;Mastodon;Chaos Space Marines;540;40K
+1;Leviathan Dreadnought;Chaos Space Marines;160;40K
+1;Fellblade;Chaos Space Marines;480;40K
+1;Relic Contemptor Dreadnought;Chaos Space Marines;140;40K
+1;Whirlwind Scorpius;Chaos Space Marines;115;40K
+1;Xiphon Interceptor;Chaos Space Marines;115;40K
+1;Rapier Carrier;Chaos Space Marines;90;40K
+1;Storm Eagle Gunship;Chaos Space Marines;250;40K
+1;Sicaran Venator;Chaos Space Marines;180;40K
+1;Typhon;Chaos Space Marines;320;40K
+1;Sicaran Punisher;Chaos Space Marines;160;40K
+1;Falchion;Chaos Space Marines;420;40K
+1;Chaos Lord with Jump Pack;Chaos Space Marines;80;40K
+1;Cultist Firebrand;Chaos Space Marines;45;40K
+10;Cultist Mob with Firearms;Chaos Space Marines;50;40K
+20;Cultist Mob with Firearms;Chaos Space Marines;100;40K
+1;Death Guard Chaos Lord;Death Guard;65;40K
+1;Death Guard Chaos Lord In Terminator Armour;Death Guard;85;40K
+1;Death Guard Sorcerer In Terminator Armour;Death Guard;70;40K
+10;Death Guard Cultists;Death Guard;50;40K
+20;Death Guard Cultists;Death Guard;100;40K
+5;Plague Marines;Death Guard;95;40K
+7;Plague Marines;Death Guard;130;40K
+10;Plague Marines;Death Guard;190;40K
+5;Death Guard Possessed;Death Guard;155;40K
+10;Death Guard Possessed;Death Guard;310;40K
+1;Helbrute;Death Guard;115;40K
+1;Chaos Rhino;Death Guard;85;40K
+2;Chaos Spawn;Death Guard;80;40K
+1;Chaos Land Raider;Death Guard;220;40K
+1;Chaos Predator Annihilator;Death Guard;135;40K
+1;Daemon Prince of Nurgle;Death Guard;195;40K
+1;Typhus;Death Guard;100;40K
+1;Lord of Contagion;Death Guard;120;40K
+1;Malignant Plaguecaster;Death Guard;60;40K
+10;Poxwalkers;Death Guard;65;40K
+20;Poxwalkers;Death Guard;130;40K
+1;Foetid Bloat-drone;Death Guard;100;40K
+1;Noxious Blightbringer;Death Guard;50;40K
+1;Foul Blightspawn;Death Guard;75;40K
+1;Biologus Putrifier;Death Guard;60;40K
+1;Plague Surgeon;Death Guard;50;40K
+1;Tallyman;Death Guard;50;40K
+3;Deathshroud Terminators;Death Guard;160;40K
+6;Deathshroud Terminators;Death Guard;320;40K
+3;Blightlord Terminators;Death Guard;115;40K
+5;Blightlord Terminators;Death Guard;185;40K
+10;Blightlord Terminators;Death Guard;370;40K
+1;Myphitic Blight-hauler;Death Guard;100;40K
+2;Myphitic Blight-hauler;Death Guard;200;40K
+1;Plagueburst Crawler;Death Guard;210;40K
+1;Mortarion;Death Guard;380;40K
+1;Lord of Virulence;Death Guard;100;40K
+1;Chaos Predator Destructor;Death Guard;145;40K
+1;Miasmic Malignifier;Death Guard;105;40K
+1;Daemon Prince of Nurgle with Wings;Death Guard;180;40K
+1;Icon Bearer;Death Guard;45;40K
+1;Chaos Thunderhawk;Death Guard;840;40K
+1;Greater Blight Drone;Death Guard;150;40K
+1;Chaos Lord On Palanquin Of Nurgle;Death Guard;90;40K
+7;Gellerpox Infected;Death Guard;125;40K
+1;Hell Blade;Death Guard;115;40K
+1;Hell Talon;Death Guard;140;40K
+16;Mutoid Vermin;Death Guard;85;40K
+1;Sorcerer On Palanquin Of Nurgle;Death Guard;80;40K
+1;Terrax-pattern Termite;Death Guard;200;40K
+1;Land Raider Achilles;Death Guard;230;40K
+1;Land Raider Proteus;Death Guard;220;40K
+1;Fire Raptor Gunship;Death Guard;290;40K
+1;Spartan;Death Guard;300;40K
+1;Deredeo Dreadnought;Death Guard;160;40K
+1;Cerberus;Death Guard;270;40K
+1;Kratos;Death Guard;240;40K
+1;Primaris Redoubt;Unaligned Forces;220;40K
+1;Sokar-pattern Stormbird;Death Guard;900;40K
+1;Sicaran Battle Tank;Death Guard;160;40K
+1;Mastodon;Death Guard;540;40K
+1;Leviathan Dreadnought;Death Guard;160;40K
+1;Fellblade;Death Guard;480;40K
+1;Relic Contemptor Dreadnought;Death Guard;140;40K
+1;Whirlwind Scorpius;Death Guard;115;40K
+1;Xiphon Interceptor;Death Guard;115;40K
+1;Rapier Carrier;Death Guard;90;40K
+1;Storm Eagle Gunship;Death Guard;250;40K
+1;Sicaran Venator;Death Guard;180;40K
+1;Typhon;Death Guard;320;40K
+1;Sicaran Punisher;Death Guard;160;40K
+1;Falchion;Death Guard;420;40K
+1;Knight Paladin;Imperial Knights;375;40K
+1;Knight Errant;Imperial Knights;355;40K
+1;Knight Warden;Imperial Knights;375;40K
+1;Knight Gallant;Imperial Knights;355;40K
+1;Knight Crusader;Imperial Knights;385;40K
+1;Acastus Knight Porphyrion;Imperial Knights;700;40K
+1;Cerastus Knight Acheron;Imperial Knights;395;40K
+1;Cerastus Knight Atrapos;Imperial Knights;405;40K
+1;Cerastus Knight Castigator;Imperial Knights;395;40K
+1;Cerastus Knight Lancer;Imperial Knights;395;40K
+1;Questoris Knight Magaera;Imperial Knights;385;40K
+1;Questoris Knight Styrix;Imperial Knights;385;40K
+1;Warhound Titan;Adeptus Titanicus;1100;40K
+1;Reaver Titan;Adeptus Titanicus;2200;40K
+1;Warlord Titan;Adeptus Titanicus;3500;40K
+1;Raven Strike Fighter;Drukhari;170;40K
+4;Court of the Archon;Drukhari;95;40K
+1;Bastion;Unaligned Forces;275;40K
+1;Vengeance Weapon Battery;Unaligned Forces;140;40K
+1;Firestorm Redoubt;Unaligned Forces;260;40K
+1;Plasma Obliterator;Unaligned Forces;225;40K
+1;Macro-cannon Aquila Strongpoint;Unaligned Forces;550;40K
+1;Vortex Missile Strongpoint;Unaligned Forces;525;40K
+1;Void Shield Generator;Unaligned Forces;155;40K
+1;Skyshield Landing Pad;Unaligned Forces;125;40K
+1;Abominant;Genestealer Cults;85;40K
+1;Jackal Alphus;Genestealer Cults;55;40K
+1;Clamavus;Genestealer Cults;50;40K
+1;Locus;Genestealer Cults;45;40K
+1;Sanctus;Genestealer Cults;50;40K
+1;Kelermorph;Genestealer Cults;60;40K
+1;Nexos;Genestealer Cults;60;40K
+1;Biophagus;Genestealer Cults;50;40K
+1;Achilles Ridgerunners;Genestealer Cults;95;40K
+2;Achilles Ridgerunners;Genestealer Cults;170;40K
+5;Atalan Jackals;Genestealer Cults;85;40K
+10;Atalan Jackals;Genestealer Cults;150;40K
+1;Tectonic Fragdrill;Genestealer Cults;125;40K
+1;Reductus Saboteur;Genestealer Cults;65;40K
+1;Benefictus;Genestealer Cults;70;40K
+5;Acolyte Hybrids With Hand Flamers;Genestealer Cults;70;40K
+10;Acolyte Hybrids With Hand Flamers;Genestealer Cults;140;40K
+1;Sorcerer;Thousand Sons;80;40K
+1;Sorcerer In Terminator Armour;Thousand Sons;85;40K
+5;Rubric Marines;Thousand Sons;100;40K
+10;Rubric Marines;Thousand Sons;190;40K
+1;Helbrute;Thousand Sons;110;40K
+1;Chaos Rhino;Thousand Sons;90;40K
+2;Chaos Spawn;Thousand Sons;65;40K
+1;Heldrake;Thousand Sons;215;40K
+1;Chaos Land Raider;Thousand Sons;220;40K
+1;Chaos Predator Destructor;Thousand Sons;130;40K
+1;Chaos Vindicator;Thousand Sons;185;40K
+1;Forgefiend;Thousand Sons;130;40K
+1;Maulerfiend;Thousand Sons;120;40K
+1;Defiler;Thousand Sons;250;40K
+1;Magnus The Red;Thousand Sons;435;40K
+1;Ahriman;Thousand Sons;100;40K
+1;Exalted Sorcerer;Thousand Sons;80;40K
+10;Tzaangors;Thousand Sons;70;40K
+20;Tzaangors;Thousand Sons;160;40K
+5;Scarab Occult Terminators;Thousand Sons;180;40K
+10;Scarab Occult Terminators;Thousand Sons;360;40K
+1;Daemon Prince of Tzeentch;Thousand Sons;180;40K
+1;Chaos Cerastus Knight Acheron;Chaos Knights;385;40K
+1;Chaos Cerastus Knight Lancer;Chaos Knights;385;40K
+1;Chaos Cerastus Knight Castigator;Chaos Knights;385;40K
+1;Chaos Cerastus Knight Atrapos;Chaos Knights;395;40K
+1;Chaos Questoris Knight Magaera;Chaos Knights;375;40K
+1;Chaos Acastus Knight Porphyrion;Chaos Knights;700;40K
+1;Chaos Questoris Knight Styrix;Chaos Knights;375;40K
+1;Cerberus;Space Marines;270;40K
+5;Vanguard Veteran Squad;Space Marines;120;40K
+10;Vanguard Veteran Squad;Space Marines;240;40K
+1;Invictor Tactical Warsuit;Space Marines;125;40K
+5;Intercessor Squad;Space Marines;80;40K
+10;Intercessor Squad;Space Marines;160;40K
+1;Invader ATV;Space Marines;60;40K
+5;Incursor Squad;Space Marines;80;40K
+10;Incursor Squad;Space Marines;160;40K
+5;Scout Squad;Space Marines;70;40K
+10;Scout Squad;Space Marines;140;40K
+1;Sicaran Arcus;Space Marines;160;40K
+1;Sergeant Telion;Space Marines;70;40K
+1;Sicaran Omega;Space Marines;180;40K
+2;Thunderfire Cannon;Space Marines;90;40K
+1;Bladeguard Ancient;Space Marines;45;40K
+1;Grey Knights Thunderhawk Gunship;Grey Knights;805;40K
+2;Company Veterans On Bikes;Space Marines;110;40K
+5;Company Veterans On Bikes;Space Marines;275;40K
+1;Grand Master In Nemesis Dreadknight;Grey Knights;225;40K
+1;Brotherhood Librarian;Grey Knights;80;40K
+1;Company Champion On Bike;Space Marines;60;40K
+1;Brotherhood Chaplain;Grey Knights;65;40K
+1;Land Speeder Tempest;Space Marines;95;40K
+1;Stormhawk Interceptor;Grey Knights;160;40K
+1;Land Speeder Tornado;Space Marines;95;40K
+1;Stormtalon Gunship;Grey Knights;170;40K
+1;Captain In Gravis Armour;Space Marines;80;40K
+1;Grey Knights Relic Razorback;Grey Knights;95;40K
+1;Chaplain;Space Marines;60;40K
+1;Ûthar the Destined;Leagues of Votann;95;40K
+1;Kratos;Space Marines;240;40K
+1;Kâhl;Leagues of Votann;65;40K
+5;Heavy Intercessor Squad;Space Marines;100;40K
+10;Heavy Intercessor Squad;Space Marines;200;40K
+1;Einhyr Champion;Leagues of Votann;70;40K
+3;Grimnyr;Leagues of Votann;65;40K
+1;Vindicator Laser Destroyer;Space Marines;175;40K
+5;Brôkhyr Iron-master;Leagues of Votann;75;40K
+1;Sokar-pattern Stormbird;Space Marines;900;40K
+10;Hearthkyn Warriors;Leagues of Votann;100;40K
+1;Ancient on Bike;Space Marines;90;40K
+5;Einhyr Hearthguard;Leagues of Votann;135;40K
+10;Einhyr Hearthguard;Leagues of Votann;270;40K
+5;Terminator Squad;Space Marines;170;40K
+10;Terminator Squad;Space Marines;340;40K
+5;Cthonian Beserks;Leagues of Votann;100;40K
+10;Cthonian Beserks;Leagues of Votann;200;40K
+3;Hernkyn Pioneers;Leagues of Votann;80;40K
+6;Hernkyn Pioneers;Leagues of Votann;160;40K
+1;Terminus Ultra;Space Marines;285;40K
+1;Sagitaur;Leagues of Votann;90;40K
+1;Sicaran Battle Tank;Space Marines;160;40K
+3;Brôkhyr Thunderkyn;Leagues of Votann;80;40K
+6;Brôkhyr Thunderkyn;Leagues of Votann;160;40K
+1;Vindicator;Space Marines;185;40K
+1;Hekaton Land Fortress;Leagues of Votann;240;40K
+1;Mastodon;Space Marines;540;40K
+10;Hernkyn Yaegirs;Leagues of Votann;90;40K
+1;Stormtalon Gunship;Space Marines;165;40K
+1;Stormraven Gunship;Space Marines;280;40K
+1;Chaplain Venerable Dreadnought;Space Marines;150;40K
+3;Centurion Devastator Squad;Space Marines;175;40K
+6;Centurion Devastator Squad;Space Marines;350;40K
+1;Librarian with Jump Pack;Space Marines;75;40K
+1;Lieutenant In Reiver Armour;Space Marines;55;40K
+1;Lieutenant;Space Marines;55;40K
+1;Land Raider Prometheus;Space Marines;250;40K
+1;Librarian on Bike;Space Marines;80;40K
+1;Seraptek Heavy Construct;Necrons;540;40K
+1;Illuminor Szeras;Necrons;165;40K
+1;Plasmancer;Necrons;55;40K
+1;Skorpekh Lord;Necrons;90;40K
+3;Skorpekh Destroyers;Necrons;90;40K
+6;Skorpekh Destroyers;Necrons;180;40K
+2;Cryptothralls;Necrons;60;40K
+1;Grot Bomm Launcha;Orks;50;40K
+1;Canoptek Reanimator;Necrons;75;40K
+1;Attack Fighta;Orks;100;40K
+3;Canoptek Scarab Swarms;Necrons;40;40K
+6;Canoptek Scarab Swarms;Necrons;80;40K
+1;Fighta-bommer;Orks;100;40K
+1;Canoptek Doomstalker;Necrons;140;40K
+1;Deff Rolla Battle Fortress;Orks;250;40K
+1;Lokhust Heavy Destroyers;Necrons;55;40K
+2;Lokhust Heavy Destroyers;Necrons;110;40K
+3;Lokhust Heavy Destroyers;Necrons;165;40K
+1;Kill Krusha;Orks;230;40K
+1;Royal Warden;Necrons;50;40K
+1;Lokhust Lord;Necrons;80;40K
+3;Knarloc Riders;T’au Empire;110;40K
+1;Technomancer;Necrons;80;40K
+1;Great Knarloc;T’au Empire;100;40K
+1;Psychomancer;Necrons;55;40K
+1;Chronomancer;Necrons;65;40K
+1;Hexmark Destroyer;Necrons;75;40K
+1;C’tan Shard of the Void Dragon;Necrons;330;40K
+3;Ophydian Destroyers;Necrons;80;40K
+6;Ophydian Destroyers;Necrons;160;40K
+1;Lokhust Destroyers;Necrons;40;40K
+2;Lokhust Destroyers;Necrons;60;40K
+3;Lokhust Destroyers;Necrons;90;40K
+6;Lokhust Destroyers;Necrons;180;40K
+3;The Silent King;Necrons;400;40K
+1;Convergence Of Dominion;Necrons;60;40K
+2;Convergence Of Dominion;Necrons;120;40K
+3;Convergence Of Dominion;Necrons;180;40K
+1;Ravenwing Talonmaster;Space Marines;105;40K
+1;Tomb Citadel Walls;Necrons;920;40K
+1;Overlord with translocation shroud;Necrons;85;40K
+1;Tzaangor Shaman;Thousand Sons;60;40K
+3;Tzaangor Enlightened;Thousand Sons;45;40K
+6;Tzaangor Enlightened;Thousand Sons;90;40K
+1;Mutalith Vortex Beast;Thousand Sons;170;40K
+1;Commander In Crisis Battlesuit;T’au Empire;80;40K
+1;Commander In Enforcer Battlesuit;T’au Empire;80;40K
+1;Armiger Helverin;Imperial Knights;135;40K
+1;Armiger Warglaive;Imperial Knights;140;40K
+1;Knight Preceptor;Imperial Knights;365;40K
+1;Canis Rex;Imperial Knights;415;40K
+1;Knight Castellan;Imperial Knights;410;40K
+1;Knight Valiant;Imperial Knights;410;40K
+5;Scout Sniper Squad;Space Marines;75;40K
+10;Scout Sniper Squad;Space Marines;150;40K
+1;Sergeant Chronus;Space Marines;75;40K
+1;Techmarine on Bike;Space Marines;110;40K
+1;Big Mek With Shokk Attack Gun;Orks;80;40K
+1;Deffkilla Wartrike;Orks;80;40K
+1;Kustom Boosta-blasta;Orks;70;40K
+1;Shokkjump Dragsta;Orks;70;40K
+1;Boomdakka Snazzwagon;Orks;70;40K
+1;Megatrakk Scrapjet;Orks;75;40K
+1;Rukkatrukk Squigbuggy;Orks;95;40K
+1;Mekboy Workshop;Orks;80;40K
+1;Da Red Gobbo;Orks;40;40K
+1;Big Mek With Kustom Force Field;Orks;55;40K
+1;Mega Dread;Orks;225;40K
+1;Zodgrod Wortsnagga;Orks;90;40K
+1;Beastboss;Orks;80;40K
+1;Beastboss On Squigosaur;Orks;110;40K
+1;Painboss;Orks;70;40K
+1;Wurrboy;Orks;60;40K
+1;Mozrog Skragbad;Orks;145;40K
+10;Beast Snagga Boyz;Orks;95;40K
+20;Beast Snagga Boyz;Orks;190;40K
+4;Squighog Boyz;Orks;150;40K
+8;Squighog Boyz;Orks;300;40K
+1;Kill Rig;Orks;155;40K
+1;Hunta Rig;Orks;135;40K
+1;Big’ed Bossbunka;Orks;135;40K
+3;Deffkoptas With Big Shootas;Orks;130;40K
+1;Big Mek;Orks;70;40K
+1;Ufthak Blackhawk;Orks;70;40K
+4;Spindle Drones;Unaligned Forces;35;40K
+5;Assault Intercessor Squad;Space Marines;75;40K
+10;Assault Intercessor Squad;Space Marines;150;40K
+1;Land Raider Achilles;Space Marines;230;40K
+1;Land Raider Proteus;Space Marines;220;40K
+1;Fire Raptor Gunship;Space Marines;290;40K
+1;Storm Speeder Thunderstrike;Space Marines;135;40K
+1;Chief Librarian Tigurius;Space Marines;75;40K
+1;Ambull;Unaligned Forces;85;40K
+1;Acastus Knight Asterius;Imperial Knights;765;40K
+1;Knight Despoiler;Chaos Knights;390;40K
+1;Armiger Moirax;Imperial Knights;150;40K
+1;Knight Tyrant;Chaos Knights;410;40K
+1;Knight Desecrator;Chaos Knights;355;40K
+1;Tech-priest Dominus;Imperial Knights;65;40K
+1;Knight Rampager;Chaos Knights;365;40K
+1;Tech-priest Manipulus;Imperial Knights;60;40K
+1;Chaos Acastus Knight Asterius;Chaos Knights;765;40K
+1;Skitarii Marshal;Imperial Knights;35;40K
+1;War Dog Moirax;Chaos Knights;150;40K
+10;Skitarii Rangers;Imperial Knights;85;40K
+10;Skitarii Vanguard;Imperial Knights;95;40K
+1;Falchion;Space Marines;420;40K
+1;Gladiator Reaper;Space Marines;160;40K
+3;Eliminator Squad;Space Marines;85;40K
+1;Gladiator Valiant;Space Marines;150;40K
+1;Terrax-pattern Termite;Space Marines;200;40K
+5;Death Company Marines;Space Marines;85;40K
+10;Death Company Marines;Space Marines;160;40K
+1;War Dog Executioner;Chaos Knights;130;40K
+1;War Dog Stalker;Chaos Knights;140;40K
+1;War Dog Karnivore;Chaos Knights;150;40K
+1;Attack Bike Squad;Space Marines;55;40K
+2;Attack Bike Squad;Space Marines;110;40K
+3;Attack Bike Squad;Space Marines;165;40K
+1;War Dog Brigand;Chaos Knights;140;40K
+1;War Dog Huntsman;Chaos Knights;140;40K
+1;Knight Abominant;Chaos Knights;355;40K
+1;Warbringer Nemesis Titan;Adeptus Titanicus;2600;40K
+1;Cultist Firebrand;Chaos Knights;45;40K
+5;Dark Commune;Chaos Knights;90;40K
+2;Traitor Enforcer;Chaos Knights;55;40K
+1;Renegade Enforcer;Chaos Knights;65;40K
+1;Rogue Psyker;Chaos Knights;60;40K
+10;Cultist Mob;Chaos Knights;50;40K
+20;Cultist Mob;Chaos Knights;100;40K
+10;Cultist Mob with Firearms;Chaos Knights;50;40K
+20;Cultist Mob with Firearms;Chaos Knights;100;40K
+8;Accursed Cultists;Chaos Knights;90;40K
+16;Accursed Cultists;Chaos Knights;195;40K
+10;Fellgor Beastmen;Chaos Knights;70;40K
+1;The Archivist;Unaligned Forces;70;40K
+5;Hellblaster Squad;Space Marines;110;40K
+10;Hellblaster Squad;Space Marines;220;40K
+3;Aggressor Squad;Space Marines;95;40K
+6;Aggressor Squad;Space Marines;190;40K
+1;Adrax Agatone;Space Marines;85;40K
+1;Land Speeder Typhoon;Space Marines;100;40K
+5;Command Squad;Space Marines;165;40K
+1;Darnath Lysander;Space Marines;100;40K
+1;Land Raider Redeemer;Space Marines;270;40K
+5;Devastator Squad;Space Marines;120;40K
+10;Devastator Squad;Space Marines;200;40K
+1;Primaris Company Champion;Space Marines;55;40K
+1;Spartan;Space Marines;300;40K
+5;Sternguard Veteran Squad;Space Marines;100;40K
+10;Sternguard Veteran Squad;Space Marines;200;40K
+1;Stalker;Space Marines;140;40K
+1;Librarian;Space Marines;65;40K
+1;Deathstorm Drop Pod;Space Marines;95;40K
+1;Deimos Predator;Space Marines;115;40K
+1;Deredeo Dreadnought;Space Marines;160;40K
+5;Desolation Squad;Space Marines;200;40K
+5;Death Company Marines with Bolt Rifles;Space Marines;85;40K
+10;Death Company Marines with Bolt Rifles;Space Marines;160;40K
+1;Sammael;Space Marines;115;40K
+1;Lazarus;Space Marines;70;40K
+5;Deathwing Command Squad;Space Marines;200;40K
+10;Deathwing Command Squad;Space Marines;400;40K
+1;Guardian Drone;Unaligned Forces;45;40K
+1;Deathwing Strikemaster;Space Marines;80;40K
+1;Tor Garadon;Space Marines;90;40K
+1;Infernal Master;Thousand Sons;95;40K
+1;Chaos Predator Annihilator;Thousand Sons;130;40K
+1;Winged Hive Tyrant;Tyranids;170;40K
+1;Parasite Of Mortrex;Tyranids;80;40K
+1;Lieutenant In Phobos Armour;Space Marines;55;40K
+1;Impulsor;Space Marines;80;40K
+12;Kroot Farstalkers;T’au Empire;85;40K
+1;Angron;World Eaters;340;40K
+1;Khârn The Betrayer;World Eaters;100;40K
+1;Lord Invocatus;World Eaters;110;40K
+1;Daemon Prince of Khorne;World Eaters;200;40K
+1;Lord on Juggernaut;World Eaters;105;40K
+1;Ancient In Terminator Armour;Space Marines;75;40K
+1;Master of Executions;World Eaters;60;40K
+1;Chaplain Cassius;Space Marines;80;40K
+10;Khorne Berzerkers;World Eaters;180;40K
+20;Khorne Berzerkers;World Eaters;360;40K
+1;Lion El’jonson;Space Marines;315;40K
+1;Astraeus;Space Marines;525;40K
+10;Jakhals;World Eaters;65;40K
+20;Jakhals;World Eaters;140;40K
+1;Captain In Phobos Armour;Space Marines;70;40K
+1;Captain on Bike;Space Marines;95;40K
+5;Chaos Terminators;World Eaters;175;40K
+10;Chaos Terminators;World Eaters;350;40K
+3;Centurion Assault Squad;Space Marines;150;40K
+6;Centurion Assault Squad;Space Marines;300;40K
+1;Fellblade;Space Marines;480;40K
+3;Eightbound;World Eaters;135;40K
+6;Eightbound;World Eaters;270;40K
+1;Gladiator Lancer;Space Marines;160;40K
+1;Ironclad Dreadnought;Space Marines;150;40K
+3;Exalted Eightbound;World Eaters;140;40K
+6;Exalted Eightbound;World Eaters;280;40K
+1;Judiciar;Space Marines;70;40K
+1;Kayvaan Shrike;Space Marines;100;40K
+1;Helbrute;World Eaters;120;40K
+1;Kor’sarro Khan;Space Marines;60;40K
+2;Chaos Spawn;World Eaters;90;40K
+1;Land Raider Helios;Space Marines;220;40K
+1;Chaos Land Raider;World Eaters;220;40K
+1;Land Speeder;Space Marines;80;40K
+1;Chaos Predator Destructor;World Eaters;145;40K
+3;Outrider Squad;Space Marines;80;40K
+6;Outrider Squad;Space Marines;160;40K
+1;Chaos Predator Annihilator;World Eaters;145;40K
+1;Pedro Kantor;Space Marines;90;40K
+1;Forgefiend;World Eaters;165;40K
+1;Predator Annihilator;Space Marines;135;40K
+1;Maulerfiend;World Eaters;150;40K
+1;Predator Destructor;Space Marines;140;40K
+1;Chaos Rhino;World Eaters;85;40K
+1;Redemptor Dreadnought;Space Marines;205;40K
+1;Heldrake;World Eaters;200;40K
+5;Reiver Squad;Space Marines;80;40K
+10;Reiver Squad;Space Marines;160;40K
+1;Khorne Lord of Skulls;World Eaters;505;40K
+1;Relic Contemptor Dreadnought;Space Marines;140;40K
+1;Relic Razorback;Space Marines;105;40K
+1;Repulsor;Space Marines;180;40K
+1;Repulsor Executioner;Space Marines;230;40K
+1;Rhino;Space Marines;75;40K
+1;Thunderhawk Transporter;Space Marines;495;40K
+5;Tyrannic War Veterans;Space Marines;85;40K
+1;Vulkan He’stan;Space Marines;100;40K
+1;Whirlwind;Space Marines;190;40K
+5;Barbgaunts;Tyranids;55;40K
+10;Barbgaunts;Tyranids;110;40K
+1;Whirlwind Scorpius;Space Marines;115;40K
+1;Xiphon Interceptor;Space Marines;115;40K
+11;Neurogaunts;Tyranids;45;40K
+22;Neurogaunts;Tyranids;90;40K
+5;Death Company Marines With Jump Packs;Space Marines;120;40K
+10;Death Company Marines With Jump Packs;Space Marines;230;40K
+1;Sanguinary Priest With Jump Pack;Space Marines;100;40K
+1;Neurotyrant;Tyranids;105;40K
+3;Ravenwing Command Squad;Space Marines;120;40K
+1;Psychophage;Tyranids;110;40K
+4;Company Heroes;Space Marines;105;40K
+1;Screamer-killer;Tyranids;125;40K
+1;Apothecary;Space Marines;50;40K
+3;Tyranid Warriors With Melee Bio-weapons;Tyranids;75;40K
+6;Tyranid Warriors With Melee Bio-weapons;Tyranids;150;40K
+1;Ancient;Space Marines;50;40K
+5;Assault Intercessors With Jump Packs;Space Marines;90;40K
+10;Assault Intercessors With Jump Packs;Space Marines;170;40K
+3;Tyranid Warriors With Ranged Bio-weapons;Tyranids;65;40K
+6;Tyranid Warriors With Ranged Bio-weapons;Tyranids;130;40K
+10;Spectrus Kill Team;Space Marines;180;40K
+10;Fortis Kill Team;Space Marines;180;40K
+3;Von Ryan’s Leapers;Tyranids;70;40K
+6;Von Ryan’s Leapers;Tyranids;140;40K
+10;Indomitor Kill Team;Space Marines;265;40K
+5;Deathwatch Veterans;Space Marines;100;40K
+10;Deathwatch Veterans;Space Marines;190;40K
+1;Winged Tyranid Prime;Tyranids;65;40K
+1;Impulsor;Space Marines;85;40K
+1;Gladiator Lancer;Space Marines;160;40K
+1;Gladiator Valiant;Space Marines;150;40K
+1;Gladiator Reaper;Space Marines;160;40K
+1;Repulsor Executioner;Space Marines;235;40K
+1;Repulsor;Space Marines;180;40K
+4;Chaplain Grimaldus;Space Marines;110;40K
+1;Castellan;Space Marines;70;40K
+1;High Marshal Helbrecht;Space Marines;120;40K
+1;Emperor’s Champion;Space Marines;100;40K
+1;Marshal;Space Marines;80;40K
+4;Sword Brethren Squad;Space Marines;105;40K
+5;Sword Brethren Squad;Space Marines;130;40K
+9;Sword Brethren Squad;Space Marines;235;40K
+10;Sword Brethren Squad;Space Marines;260;40K
+1+5+4;Crusader Squad;Space Marines;150;40K
+1+11+8;Crusader Squad;Space Marines;300;40K
+1;Venerable Dreadnought;Space Marines;130;40K
+1;Wolf Guard Pack Leader With Jump Pack;Space Marines;35;40K
+1;Wolf Guard Pack Leader In Terminator Armour;Space Marines;40;40K
+1;Wolf Guard Pack Leader;Space Marines;30;40K
+1;Cyberwolf;Space Marines;20;40K
+5;Hounds Of Morkai;Space Marines;80;40K
+10;Hounds Of Morkai;Space Marines;160;40K
+3;Inner Circle Companions;Space Marines;90;40K
+6;Inner Circle Companions;Space Marines;180;40K
+1;Blood Angels Captain;Space Marines;80;40K
+1;Death Company Captain;Space Marines;70;40K
+1;Death Company Captain with Jump Pack;Space Marines;75;40K
+1;Death Company Dreadnought with Magna-grapple;Space Marines;145;40K
+5;Death Company Marines with Boltguns;Space Marines;125;40K
+10;Death Company Marines with Boltguns;Space Marines;250;40K
+5;Death Company Marines with Boltguns and Jump Packs;Space Marines;140;40K
+10;Death Company Marines with Boltguns and Jump Packs;Space Marines;280;40K
+1;Norn Emissary;Tyranids;260;40K
+1;Norn Assimilator;Tyranids;275;40K
+1;Neurolictor;Tyranids;70;40K
+1;Exalted Sorcerer on Disc of Tzeentch;Thousand Sons;100;40K
+1;Daemon Prince of Khorne with Wings;World Eaters;180;40K
+3;Crisis Sunforge Battlesuits;T’au Empire;140;40K
+3;Crisis Fireknife Battlesuits;T’au Empire;120;40K
+3;Crisis Starscythe Battlesuits;T’au Empire;110;40K
+1;Kroot Trail Shaper;T’au Empire;55;40K
+1;Kroot War Shaper;T’au Empire;50;40K
+1;Wall Of Martyrs Bunker;Unaligned Forces;180;40K
+1;Kroot Flesh Shaper;T’au Empire;45;40K
+1;Wall Of Martyrs Defence Line;Unaligned Forces;140;40K
+2;Wall Of Martyrs Defence Line;Unaligned Forces;280;40K
+1;Kroot Lone-Spear;T’au Empire;80;40K
+3;Krootox Rampagers;T’au Empire;85;40K
+6;Krootox Rampagers;T’au Empire;170;40K
+1;Wall Of Martyrs Defence Emplacement;Unaligned Forces;140;40K
+1;Aegis Defence Line With Weapon Emplacement;Unaligned Forces;145;40K
+1;Blood Slaughterer;World Eaters;160;40K
+1;Chaos Thunderhawk;World Eaters;840;40K
+1;Greater Brass Scorpion;World Eaters;500;40K
+1;Kytan Ravager;World Eaters;400;40K
+1;Chaos Thunderhawk;Thousand Sons;840;40K
+1;Chaos Lord On Disc Of Tzeentch;Thousand Sons;100;40K
+1;Hell Blade;Thousand Sons;115;40K
+1;Hell Talon;Thousand Sons;140;40K
+1;Hell Blade;World Eaters;115;40K
+1;Hell Talon;World Eaters;140;40K
+1;Terrax-pattern Termite;Thousand Sons;200;40K
+1;Terrax-pattern Termite;World Eaters;200;40K
+1;Land Raider Achilles;Thousand Sons;230;40K
+1;Land Raider Achilles;World Eaters;230;40K
+1;Land Raider Proteus;Thousand Sons;220;40K
+1;Land Raider Proteus;World Eaters;220;40K
+1;Fire Raptor Gunship;Thousand Sons;290;40K
+1;Spartan;Thousand Sons;300;40K
+1;Deredeo Dreadnought;Thousand Sons;160;40K
+1;Cerberus;Thousand Sons;270;40K
+1;Fire Raptor Gunship;World Eaters;290;40K
+1;Kratos;Thousand Sons;240;40K
+1;Sokar-pattern Stormbird;Thousand Sons;900;40K
+1;Sicaran Battle Tank;Thousand Sons;160;40K
+1;Mastodon;Thousand Sons;540;40K
+1;Spartan;World Eaters;300;40K
+1;Leviathan Dreadnought;Thousand Sons;160;40K
+1;Fellblade;Thousand Sons;480;40K
+1;Relic Contemptor Dreadnought;Thousand Sons;140;40K
+1;Whirlwind Scorpius;Thousand Sons;115;40K
+1;Deredeo Dreadnought;World Eaters;160;40K
+1;Xiphon Interceptor;Thousand Sons;115;40K
+1;Rapier Carrier;Thousand Sons;90;40K
+1;Storm Eagle Gunship;Thousand Sons;250;40K
+1;Sicaran Venator;Thousand Sons;180;40K
+1;Cerberus;World Eaters;270;40K
+1;Typhon;Thousand Sons;320;40K
+1;Sicaran Punisher;Thousand Sons;160;40K
+1;Falchion;Thousand Sons;420;40K
+1;Kratos;World Eaters;240;40K
+1;Sokar-pattern Stormbird;World Eaters;900;40K
+1;Sicaran Battle Tank;World Eaters;160;40K
+1;Mastodon;World Eaters;540;40K
+1;Leviathan Dreadnought;World Eaters;160;40K
+1;Fellblade;World Eaters;480;40K
+1;Relic Contemptor Dreadnought;World Eaters;140;40K
+1;Whirlwind Scorpius;World Eaters;115;40K
+1;Xiphon Interceptor;World Eaters;115;40K
+1;Rapier Carrier;World Eaters;90;40K
+1;Storm Eagle Gunship;World Eaters;250;40K
+1;Sicaran Venator;World Eaters;180;40K
+1;Typhon;World Eaters;320;40K
+1;Sicaran Punisher;World Eaters;160;40K
+1;Falchion;World Eaters;420;40K
+10;Traitor Guardsmen Squad;Chaos Knights;70;40K
+7;Gellerpox Infected;Chaos Knights;125;40K
+16;Mutoid Vermin;Chaos Knights;85;40K
+4;Negavolt Cultists;Chaos Knights;55;40K
+3;Renegade Heavy Weapons Squad;Chaos Knights;75;40K
+4;Renegade Ogryn Beast Handler;Chaos Knights;40;40K
+7;Renegade Ogryn Beast Handler;Chaos Knights;70;40K
+3;Renegade Ogryn Brutes;Chaos Knights;95;40K
+3;Renegade Plague Ogryns;Chaos Knights;95;40K
+6;Breaka Boyz;Orks;140;40K
+1;Watch Master;Space Marines;95;40K
+1;Watch Captain Artemis;Space Marines;65;40K
+5;Deathwatch Terminator Squad;Space Marines;190;40K
+10;Deathwatch Terminator Squad;Space Marines;350;40K
+10;Talonstrike Kill Team;Space Marines;275;40K
+11;Kill Team Cassius;Space Marines;220;40K
+5;Nemesis Claw;Chaos Space Marines;110;40K
+10;Nemesis Claw;Chaos Space Marines;190;40K
+1;Deathleaper;Genestealer Cults;80;40K
+1;Parasite Of Mortrex;Genestealer Cults;80;40K
+1;Winged Hive Tyrant;Genestealer Cults;170;40K
+1;Winged Tyranid Prime;Genestealer Cults;65;40K
+10;Gargoyles;Genestealer Cults;85;40K
+20;Gargoyles;Genestealer Cults;170;40K
+1;Tyrannocyte;Genestealer Cults;105;40K
+1;Lictor;Genestealer Cults;60;40K
+1;Mawloc;Genestealer Cults;135;40K
+1;Neurolictor;Genestealer Cults;70;40K
+5;Raveners;Genestealer Cults;125;40K
+1;Trygon;Genestealer Cults;140;40K
+3;Von Ryan’s Leapers;Genestealer Cults;70;40K
+6;Von Ryan’s Leapers;Genestealer Cults;140;40K
+6;Krieg Command Squad;Astra Militarum;65;40K
+1;Lord Marshal Dreir;Astra Militarum;100;40K
+5;Catachan Command Squad;Astra Militarum;65;40K
+1;Rogal Dorn Commander;Astra Militarum;290;40K
+5;Krieg Combat Engineers;Astra Militarum;60;40K
+10;Krieg Combat Engineers;Astra Militarum;95;40K
+3;Catachan Heavy Weapons Squad;Astra Militarum;65;40K
+4;Krieg Heavy Weapons Squad;Astra Militarum;75;40K
+1;Artillery Team;Astra Militarum;95;40K
+2;Field Ordnance Battery;Astra Militarum;110;40K
+5;Death Riders;Astra Militarum;60;40K
+10;Death Riders;Astra Militarum;120;40K
+1;Lhykhis;Aeldari;135;40K
+1;D-cannon Platform;Aeldari;125;40K
+1;Shadow Weaver Platform;Aeldari;75;40K
+1;Vibro Cannon Platform;Aeldari;60;40K
+1;Wraithknight with Ghostglaive;Aeldari;420;40K
+1;Ynnari Archon;Aeldari;85;40K
+1;Ynnari Succubus;Aeldari;45;40K
+10;Ynnari Kabalite Warriors;Aeldari;110;40K
+10;Ynnari Wyches;Aeldari;90;40K
+5;Ynnari Incubi;Aeldari;85;40K
+10;Ynnari Incubi;Aeldari;170;40K
+3;Ynnari Reavers;Aeldari;65;40K
+6;Ynnari Reavers;Aeldari;120;40K
+1;Ynnari Raider;Aeldari;80;40K
+1;Ynnari Venom;Aeldari;70;40K
+5;Hell’s Last;Astra Militarum;80;40K
+1;Provisionally Prepared;Astra Militarum;40;40K
+1;Cadian Castellan;Genestealer Cults;55;40K
+5;Cadian Command Squad;Genestealer Cults;65;40K
+5;Catachan Command Squad;Genestealer Cults;65;40K
+6;Krieg Command Squad;Genestealer Cults;65;40K
+1;Leman Russ Commander;Genestealer Cults;235;40K
+1;Primaris Psyker;Genestealer Cults;60;40K
+1;Rogal Dorn Commander;Genestealer Cults;290;40K
+1;Death Rider Commissar;Genestealer Cults;35;40K
+5;Quartermaster Cadre Squad;Genestealer Cults;45;40K
+5;Hell’s Last;Genestealer Cults;80;40K
+10;Cadian Shock Troops;Genestealer Cults;65;40K
+20;Cadian Shock Troops;Genestealer Cults;120;40K
+10;Catachan Jungle Fighters;Genestealer Cults;65;40K
+20;Catachan Jungle Fighters;Genestealer Cults;120;40K
+10;Death Korps Of Krieg;Genestealer Cults;65;40K
+20;Death Korps Of Krieg;Genestealer Cults;145;40K
+1;Chimera;Genestealer Cults;85;40K
+1;Taurox;Genestealer Cults;75;40K
+1;Taurox Prime;Genestealer Cults;90;40K
+1;Storm Chimera;Genestealer Cults;90;40K
+1;Aegis Defence Line;Genestealer Cults;145;40K
+1;Earthshaker Platform;Genestealer Cults;110;40K
+1;Hydra Platform;Genestealer Cults;95;40K
+1;Manticore Platform;Genestealer Cults;95;40K
+1;Sabre Weapons Battery;Genestealer Cults;45;40K
+2;Sabre Weapons Battery;Genestealer Cults;90;40K
+1;Armoured Sentinels;Genestealer Cults;65;40K
+2;Armoured Sentinels;Genestealer Cults;130;40K
+1;Artillery Team;Genestealer Cults;95;40K
+5;Attilan Rough Riders;Genestealer Cults;60;40K
+10;Attilan Rough Riders;Genestealer Cults;120;40K
+1;Baneblade;Genestealer Cults;450;40K
+1;Banehammer;Genestealer Cults;420;40K
+1;Banesword;Genestealer Cults;450;40K
+1;Basilisk;Genestealer Cults;140;40K
+3;Cadian Heavy Weapons Squad;Genestealer Cults;65;40K
+3;Catachan Heavy Weapons Squad;Genestealer Cults;65;40K
+5;Death Riders;Genestealer Cults;60;40K
+10;Death Riders;Genestealer Cults;120;40K
+1;Deathstrike;Genestealer Cults;145;40K
+1;Doomhammer;Genestealer Cults;415;40K
+2;Field Ordnance Battery;Genestealer Cults;110;40K
+1;Hellhammer;Genestealer Cults;420;40K
+1;Hellhound;Genestealer Cults;125;40K
+1;Hydra;Genestealer Cults;95;40K
+10;Kasrkin;Genestealer Cults;110;40K
+5;Krieg Combat Engineers;Genestealer Cults;60;40K
+10;Krieg Combat Engineers;Genestealer Cults;95;40K
+4;Krieg Heavy Weapons Squad;Genestealer Cults;75;40K
+1;Leman Russ Battle Tank;Genestealer Cults;185;40K
+1;Leman Russ Demolisher;Genestealer Cults;190;40K
+1;Leman Russ Eradicator;Genestealer Cults;170;40K
+1;Leman Russ Executioner;Genestealer Cults;170;40K
+1;Leman Russ Exterminator;Genestealer Cults;180;40K
+1;Leman Russ Punisher;Genestealer Cults;150;40K
+1;Leman Russ Vanquisher;Genestealer Cults;145;40K
+1;Manticore;Genestealer Cults;165;40K
+1;Rogal Dorn Battle Tank;Genestealer Cults;260;40K
+1;Scout Sentinels;Genestealer Cults;55;40K
+2;Scout Sentinels;Genestealer Cults;110;40K
+1;Shadowsword;Genestealer Cults;410;40K
+1;Stormlord;Genestealer Cults;430;40K
+1;Stormsword;Genestealer Cults;465;40K
+1;Wyvern;Genestealer Cults;110;40K
+1;Cyclops Demolition Vehicle;Genestealer Cults;25;40K
+1;Arkurian Stormhammer;Genestealer Cults;480;40K
+1;Armageddon-pattern Medusa;Genestealer Cults;105;40K
+1;Atlas Recovery Vehicle;Genestealer Cults;80;40K
+1;Carnodon;Genestealer Cults;160;40K
+1;Centaur Light Carrier;Genestealer Cults;40;40K
+1;Colossus;Genestealer Cults;160;40K
+1;Crassus;Genestealer Cults;180;40K
+10;Death Korps Grenadier Squad;Genestealer Cults;110;40K
+1;Dominus Armoured Siege Bombard;Genestealer Cults;325;40K
+1;Earthshaker Carriage Battery;Genestealer Cults;120;40K
+1;Elysian Drop Sentinel;Genestealer Cults;85;40K
+3;Elysian Sniper Squad;Genestealer Cults;65;40K
+1;Gorgon Heavy Transport;Genestealer Cults;275;40K
+1;Griffon Mortar Carrier;Genestealer Cults;115;40K
+1;Hades Breaching Drill;Genestealer Cults;110;40K
+1;Heavy Mortar Team;Genestealer Cults;50;40K
+1;Heavy Quad Launcher Team;Genestealer Cults;50;40K
+1;Macharius;Genestealer Cults;310;40K
+1;Macharius Omega;Genestealer Cults;310;40K
+1;Macharius Vanquisher;Genestealer Cults;285;40K
+1;Macharius Vulcan;Genestealer Cults;310;40K
+1;Malcador;Genestealer Cults;250;40K
+1;Malcador Annihilator;Genestealer Cults;270;40K
+1;Malcador Defender;Genestealer Cults;310;40K
+1;Malcador Infernus;Genestealer Cults;235;40K
+1;Medusa Carriage Battery;Genestealer Cults;125;40K
+1;Minotaur;Genestealer Cults;225;40K
+3;Mukaali Riders;Genestealer Cults;110;40K
+4;Munitorum Servitors;Genestealer Cults;35;40K
+1;Praetor;Genestealer Cults;275;40K
+1;Rapier Laser Destroyer Battery;Genestealer Cults;35;40K
+2;Rapier Laser Destroyer Battery;Genestealer Cults;70;40K
+3;Rapier Laser Destroyer Battery;Genestealer Cults;105;40K
+3;Regimental Attachés;Genestealer Cults;40;40K
+1;Salamander Command Vehicle;Genestealer Cults;80;40K
+1;Salamander Scout Vehicle;Genestealer Cults;95;40K
+1;Sentinel Powerlifter;Genestealer Cults;55;40K
+1;Stormblade;Genestealer Cults;415;40K
+1;Stygies Destroyer Tank Hunter;Genestealer Cults;180;40K
+1;Tarantula Battery;Genestealer Cults;40;40K
+2;Tarantula Battery;Genestealer Cults;80;40K
+3;Tarantula Battery;Genestealer Cults;120;40K
+1;Tauros Assault Vehicle;Genestealer Cults;50;40K
+1;Tauros Venator;Genestealer Cults;50;40K
+1;Trojan Support Vehicle;Genestealer Cults;80;40K
+1;Valdor;Genestealer Cults;285;40K
+1;Chaos Lord;Chaos Daemons;90;40K
+1;Chaos Lord In Terminator Armour;Chaos Daemons;85;40K
+1;Chaos Lord with Jump Pack;Chaos Daemons;80;40K
+1;Chaos Lord On Disc Of Tzeentch;Chaos Daemons;100;40K
+1;Chaos Lord On Juggernaut;Chaos Daemons;115;40K
+1;Chaos Lord On Palanquin Of Nurgle;Chaos Daemons;90;40K
+1;Chaos Lord On Steed Of Slaanesh;Chaos Daemons;100;40K
+5;Chaos Terminator Squad;Chaos Daemons;180;40K
+10;Chaos Terminator Squad;Chaos Daemons;360;40K
+5;Chosen;Chaos Daemons;125;40K
+10;Chosen;Chaos Daemons;250;40K
+1;Cultist Firebrand;Chaos Daemons;45;40K
+5;Dark Commune;Chaos Daemons;90;40K
+2;Traitor Enforcer;Chaos Daemons;55;40K
+1;Renegade Enforcer;Chaos Daemons;65;40K
+1;Rogue Psyker;Chaos Daemons;60;40K
+10;Cultist Mob;Chaos Daemons;50;40K
+20;Cultist Mob;Chaos Daemons;100;40K
+10;Cultist Mob with Firearms;Chaos Daemons;50;40K
+20;Cultist Mob with Firearms;Chaos Daemons;100;40K
+8;Accursed Cultists;Chaos Daemons;90;40K
+16;Accursed Cultists;Chaos Daemons;195;40K
+10;Fellgor Beastmen;Chaos Daemons;70;40K
+10;Traitor Guardsmen Squad;Chaos Daemons;70;40K
+7;Gellerpox Infected;Chaos Daemons;125;40K
+16;Mutoid Vermin;Chaos Daemons;85;40K
+4;Negavolt Cultists;Chaos Daemons;55;40K
+3;Renegade Heavy Weapons Squad;Chaos Daemons;75;40K
+4;Renegade Ogryn Beast Handler;Chaos Daemons;40;40K
+7;Renegade Ogryn Beast Handler;Chaos Daemons;70;40K
+3;Renegade Ogryn Brutes;Chaos Daemons;95;40K
+3;Renegade Plague Ogryns;Chaos Daemons;95;40K
+3;Dark Apostle;Chaos Daemons;65;40K
+5;Havocs;Chaos Daemons;125;40K
+5;Legionaries;Chaos Daemons;90;40K
+10;Legionaries;Chaos Daemons;170;40K
+1;Master Of Possession;Chaos Daemons;60;40K
+5;Possessed;Chaos Daemons;120;40K
+10;Possessed;Chaos Daemons;240;40K
+5;Raptors;Chaos Daemons;110;40K
+10;Raptors;Chaos Daemons;210;40K
+1;Sorcerer;Chaos Daemons;60;40K
+1;Sorcerer On Disc Of Tzeentch;Chaos Daemons;80;40K
+1;Sorcerer On Palanquin Of Nurgle;Chaos Daemons;80;40K
+1;Sorcerer On Steed Of Slaanesh;Chaos Daemons;85;40K
+1;Sorcerer In Terminator Armour;Chaos Daemons;80;40K
+5;Warp Talons;Chaos Daemons;125;40K
+10;Warp Talons;Chaos Daemons;270;40K
+9;Sanctifiers;Imperial Agents;100;40K
+9;Sanctifiers;Adepta Sororitas;110;40K
+8;Goremongers;World Eaters;75;40K
+1;Fulgrim;Emperor’s Children;340;40K
+1;Lord Exultant;Emperor’s Children;80;40K
+5;Tormentors;Emperor’s Children;85;40K
+10;Tormentors;Emperor’s Children;160;40K
+5;Infractors;Emperor’s Children;85;40K
+10;Infractors;Emperor’s Children;160;40K
+5;Chaos Terminators;Emperor’s Children;145;40K
+1;Chaos Land Raider;Emperor’s Children;220;40K
+1;Lucius the Eternal;Emperor’s Children;150;40K
+1;Lord Kakophonist;Emperor’s Children;70;40K
+1;Sorcerer;Emperor’s Children;60;40K
+1;Daemon Prince of Slaanesh;Emperor’s Children;180;40K
+1;Daemon Prince of Slaanesh with Wings;Emperor’s Children;215;40K
+6;Noise Marines;Emperor’s Children;145;40K
+3;Flawless Blades;Emperor’s Children;100;40K
+6;Flawless Blades;Emperor’s Children;200;40K
+2;Chaos Spawn;Emperor’s Children;70;40K
+1;Maulerfiend;Emperor’s Children;130;40K
+1;Heldrake;Emperor’s Children;195;40K
+1;Chaos Rhino;Emperor’s Children;80;40K
+1;Shalaxi Helbane;Emperor’s Children;340;40K
+10;Daemonettes;Emperor’s Children;90;40K
+3;Fiends;Emperor’s Children;95;40K
+6;Fiends;Emperor’s Children;190;40K
+1;Keeper of Secrets;Emperor’s Children;240;40K
+5;Seekers;Emperor’s Children;80;40K
+10;Seekers;Emperor’s Children;160;40K
+6;Noise Marines;Chaos Space Marines;145;40K
+1;Tormentbringer;Chaos Daemons;140;40K
+1;Hellflayer;Chaos Daemons;105;40K
+2;Hellflayer;Chaos Daemons;210;40K
+1;Karanak;Chaos Daemons;65;40K
+1;Slaughterbound;World Eaters;100;40K
+1;Skarbrand;World Eaters;305;40K
+1;Bloodthirster;World Eaters;305;40K
+10;Bloodletters;World Eaters;90;40K
+3;Bloodcrushers;World Eaters;110;40K
+6;Bloodcrushers;World Eaters;220;40K
+5;Flesh Hounds;World Eaters;75;40K
+10;Flesh Hounds;World Eaters;150;40K
+1;Lord of Poxes;Death Guard;75;40K
+1;Foetid Bloat-drone with Heavy Blight Launcher;Death Guard;120;40K
+1;Rotigus;Death Guard;265;40K
+1;Great Unclean One;Death Guard;250;40K
+10;Plaguebearers;Death Guard;110;40K
+3;Plague Drones;Death Guard;115;40K
+6;Plague Drones;Death Guard;230;40K
+1;Beasts of Nurgle;Death Guard;65;40K
+2;Beasts of Nurgle;Death Guard;130;40K
+3;Nurglings;Death Guard;40;40K
+6;Nurglings;Death Guard;70;40K
+5;Hyperadapted Raveners;Tyranids;165;40K
+5;Hyperadapted Raveners;Genestealer Cults;165;40K
+9;Servitor Battleclade;Adeptus Mechanicus;60;40K
+1;Daemon Prince of Tzeentch with Wings;Thousand Sons;170;40K
+2;Sekhetar Robots;Thousand Sons;80;40K
+4;Sekhetar Robots;Thousand Sons;160;40K
+3;Tzaangor Enlightened with Fatecaster Greatbows;Thousand Sons;55;40K
+6;Tzaangor Enlightened with Fatecaster Greatbows;Thousand Sons;110;40K
+1;Kairos Fateweaver;Thousand Sons;295;40K
+1;Lord of Change;Thousand Sons;285;40K
+3;Flamers;Thousand Sons;65;40K
+6;Flamers;Thousand Sons;130;40K
+3;Screamers;Thousand Sons;80;40K
+6;Screamers;Thousand Sons;160;40K
+10;Pink Horrors;Thousand Sons;115;40K
+10;Blue Horrors;Thousand Sons;90;40K
+1;Wolf Priest;Space Marines;70;40K
+1;Wolf Guard Battle Leader;Space Marines;65;40K
+3;Wolf Guard Headtakers;Space Marines;85;40K
+3+3;Wolf Guard Headtakers;Space Marines;110;40K
+6;Wolf Guard Headtakers;Space Marines;170;40K
+6+6;Wolf Guard Headtakers;Space Marines;220;40K
+5;Wulfen with Storm Shields;Space Marines;100;40K
+10;Wulfen with Storm Shields;Space Marines;200;40K
+1;Wulfen Dreadnought;Space Marines;145;40K
+1;Knight Ruinator;Chaos Knights;355;40K
+1;Execrator;Space Marines;60;40K
+1;Crusade Ancient;Space Marines;55;40K
+5;Sternguard Veteran Squad;Space Marines;85;40K
+10;Sternguard Veteran Squad;Space Marines;170;40K
+5;Terminator Squad;Space Marines;175;40K
+10;Terminator Squad;Space Marines;330;40K
+1;Land Raider Crusader;Space Marines;220;40K
+1;Buri Aegnirssen;Leagues of Votann;95;40K
+1;Memnyr Strategist;Leagues of Votann;45;40K
+1;Arkanyst Evaluator;Leagues of Votann;65;40K
+3;Ironkin Steeljacks with Heavy Volkanite Disintegrators;Leagues of Votann;85;40K
+6;Ironkin Steeljacks with Heavy Volkanite Disintegrators;Leagues of Votann;170;40K
+3;Ironkin Steeljacks with Melee Weapons;Leagues of Votann;85;40K
+6;Ironkin Steeljacks with Melee Weapons;Leagues of Votann;170;40K
+2;Cthonian Earthshakers;Leagues of Votann;110;40K
+1;Kapricus Defenders;Leagues of Votann;70;40K
+2;Kapricus Defenders;Leagues of Votann;140;40K
+1;Kapricus Carrier;Leagues of Votann;75;40K
+1;Aethon Shaan;Space Marines;110;40K
+1;Knight Defender;Imperial Knights;415;40K
+1+4;Crusader Squad (Legendary);Space Marines;85;40K
+1+9;Crusader Squad (Legendary);Space Marines;150;40K
+1+4+5;Crusader Squad (Legendary);Space Marines;135;40K
+1+9+10;Crusader Squad (Legendary);Space Marines;290;40K
+1;Lady Malys;Drukhari;100;40K
+10;Hand of the Archon;Drukhari;125;40K
+5;Scourges with Shardcarbines;Drukhari;75;40K
+1;Death Jester;Drukhari;90;40K
+1;Shadowseer;Drukhari;60;40K
+1;Solitaire;Drukhari;115;40K
+1;Troupe Master;Drukhari;75;40K
+1;Starweaver;Drukhari;80;40K
+2;Skyweavers;Drukhari;95;40K
+4;Skyweavers;Drukhari;190;40K
+5;Troupe;Drukhari;85;40K
+6;Troupe;Drukhari;100;40K
+11;Troupe;Drukhari;190;40K
+12;Troupe;Drukhari;205;40K
+1;Voidweaver;Drukhari;125;40K
+1;Caanok Var;Space Marines;100;40K
+1;Suboden Khan;Space Marines;115;40K
+5;Corsair Voidreavers;Drukhari;65;40K
+10;Corsair Voidreavers;Drukhari;110;40K
+5;Corsair Voidscarred;Drukhari;80;40K
+10;Corsair Voidscarred;Drukhari;160;40K
+3;Corsair Cloud Dancer Band;Drukhari;105;40K
+4;Corsair Cloud Dancer Band;Drukhari;140;40K
+6;Corsair Cloud Dancer Band;Drukhari;210;40K
+7;Corsair Cloud Dancer Band;Drukhari;245;40K
+5;Corsair Reaver Band;Drukhari;125;40K
+6;Corsair Reaver Band;Drukhari;150;40K
+10;Corsair Reaver Band;Drukhari;250;40K
+11;Corsair Reaver Band;Drukhari;275;40K
+5;Corsair Skyreaver Band;Drukhari;125;40K
+6;Corsair Skyreaver Band;Drukhari;150;40K
+10;Corsair Skyreaver Band;Drukhari;250;40K
+11;Corsair Skyreaver Band;Drukhari;275;40K
+2;Inquisitor Ostromandeus;Imperial Agents;65;40K
+5;Aquila Kill Team;Imperial Agents;100;40K
+10;Aquila Kill Team;Imperial Agents;200;40K
+5;Decimus Kill Team;Space Marines;100;40K
+10;Decimus Kill Team;Space Marines;200;40K
+5;Canoptek Macrocytes;Necrons;85;40K
+2;Canoptek Tomb Crawlers;Necrons;50;40K
+1;Geomancer;Necrons;75;40K
+1;Judiciar Xacharus;Space Marines;75;40K
+1;Chaplain Kastiel;Space Marines;70;40K
+1;Da Red Gobbo’s Tinboy;Orks;45;40K
+6;Wolf Scouts;Space Marines;105;40K
+12;Wolf Scouts;Space Marines;210;40K
+1;Marneus Calgar in Armour of Antilochus;Space Marines;140;40K
+1;Cato Sicarius;Space Marines;95;40K
+3;Victrix Honour Guard;Space Marines;110;40K
+6;Victrix Honour Guard;Space Marines;220;40K
+1;Nekrosor Ammentar;Necrons;185;40K
+1;Captain Titus;Space Marines;90;40K
+6;Wardens of Ultramar;Space Marines;105;40K
+10;Celestian Insidiants;Adepta Sororitas;120;40K
+5;Masters of the Maelstrom;Chaos Space Marines;115;40K
+5;Red Corsairs Raiders;Chaos Space Marines;110;40K
+10;Red Corsairs Raiders;Chaos Space Marines;220;40K
+1;Red Corsairs Reave-Captain;Chaos Space Marines;75;40K
+1;Prince Yriel;Aeldari;95;40K
+1;Kharseth;Aeldari;95;40K
+1;Starfangs;Aeldari;75;40K
+2;Starfangs;Aeldari;150;40K
+5;Corsair Skyreavers;Aeldari;75;40K
+10;Corsair Skyreavers;Aeldari;150;40K
+1;Kharseth;Drukhari;95;40K
+1;Prince Yriel;Drukhari;95;40K
+5;Corsair Skyreavers;Drukhari;75;40K
+10;Corsair Skyreavers;Drukhari;150;40K
+1;Starfangs;Drukhari;75;40K
+2;Starfangs;Drukhari;150;40K
+1;Berehk Stornbröw;Leagues of Votann;95;40K
+1;Tyranid Prime with Lash Whip;Tyranids;65;40K
+2;The Twin Lance;T’au Empire;185;40K
+1;Ferren Areios;Space Marines;80;40K
+1;Kravek Morne;Chaos Space Marines;120;40K
+3;Mutilators;Chaos Space Marines;200;40K
+1;Defiler;World Eaters;250;40K
+1;Defiler;Emperor’s Children;250;40K
+1;Defiler;Death Guard;250;40K
+1;Thulia Ghuld;Adeptus Mechanicus;210;40K
+5;Hastarii Exterminators;Adeptus Mechanicus;135;40K
+5;Hastarii Fusiliers;Adeptus Mechanicus;145;40K
+1;Knight Destrier;Imperial Knights;250;40K
+1;Inquisitor Kroyle;Imperial Agents;100;40K
+1;Inquisitor Kroyle;Imperial Agents;100;40K
+1;Intranzia Fraye;Adepta Sororitas;150;40K
+1;Commissar Yarrick;Astra Militarum;150;40K
+1;Commissar Graves;Astra Militarum;110;40K
+1;Commissar Graves on Foot;Astra Militarum;65;40K
+1;Hippogriff AFV;Astra Militarum;70;40K
+2;Hippogriff AFV;Astra Militarum;140;40K
+1;Centaur RSV;Astra Militarum;85;40K
+1;Wazdakka Gutsmek;Orks;175;40K
+1;Centaur RSV;Genestealer Cults;85;40K
+1;Hippogriff AFV;Genestealer Cults;70;40K
+2;Hippogriff AFV;Genestealer Cults;140;40K
+10;Cadian Recon Squad;Astra Militarum;80;40K
+1;The Red Terror;Tyranids;130;40K
+1;The Red Terror;Genestealer Cults;130;40K

@@ -19,7 +19,7 @@
          "name": "Blood Bowl",
          "url": "https://raw.githubusercontent.com/miniatures-app-data/catalogue-data/refs/heads/main/catalogues/BB.csv",
          "updated": "2026-11-16",
-         "units": 600,
+         "units": 300,
          "note": "Indicative, non-official points"
        },
        {
@@ -33,21 +33,21 @@
          "name": "Horus Heresy",
          "url": "https://raw.githubusercontent.com/miniatures-app-data/catalogue-data/refs/heads/main/catalogues/HH.csv",
          "updated": "2026-11-16",
-         "units": 600,
+         "units": 800,
          "note": "Indicative, non-official points"
        },
        {
          "name": "The Old World",
          "url": "https://raw.githubusercontent.com/miniatures-app-data/catalogue-data/refs/heads/main/catalogues/ToW.csv",
          "updated": "2026-11-16",
-         "units": 600,
+         "units": 700,
          "note": "Indicative, non-official points"
        },
        {
          "name": "Legions Imperialis",
          "url": "https://raw.githubusercontent.com/miniatures-app-data/catalogue-data/refs/heads/main/catalogues/LI.csv",
          "updated": "2026-11-16",
-         "units": 600,
+         "units": 150,
          "note": "Indicative, non-official points"
        }
      ]

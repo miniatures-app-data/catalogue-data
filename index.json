@@ -1,0 +1,54 @@
+   {
+     "updated": "2026-11-16",
+     "catalogues": [
+       {
+         "name": "Warhammer 40k",
+         "url": "https://raw.githubusercontent.com/TON-PSEUDO/miniatures-catalogues/main/catalogues/40k.csv",
+         "updated": "2026-11-16",
+         "units": 1250,
+         "note": "Points indicatifs, non officiels"
+       },
+       {
+         "name": "Age of Sigmar",
+         "url": "https://raw.githubusercontent.com/TON-PSEUDO/miniatures-catalogues/main/catalogues/aos.csv",
+         "updated": "2026-11-16",
+         "units": 600,
+         "note": "Points indicatifs, non officiels"
+       },
+       {
+         "name": "Blood Bowl",
+         "url": "https://raw.githubusercontent.com/TON-PSEUDO/miniatures-catalogues/main/catalogues/BB.csv",
+         "updated": "2026-11-16",
+         "units": 600,
+         "note": "Points indicatifs, non officiels"
+       },
+       {
+         "name": "Middle Earth",
+         "url": "https://raw.githubusercontent.com/TON-PSEUDO/miniatures-catalogues/main/catalogues/MESBG.csv",
+         "updated": "2026-11-16",
+         "units": 600,
+         "note": "Points indicatifs, non officiels"
+       },
+       {
+         "name": "Horus Heresy",
+         "url": "https://raw.githubusercontent.com/TON-PSEUDO/miniatures-catalogues/main/catalogues/HH.csv",
+         "updated": "2026-11-16",
+         "units": 600,
+         "note": "Points indicatifs, non officiels"
+       },
+       {
+         "name": "The Old World",
+         "url": "https://raw.githubusercontent.com/TON-PSEUDO/miniatures-catalogues/main/catalogues/ToW.csv",
+         "updated": "2026-11-16",
+         "units": 600,
+         "note": "Points indicatifs, non officiels"
+       },
+       {
+         "name": "Legions Imperialis",
+         "url": "https://raw.githubusercontent.com/TON-PSEUDO/miniatures-catalogues/main/catalogues/LI.csv",
+         "updated": "2026-11-16",
+         "units": 600,
+         "note": "Points indicatifs, non officiels"
+       }
+     ]
+   }

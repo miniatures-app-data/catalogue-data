@@ -5,14 +5,14 @@
          "name": "Warhammer 40k",
          "url": "https://raw.githubusercontent.com/miniatures-app-data/catalogue-data/refs/heads/main/catalogues/40k.csv",
          "updated": "2026-11-16",
-         "units": 2000~,
+         "units": 2000,
          "note": "Indicative, non-official points"
        },
        {
          "name": "Age of Sigmar",
          "url": "https://raw.githubusercontent.com/miniatures-app-data/catalogue-data/refs/heads/main/catalogues/AOS.csv",
          "updated": "2026-11-16",
-         "units": 600~,
+         "units": 600,
          "note": "Indicative, non-official points"
        },
        {

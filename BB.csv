@@ -1,0 +1,302 @@
+﻿nb de fig par unité;nom de l'unité;faction;coût de l'unité;système de jeu
+1;Imperial Lineman;Imperial Nobility;45;BB
+1;Imperial Thrower;Imperial Nobility;75;BB
+1;Noble Blitzer;Imperial Nobility;105;BB
+1;Bodyguard;Imperial Nobility;90;BB
+1;Ogre;Imperial Nobility;140;BB
+1;Goblin Bruiser Lineman;Black Orc;45;BB
+1;Black Orc;Black Orc;90;BB
+1;Trained Troll;Black Orc;115;BB
+1;Imperial Lineman;Black Orc;45;BB
+1;Beastman Lineman;Chaos Chosen;60;BB
+1;Dark Elf Blitzer;Chaos Chosen;100;BB
+1;Chosen Blocker;Chaos Chosen;100;BB
+1;Bodyguard;Chaos Chosen;90;BB
+1;Imperial Lineman;Chaos Chosen;45;BB
+1;Minotaur;Chaos Chosen;150;BB
+1;Dark Elf Lineman;Dark Elf;70;BB
+1;Dark Elf Runner;Dark Elf;80;BB
+1;Imperial Thrower;Dark Elf;75;BB
+1;Dark Elf Blitzer;Dark Elf;100;BB
+1;Bodyguard;Dark Elf;90;BB
+1;Assassin;Dark Elf;85;BB
+1;Witch Elf;Dark Elf;110;BB
+1;Dwarf Lineman;Dwarf;70;BB
+1;Dwarf Runner;Dwarf;85;BB
+1;Imperial Thrower;Dwarf;75;BB
+1;Dwarf Blitzer;Dwarf;80;BB
+1;Troll Slayer;Dwarf;95;BB
+1;Deathroller;Dwarf;170;BB
+1;Imperial Lineman;Dwarf;45;BB
+1;Union Lineman;Elven Union;60;BB
+1;Union Thrower;Elven Union;75;BB
+1;Imperial Thrower;Elven Union;75;BB
+1;Union Catcher;Elven Union;100;BB
+1;Bodyguard;Elven Union;90;BB
+1;Union Blitzer;Elven Union;115;BB
+1;Goblin Lineman;Goblin;40;BB
+1;Dark Elf Blitzer;Goblin;100;BB
+1;Bomma;Goblin;45;BB
+1;Imperial Lineman;Goblin;45;BB
+1;Looney;Goblin;40;BB
+1;Fanatic;Goblin;70;BB
+1;Pogoer;Goblin;75;BB
+1;Doom Diver;Goblin;60;BB
+1;Trained Troll;Goblin;115;BB
+1;Imperial Thrower;Goblin;75;BB
+1;Halfling Hopeful Lineman;Halfling;30;BB
+1;Dark Elf Blitzer;Halfling;100;BB
+1;Halfling Hefty;Halfling;50;BB
+1;Imperial Thrower;Halfling;75;BB
+1;Halfling Catcher;Halfling;55;BB
+1;Altern Forest Treeman;Halfling;120;BB
+1;Human Lineman;Human;50;BB
+1;Dark Elf Blitzer;Human;100;BB
+1;Human Thrower;Human;80;BB
+1;Imperial Thrower;Human;75;BB
+1;Human Catcher;Human;65;BB
+1;Bodyguard;Human;90;BB
+1;Human Blitzer;Human;85;BB
+1;Halfling Hopeful Lineman;Human;30;BB
+1;Noble Blitzer;Human;105;BB
+1;Ogre;Human;140;BB
+1;Imperial Lineman;Human;45;BB
+1;Skink Lineman;Lizardmen;60;BB
+1;Chameleon Skink;Lizardmen;70;BB
+1;Imperial Thrower;Lizardmen;75;BB
+1;Saurus Blocker;Lizardmen;85;BB
+1;Goblin Bruiser Lineman;Lizardmen;45;BB
+1;Kroxigor;Lizardmen;140;BB
+1;Imperial Lineman;Lizardmen;45;BB
+1;Zombie Lineman;Necromantic Horror;40;BB
+1;Dark Elf Blitzer;Necromantic Horror;100;BB
+1;Ghoul Runner;Necromantic Horror;75;BB
+1;Imperial Thrower;Necromantic Horror;75;BB
+1;Wraith;Necromantic Horror;95;BB
+1;Werewolf;Necromantic Horror;125;BB
+1;Flesh Golem;Necromantic Horror;115;BB
+1;Rotter Lineman;Nurgle;35;BB
+1;Pestigor;Nurgle;75;BB
+1;Bodyguard;Nurgle;90;BB
+1;Bloater;Nurgle;115;BB
+1;Rotspawn;Nurgle;140;BB
+1;Imperial Lineman;Nurgle;45;BB
+1;Gnoblar Lineman;Ogre;15;BB
+1;Dark Elf Blitzer;Ogre;100;BB
+1;Ogre Runt Punter;Ogre;145;BB
+1;Imperial Lineman;Ogre;45;BB
+1;Ogre Blocker;Ogre;140;BB
+1;Ogre;Ogre;140;BB
+1;Imperial Lineman;Old World Alliance;45;BB
+1;Old World Human Blitzer;Old World Alliance;90;BB
+1;Old World Dwarf Blocker;Old World Alliance;75;BB
+1;Imperial Thrower;Old World Alliance;75;BB
+1;Old World Dwarf Runner;Old World Alliance;85;BB
+1;Ogre;Old World Alliance;140;BB
+1;Orc Lineman;Orc;50;BB
+1;Dark Elf Blitzer;Orc;100;BB
+1;Orc Thrower;Orc;65;BB
+1;Imperial Thrower;Orc;75;BB
+1;Orc Blitzer;Orc;80;BB
+1;Bodyguard;Orc;90;BB
+1;Big Un Blocker;Orc;90;BB
+1;Imperial Lineman;Orc;45;BB
+1;Skeleton Lineman;Shambling Undead;40;BB
+1;Zombie Lineman;Shambling Undead;40;BB
+1;Ghoul Runner;Shambling Undead;75;BB
+1;Bodyguard;Shambling Undead;90;BB
+1;Wight Blitzer;Shambling Undead;90;BB
+1;Imperial Thrower;Shambling Undead;75;BB
+1;Mummy;Shambling Undead;125;BB
+1;Skaven Lineman;Skaven;50;BB
+1;Dark Elf Blitzer;Skaven;100;BB
+1;Skaven Thrower;Skaven;85;BB
+1;Imperial Thrower;Skaven;75;BB
+1;Gutter Runner;Skaven;85;BB
+1;Bodyguard;Skaven;90;BB
+1;Skaven Blitzer;Skaven;90;BB
+1;Rat Ogre;Skaven;150;BB
+1;Imperial Lineman;Skaven;45;BB
+1;Snotling Lineman;Snotling;15;BB
+1;Dark Elf Blitzer;Snotling;100;BB
+1;Fungus Flinga;Snotling;30;BB
+1;Imperial Thrower;Snotling;75;BB
+1;Fun-hoppa;Snotling;20;BB
+1;Stilty Runna;Snotling;20;BB
+1;Pump Wagon;Snotling;105;BB
+1;Trained Troll;Snotling;115;BB
+1;Goblin Bruiser Lineman;Underworld Denizens;45;BB
+1;Noble Blitzer;Underworld Denizens;105;BB
+1;Imperial Lineman;Underworld Denizens;45;BB
+1;Wood Elf Lineman;Wood Elf;70;BB
+1;Wood Elf Thrower;Wood Elf;95;BB
+1;Imperial Thrower;Wood Elf;75;BB
+1;Wood Elf Catcher;Wood Elf;90;BB
+1;Bodyguard;Wood Elf;90;BB
+1;Wardancer;Wood Elf;125;BB
+1;Imperial Lineman;Wood Elf;45;BB
+1;Renegade Human Thrower;Chaos Renegade;75;BB
+1;Imperial Lineman;Chaos Renegade;45;BB
+1;Renegade Dark Elf;Chaos Renegade;75;BB
+1;Rat Ogre;Chaos Renegade;150;BB
+1;Tribal Linewoman;Amazon (ToL);50;BB
+1;Dark Elf Blitzer;Amazon (ToL);100;BB
+1;Eagle Warrior Thrower;Amazon (ToL);75;BB
+1;Imperial Thrower;Amazon (ToL);75;BB
+1;Piranha Warrior Catcher;Amazon (ToL);75;BB
+1;Koka Kalim Blitzer;Amazon (ToL);90;BB
+1;Bodyguard;Amazon (ToL);90;BB
+1;Hobgoblin Lineman;Chaos Dwarf (ToL);40;BB
+1;Dark Elf Blitzer;Chaos Dwarf (ToL);100;BB
+1;Chaos Dwarf Blocker;Chaos Dwarf (ToL);70;BB
+1;Goblin Bruiser Lineman;Chaos Dwarf (ToL);45;BB
+1;Bull Centaur Blitzer;Chaos Dwarf (ToL);130;BB
+1;Imperial Thrower;Chaos Dwarf (ToL);75;BB
+1;Imperial Lineman;Chaos Dwarf (ToL);45;BB
+1;High Elf Lineman;High Elf;70;BB
+1;Dark Elf Blitzer;High Elf;100;BB
+1;High Elf Thrower;High Elf;100;BB
+1;Imperial Thrower;High Elf;75;BB
+1;High Elf Catcher;High Elf;90;BB
+1;Bodyguard;High Elf;90;BB
+1;High Elf Blitzer;High Elf;100;BB
+1;Norse Lineman;Norse (ToL);50;BB
+1;Norse Thrower;Norse (ToL);70;BB
+1;Imperial Thrower;Norse (ToL);75;BB
+1;Norse Catcher;Norse (ToL);90;BB
+1;Norse Berserker;Norse (ToL);90;BB
+1;Ulfwerner;Norse (ToL);105;BB
+1;Yhetee;Norse (ToL);140;BB
+1;Imperial Lineman;Norse (ToL);45;BB
+1;Skeleton Lineman;Tomb Kings;40;BB
+1;Dark Elf Blitzer;Tomb Kings;100;BB
+1;Anointed Thrower;Tomb Kings;70;BB
+1;Imperial Thrower;Tomb Kings;75;BB
+1;Anointed Blitzer;Tomb Kings;90;BB
+1;Tomb Guardian;Tomb Kings;100;BB
+1;Bodyguard;Tomb Kings;90;BB
+1;Thrall Lineman;Vampire (ToL);40;BB
+1;Vampire Blitzer;Vampire (ToL);110;BB
+1;Goblin Bruiser Lineman;Vampire (ToL);45;BB
+1;Pit Fighter;Daemons of Khorne;60;BB
+1;Dark Elf Blitzer;Daemons of Khorne;100;BB
+1;Bloodletter Daemon;Daemons of Khorne;80;BB
+1;Bodyguard;Daemons of Khorne;90;BB
+1;Khorne Herald;Daemons of Khorne;90;BB
+1;Imperial Thrower;Daemons of Khorne;75;BB
+1;Bloodthirster;Daemons of Khorne;180;BB
+1;Imperial Lineman;Daemons of Khorne;45;BB
+1;Lineman;Slann;60;BB
+1;Dark Elf Blitzer;Slann;100;BB
+1;Catcher;Slann;80;BB
+1;Bodyguard;Slann;90;BB
+1;Blitzer;Slann;110;BB
+1;Kroxigor;Slann;140;BB
+1;Imperial Lineman;Slann;45;BB
+1;Bloodborn Marauder;Khorne;50;BB
+1;Dark Elf Blitzer;Khorne;100;BB
+1;Khorngor;Khorne;70;BB
+1;Bodyguard;Khorne;90;BB
+1;Bloodseeker;Khorne;110;BB
+1;Bloodspawn;Khorne;160;BB
+1;Imperial Lineman;Khorne;45;BB
+1;Norse Raider Lineman;Norse;50;BB
+1;Dark Elf Blitzer;Norse;100;BB
+1;Beer Boar;Norse;20;BB
+1;Imperial Thrower;Norse;75;BB
+1;Norse Berserker;Norse;90;BB
+1;Valkyrie;Norse;95;BB
+1;Ulfwerener;Norse;105;BB
+1;Yhetee;Norse;140;BB
+1;Imperial Lineman;Norse;45;BB
+1;Eagle Warrior Linewoman;Amazon;50;BB
+1;Dark Elf Blitzer;Amazon;100;BB
+1;Piranha Warrior Blitzer;Amazon;90;BB
+1;Imperial Thrower;Amazon;75;BB
+1;Python Warrior Thrower;Amazon;80;BB
+1;Jaguar Warrior Blocker;Amazon;110;BB
+1;Thrall Lineman;Vampire;40;BB
+1;Vampire Thrower;Vampire;110;BB
+1;Imperial Thrower;Vampire;75;BB
+1;Vampire Blitzer;Vampire;110;BB
+1;Vampire Runner;Vampire;100;BB
+1;Vargheist;Vampire;150;BB
+1;Imperial Lineman;Vampire;45;BB
+1;Gnome Lineman;Gnome;40;BB
+1;Dark Elf Blitzer;Gnome;100;BB
+1;Altern Forest Treeman;Gnome;120;BB
+1;Imperial Thrower;Gnome;75;BB
+1;Gnome Beastmaster;Gnome;55;BB
+1;Gnome Illusionist;Gnome;50;BB
+1;Woodland Fox;Gnome;50;BB
+1;Hobgoblin Lineman;Chaos Dwarf;40;BB
+1;Dark Elf Blitzer;Chaos Dwarf;100;BB
+1;Hobgoblin Sneaky Stabbas;Chaos Dwarf;70;BB
+1;Imperial Thrower;Chaos Dwarf;75;BB
+1;Bodyguard;Chaos Dwarf;90;BB
+1;Chaos Dwarf Flamesmith;Chaos Dwarf;80;BB
+1;Imperial Lineman;Chaos Dwarf;45;BB
+1;The Black Gobbo;Star Players;225;BB
+1;Deeproot Strongbranch;Star Players;280;BB
+1;Eldril Sidewinder;Star Players;230;BB
+1;Glart Smarshrip;Star Players;195;BB
+1;Gloriel Summerbloom;Star Players;150;BB
+2;Grak & Crumbleberry;Star Players;250;BB
+1;Gretchen Wächter;Star Players;260;BB
+1;Griff Oberwald;Star Players;280;BB
+1;Grim Ironjaw;Star Players;200;BB
+1;Hakflem Skuttlespike;Star Players;210;BB
+1;Helmut Wulf;Star Players;140;BB
+1;Karla Von Kill;Star Players;210;BB
+1;Lord Borak;Star Players;260;BB
+1;Mighty Zug;Star Players;220;BB
+1;Morg;Star Players;380;BB
+1;Roxanna Darknail;Star Players;270;BB
+1;Rumbelow Sheepskin;Star Players;170;BB
+1;Skrull Halfheight;Star Players;150;BB
+2;Lucian & Valen Swift;Star Players;340;BB
+1;Varag Ghoul-Chewer;Star Players;280;BB
+1;Grombrindal, the White Dwarf;Star Players;210;BB
+1;Willow Rosebark;Star Players;150;BB
+1;Zolcath the Zoat;Star Players;230;BB
+1;Akhorne the Squirrel;Star Players;80;BB
+1;Frank;Star Players;250;BB
+1;Wilhelm Chaney;Star Players;220;BB
+1;"Kreek, ""The Verminator"" Rustgouger";Star Players;170;BB
+1;Grashnak Blackhoof;Star Players;240;BB
+1;"Bryce ""The Slice"" Cambuel";Star Players;130;BB
+1;Scyla Anfingrimm;Star Players;200;BB
+1;Max Spleenripper;Star Players;130;BB
+1;Barik Farblast;Star Players;80;BB
+1;Bomber Dribblesnot;Star Players;50;BB
+1;Fungus the Loon;Star Players;80;BB
+1;Ivar Eriksson;Star Players;245;BB
+1;Skrorg Snowpelt;Star Players;250;BB
+1;Thorsson Stoutmead;Star Players;170;BB
+1;Boa Kon’ssstriktr;Star Players;200;BB
+1;Estelle la Veneaux;Star Players;190;BB
+1;Glotl Stop;Star Players;270;BB
+1;Puggy Baconbreath;Star Players;120;BB
+1;Cindy Piewhistle;Star Players;50;BB
+2;Dribl & Drull;Star Players;190;BB
+1;Bilerot Vomitflesh;Star Players;180;BB
+1;Ripper Bolgrot;Star Players;250;BB
+1;Nobbla Blackwart;Star Players;120;BB
+1;Scrappa Sorehead;Star Players;130;BB
+1;Withergrasp Doubledrool;Star Players;170;BB
+1;Ivan;Star Players;190;BB
+1;Count Luthor von Drakenborg;Star Players;340;BB
+1;Captain Karina von Riesz;Star Players;230;BB
+1;Skitter Stab-Stab;Star Players;150;BB
+1;Rodney Roachbait;Star Players;70;BB
+1;Rowana Forestfoot;Star Players;160;BB
+1;Kiroth Krakeneye;Star Players;160;BB
+1;Jordell Freshbreeze;Star Players;250;BB
+1;Zzharg Madeye;Star Players;130;BB
+1;H;Star Players;300;BB
+1;Rashnack Backstabber;Star Players;130;BB
+1;Anqi Panqi;Star Players;190;BB
+1;Swiftvine Glimmershard;Star Players;110;BB
+1;Maple Highgrove;Star Players;210;BB
+1;Guffle Pussmaw;Star Players;180;BB
+1;Jeremiah Kool;Star Players;320;BB

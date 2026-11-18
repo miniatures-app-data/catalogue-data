@@ -3,7 +3,7 @@
      "catalogues": [
        {
          "name": "Warhammer 40k",
-         "url": "https://raw.githubusercontent.com/miniatures-app-data/catalogue-data/refs/heads/main/catalogues/40k.csv",
+         "url": "https://raw.githubusercontent.com/miniatures-app-data/catalogue-data/refs/heads/main/catalogues/40K.csv",
          "updated": "2026-11-16",
          "units": 2000,
          "note": "Indicative, non-official points"

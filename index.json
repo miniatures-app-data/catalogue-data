@@ -49,6 +49,69 @@
          "updated": "2026-11-16",
          "units": 150,
          "note": "Indicative, non-official points"
+       },
+       {
+         "name": "Kings of War",
+         "url": "https://raw.githubusercontent.com/miniatures-app-data/catalogue-data/refs/heads/main/catalogues/KoW.csv",
+         "updated": "2026-11-16",
+         "units": 150,
+         "note": "Indicative, non-official points"
+       },
+       {
+         "name": "Infinity Corvus Belli",
+         "url": "https://raw.githubusercontent.com/miniatures-app-data/catalogue-data/refs/heads/main/catalogues/INF.csv",
+         "updated": "2026-11-16",
+         "units": 150,
+         "note": "Indicative, non-official points"
+       },
+       {
+         "name": "Bolt Action",
+         "url": "https://raw.githubusercontent.com/miniatures-app-data/catalogue-data/refs/heads/main/catalogues/BA.csv",
+         "updated": "2026-11-16",
+         "units": 150,
+         "note": "Indicative, non-official points"
+       },
+       {
+         "name": "Marvel Crisis Protocol",
+         "url": "https://raw.githubusercontent.com/miniatures-app-data/catalogue-data/refs/heads/main/catalogues/MCP.csv",
+         "updated": "2026-11-16",
+         "units": 150,
+         "note": "Indicative, non-official points"
+       },
+       {
+         "name": "Star Wars Aramada",
+         "url": "https://raw.githubusercontent.com/miniatures-app-data/catalogue-data/refs/heads/main/catalogues/Armada.csv",
+         "updated": "2026-11-16",
+         "units": 150,
+         "note": "Indicative, non-official points"
+       },
+       {
+         "name": "Star Wars Legion",
+         "url": "https://raw.githubusercontent.com/miniatures-app-data/catalogue-data/refs/heads/main/catalogues/SWLegion.csv",
+         "updated": "2026-11-16",
+         "units": 150,
+         "note": "Indicative, non-official points"
+       },
+       {
+         "name": "A Song of Ice and Fire",
+         "url": "https://raw.githubusercontent.com/miniatures-app-data/catalogue-data/refs/heads/main/catalogues/ASOIAF.csv",
+         "updated": "2026-11-16",
+         "units": 150,
+         "note": "Indicative, non-official points"
+       },
+       {
+         "name": "Malifaux",
+         "url": "https://raw.githubusercontent.com/miniatures-app-data/catalogue-data/refs/heads/main/catalogues/malifaux.csv",
+         "updated": "2026-11-16",
+         "units": 150,
+         "note": "Indicative, non-official points"
+       },
+       {
+         "name": "Battletech",
+         "url": "https://raw.githubusercontent.com/miniatures-app-data/catalogue-data/refs/heads/main/catalogues/Battletech.csv",
+         "updated": "2026-11-16",
+         "units": 150,
+         "note": "Indicative, non-official points"
        }
      ]
    }

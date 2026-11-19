@@ -112,6 +112,13 @@
          "updated": "2026-11-16",
          "units": 150,
          "note": "Indicative, non-official points"
+       },
+       {
+         "name": "Frostgrave",
+         "url": "https://raw.githubusercontent.com/miniatures-app-data/catalogue-data/refs/heads/main/catalogues/Frost.csv",
+         "updated": "2026-11-16",
+         "units": 150,
+         "note": "Indicative, non-official points"
        }
      ]
    }
